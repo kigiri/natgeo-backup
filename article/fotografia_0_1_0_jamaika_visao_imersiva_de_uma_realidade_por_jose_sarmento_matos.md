@@ -1,7 +1,7 @@
 [facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.natgeo.pt%2Ffotografia%2F2021%2F04%2Fjamaika-visao-imersiva-de-uma-realidade-por-jose-sarmento-matos) [twitter](https://twitter.com/share?url=https%3A%2F%2Fwww.natgeo.pt%2Ffotografia%2F2021%2F04%2Fjamaika-visao-imersiva-de-uma-realidade-por-jose-sarmento-matos&via=natgeo&text=%22Jamaika%22%3A%20vis%C3%A3o%20imersiva%20de%20uma%20realidade%20por%20Jos%C3%A9%20Sarmento%20Matos) [whatsapp](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.natgeo.pt%2Ffotografia%2F2021%2F04%2Fjamaika-visao-imersiva-de-uma-realidade-por-jose-sarmento-matos) [flipboard](https://share.flipboard.com/bookmarklet/popout?v=2&title=%22Jamaika%22%3A%20vis%C3%A3o%20imersiva%20de%20uma%20realidade%20por%20Jos%C3%A9%20Sarmento%20Matos&url=https%3A%2F%2Fwww.natgeo.pt%2Ffotografia%2F2021%2F04%2Fjamaika-visao-imersiva-de-uma-realidade-por-jose-sarmento-matos) [mail](mailto:?subject=NatGeo&body=https%3A%2F%2Fwww.natgeo.pt%2Ffotografia%2F2021%2F04%2Fjamaika-visao-imersiva-de-uma-realidade-por-jose-sarmento-matos%20-%20%22Jamaika%22%3A%20vis%C3%A3o%20imersiva%20de%20uma%20realidade%20por%20Jos%C3%A9%20Sarmento%20Matos) [Fotografia](https://www.natgeo.pt/fotografia) 
 # "Jamaika": visão imersiva de uma realidade por José Sarmento Matos 
 ## O projeto Jamaika, do fotojornalista José Sarmento Matos em colaboração com moradores do bairro e o músico Kid Robinn, foi um dos trabalhos selecionados pela National Geographic Society para ser apoiado pelo Fundo de Emergência COVID-19 para Jornalistas. Por [Filipa Coutinho](https://www.natgeo.pt/autor/filipa-coutinho) fotografias de José Sarmento Matos Publicado 3/05/2021, 17:52 , Atualizado 13/05/2021, 12:34 
-![Bairro da Jamaica](img/files_styles_image_00_public_jsm_jamaika_01.jpg, "Bairro da Jamaica")
+![Bairro da Jamaica](img/files_styles_image_00_public_jsm_jamaika_01.jpg)
 Dois dos três prédios principais do bairro da Jamaica, no Seixal. Em 2018 as pessoas que viviam no lote 10 do Jamaica foram realojadas, o edifício foi demolido em 2019. Nos prédios que restam vivem ainda à volta de 700 pessoas em condições bastante precárias. 
 
 Bairro da Jamaica, 26 de outubro de 2020 
@@ -16,10 +16,10 @@ Como parte do projeto Jamaika, José Sarmento Matos distribuiu câmaras de filma
 
 Existe um programa local do governo que tem previsto realojar os residentes do bairro até 2022, mas apenas um dos edifícios foi realojado até agora. Quezílias e um processo em tribunal contribuem para o atraso do processo. Cerca de 700 pessoas aguardam realojamento. 
 
-![Telma Reis, 36 anos, abre a cortina da casa onde mora com os três filhos.](img/files_styles_image_00_public_jsm_jamaika_finais_new_0_0.jpg, "Telma Reis, 36 anos, abre a cortina da casa onde mora com os três filhos.")
+![Telma Reis, 36 anos, abre a cortina da casa onde mora com os três filhos.](img/files_styles_image_00_public_jsm_jamaika_finais_new_0_0.jpg)
 ver galeria 
 ![Esquerda: Aurora, 30 anos, posa para um retrato na sua casa.
-Direita: Asmir, 22 anos, namorado da Aurora, ...](img/files_styles_image_00_public_jsm_pol_1.jpg, "Esquerda: Aurora, 30 anos, posa para um retrato na sua casa.\r\nDireita: Asmir, 22 anos, namorado da Aurora, ...")
+Direita: Asmir, 22 anos, namorado da Aurora, ...](img/files_styles_image_00_public_jsm_pol_1.jpg)
 **Esquerda:** Aurora, 30 anos, posa para um retrato na sua casa. 
 
 **Direita:** Asmir, 22 anos, namorado da Aurora, retratado na sua cama. 
@@ -37,14 +37,14 @@ Além de ser segregado há mais de 30 anos, o bairro da Jamaica é geralmente fo
 Jamaika, documentário de José Sarmento Matos Documentário produzido no âmbito do projeto.
 
 ![Esquerda: Adelaide Costa, 59 anos, posa para um retrato no seu café.
-Direita: Alda e Lurdes Pontes, mãe ...](img/files_styles_image_00_public_jsm_pol.jpg, "Esquerda: Adelaide Costa, 59 anos, posa para um retrato no seu café.\r\nDireita: Alda e Lurdes Pontes, mãe ...")
+Direita: Alda e Lurdes Pontes, mãe ...](img/files_styles_image_00_public_jsm_pol.jpg)
 **Esquerda:** Adelaide Costa, 59 anos, posa para um retrato no seu café. 
 
 **Direita:** Alda e Lurdes Pontes, mãe e filha, posam para um retrato. 
 
 Fotografia por José Sarmento Matos 
 ![Esquerda: Manuela Pedro, 35 anos.
-Direita: Roberto Cravid aka Kid Robinn, 22 anos, rapper nascido e criado no bairro da ...](img/files_styles_image_00_public_jsm_pol.jpg, "Esquerda: Manuela Pedro, 35 anos.\r\nDireita: Roberto Cravid aka Kid Robinn, 22 anos, rapper nascido e criado no bairro da ...")
+Direita: Roberto Cravid aka Kid Robinn, 22 anos, rapper nascido e criado no bairro da ...](img/files_styles_image_00_public_jsm_pol.jpg)
 **Esquerda:** Manuela Pedro, 35 anos. 
 
 **Direita:** Roberto Cravid aka Kid Robinn, 22 anos, rapper nascido e criado no bairro da Jamaica. 
@@ -58,7 +58,7 @@ O projeto pretende amplificar as vozes dos residentes no bairro da Jamaica de fo
 No seu todo, o projeto resulta num trabalho multimédia, com retratos em Polaroids, um ensaio fotográfico e um filme documentário (com entrevistas, vídeos / fotografias da minha autoria e vídeos feitos pelos residentes, e com a música / rap de Kid Robinn). **"** 
 
 ![Esquerda: Lulu posa para um retrato no café da Ivete.
-Direita: Cristiana Chaves, 55 anos, trata do cabelo da ...](img/files_styles_image_00_public_jsm_pol.jpg, "Esquerda: Lulu posa para um retrato no café da Ivete.\r\nDireita: Cristiana Chaves, 55 anos, trata do cabelo da ...")
+Direita: Cristiana Chaves, 55 anos, trata do cabelo da ...](img/files_styles_image_00_public_jsm_pol.jpg)
 **Esquerda:** Lulu posa para um retrato no café da Ivete. 
 
 **Direita:** Cristiana Chaves, 55 anos, trata do cabelo da sua nora em frente à sua casa. 

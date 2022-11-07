@@ -3,7 +3,7 @@
 [Viagem e Aventuras](https://www.natgeo.pt/viagem-e-aventuras) 
 # Entrevista aos Dois Portugueses Premiados em Free Solo 
 ## Free Solo, recentemente vencedor do Óscar de Melhor Documentário, conta com dois portugueses na ficha técnica, distinguidos pelo seu trabalho de sonoplastia. Por [National Geographic](https://www.natgeo.pt/autor/national-geographic) Publicado 14/03/2019, 15:10 
-![Free Solo é um dos mais aclamados documentários de sempre da National Geographic](img/files_styles_image_00_public_freesolo_0_large.jpg, "Free Solo é um dos mais aclamados documentários de sempre da National Geographic")
+![Free Solo é um dos mais aclamados documentários de sempre da National Geographic](img/files_styles_image_00_public_freesolo_0_large.jpg)
 Free Solo é um dos mais aclamados documentários de sempre da National Geographic Fotografia por © National Geographic [Free Solo](https://www.natgeo.pt/video/tv/free-solo) , vencedor do Óscar de Melhor Documentário, conta com dois nomes portugueses na sua ficha técnica: **Joana Niza Braga** e **Nuno Bento** , da equipa de sonoplastia. 
 
 Joana Niza Braga e Nuno Bento são respetivamente _foley mixer_ e _foley artist_ do documentário da National Geographic, no qual os realizadores Elizabeth Chai Vasarhelvi e Jimmy Chin acompanham a escalada sem cordas ou proteções de Alex Honnold na parede de granito El Capitan. Conheça melhor o trabalho dos **dois portugueses distinguidos pelos Cinema Audio Society Awards e Golden Reel Awards** , feito numa pós-produtora de cinema em Lisboa. 
@@ -28,7 +28,7 @@ Durante uma sessão de gravação de _foley_ , o _mixer_ tem à sua frente uma m
 
 Cabe também ao foley mixer guiar o foley artist durante a sessão. Por exemplo, numa cena com pessoas a andar, é o foley mixer quem diz ao foley artist que ele irá, no momento, fazer os passos da personagem X, com os sapatos Y, num determinado tipo de chão (cimento, madeira, linóleo, etc.) e qual o tipo de performance necessária. 
 
-![](img/files_styles_image_00_public_top_desktop.jpg, "")
+![](img/files_styles_image_00_public_top_desktop.jpg)
 Fotografia por National Geographic **Qual é o papel de um _foley artist_ ? 
 
 NB -** O papel de um _foley artist_ é recriar, numa espécie de performance, o som das ações presentes na imagem. Isto quer dizer que o objetivo é conseguir imitar os movimentos e interações dos atores no espaço de forma síncrona com a imagem, de forma a trazer com maior detalhe o som de todos os objetos presentes em cena. 
@@ -60,7 +60,7 @@ _Esta entrevista foi encurtada por motivos de extensão e clareza._
 **Veja o trailer de Free Solo:** 
 
 <code>{"tag":"VIDEO"}</code> <code>{"tag":"VIDEO"}</code> [](https://www.natgeo.pt/viagem-e-aventuras/2019/03/entrevista-aos-dois-portugueses-premiados-em-free-solo#) 
-![](img/mage_svg_xml_charset_utf_csvg_xmlns_http_www_w_org_000_svg_e_c_svg.e, "")
+![](img/mage_svg_xml_charset_utf_csvg_xmlns_http_www_w_org_000_svg_e_c_svg.e)
 
 Publicidade: O seu vídeo começa em 
 
@@ -70,7 +70,7 @@ Publicidade: O seu vídeo começa em
 --:-- / --:-- 
 -------- 
 
-![](img/_plugins_v_1_mpx_unmute_common_assets_volume_off.png, "")
+![](img/_plugins_v_1_mpx_unmute_common_assets_volume_off.png)
 
 audio/video source is invalid 
 
@@ -162,9 +162,9 @@ Show Keyboard Controls
 
 <kbd>?</kbd> or / 
 
-![](img/files_player.jpg, "")
+![](img/files_player.jpg)
 
-![](img/_plugins_v_1_mpx_continue_watching_img_reload.svg, "")
+![](img/_plugins_v_1_mpx_continue_watching_img_reload.svg)
 
 ACABOU DE VER 
 

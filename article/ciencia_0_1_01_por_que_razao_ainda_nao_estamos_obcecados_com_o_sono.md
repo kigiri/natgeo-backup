@@ -1,7 +1,7 @@
 [facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.natgeo.pt%2Fciencia%2F2021%2F01%2Fpor-que-razao-ainda-nao-estamos-obcecados-com-o-sono) [twitter](https://twitter.com/share?url=https%3A%2F%2Fwww.natgeo.pt%2Fciencia%2F2021%2F01%2Fpor-que-razao-ainda-nao-estamos-obcecados-com-o-sono&via=natgeo&text=Por%20que%20Raz%C3%A3o%20Ainda%20N%C3%A3o%20Estamos%20Obcecados%20com%20o%20Sono%3F) [whatsapp](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.natgeo.pt%2Fciencia%2F2021%2F01%2Fpor-que-razao-ainda-nao-estamos-obcecados-com-o-sono) [flipboard](https://share.flipboard.com/bookmarklet/popout?v=2&title=Por%20que%20Raz%C3%A3o%20Ainda%20N%C3%A3o%20Estamos%20Obcecados%20com%20o%20Sono%3F&url=https%3A%2F%2Fwww.natgeo.pt%2Fciencia%2F2021%2F01%2Fpor-que-razao-ainda-nao-estamos-obcecados-com-o-sono) [mail](mailto:?subject=NatGeo&body=https%3A%2F%2Fwww.natgeo.pt%2Fciencia%2F2021%2F01%2Fpor-que-razao-ainda-nao-estamos-obcecados-com-o-sono%20-%20Por%20que%20Raz%C3%A3o%20Ainda%20N%C3%A3o%20Estamos%20Obcecados%20com%20o%20Sono%3F) [Ciência](https://www.natgeo.pt/ciencia) 
 # Por que Razão Ainda Não Estamos Obcecados com o Sono? 
 ## Depois de dois anos em que tivemos uma rotina substancialmente mais caseira, ainda existe alguma incúria no ato de dormir. Leia as dicas de um neurohacker sobre como pode (e deve) melhorar a sua higiene de sono. Por [Filipa Coutinho](https://www.natgeo.pt/autor/filipa-coutinho) Publicado 13/01/2021, 17:26 , Atualizado 7/03/2022, 11:02 
-![A higiene do sono pode ser definida como um conjunto de comportamentos e hábitos adequados que ...](img/files_styles_image_00_public_k_a.jpg, "A higiene do sono pode ser definida como um conjunto de comportamentos e hábitos adequados que ...")
+![A higiene do sono pode ser definida como um conjunto de comportamentos e hábitos adequados que ...](img/files_styles_image_00_public_k_a.jpg)
 A higiene do sono pode ser definida como um conjunto de comportamentos e hábitos adequados que promovam um sono reparador e o bem-estar. **** 
 
 Fotografia por Rui Gaiola **Se esta não foi uma das resoluções para 2022,** ainda vai a tempo de acrescentá-la. Este é o ano! 
@@ -21,7 +21,7 @@ Dormir melhor depende do seu cronotipo, da existência ou falta de sono e do gra
 
 Contrariamente ao que algumas pessoas julgam, o álcool não nos ajuda a dormir melhor. Pelo contrário. Pode atirar-nos mais rapidamente para o sono, porém não é metabolizado a tempo antes do sono, impedindo-nos de entrar nas fases mais profundas do sono e no sono REM, fundamentais para o seu efeito reparador. 
 
-![Higiene do sono](img/files_styles_image_00_public_k_a_1.jpg, "Higiene do sono")
+![Higiene do sono](img/files_styles_image_00_public_k_a_1.jpg)
 Na conversa que tivemos com Nilson Porto, aprofundámos os efeitos de uma noite de insónias, mas também os potenciais danos de uma noite com demasiadas horas de sono. 
 
 Fotografia por Rui Gaiola 

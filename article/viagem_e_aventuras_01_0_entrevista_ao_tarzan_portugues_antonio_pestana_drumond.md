@@ -3,7 +3,7 @@
 [Viagem e Aventuras](https://www.natgeo.pt/viagem-e-aventuras) 
 # Entrevista ao ‘Tarzan’ Português – António Pestana Drumond 
 ## António Pestana Drumond é conhecido como o ‘Tarzan’ lusovenezuelano como reconhecimento do seu contributo às causas que abraçou no país e pelas suas aventuras. Por [National Geographic](https://www.natgeo.pt/autor/national-geographic) Publicado 16/09/2019, 11:57 
-![António é frequentemente apelidado ‘Indiana Jones Português’, ‘Rambo’, ‘crocodilo Dundee’ ou ‘Tarzan’](img/files_styles_image_00_public_dsc_0.jpg, "António é frequentemente apelidado ‘Indiana Jones Português’, ‘Rambo’, ‘crocodilo Dundee’ ou ‘Tarzan’")
+![António é frequentemente apelidado ‘Indiana Jones Português’, ‘Rambo’, ‘crocodilo Dundee’ ou ‘Tarzan’](img/files_styles_image_00_public_dsc_0.jpg)
 António é frequentemente apelidado ‘Indiana Jones Português’, ‘Rambo’, ‘crocodilo Dundee’ ou ‘Tarzan’ Fotografia por Arquivo de António Pestana Drumond Jogador de futebol ávido pelo seu clube de Porto Santo em criança, viveu dois anos na selva sem qualquer comodidade, fala quatro idiomas e um pouco de duas línguas indígenas, já produziu vários produtos audiovisuais entre eles um documentário. Estas foram algumas das suas conquistas, mas **António Pestana Drumond** ainda não alcançou o seu maior sonho: ver reconhecido o Salto Ángel (Kerepakupay-Vená) – a queda de água mais alta do Planeta - como uma das Maravilhas Ecoturísticas da Venezuela do Mundo. 
 
 Depois de nascer em Curaçau, nas Antilhas Holandesas, foi viver para Porto Santo (Arquipélago da Madeira), para depois aos 15 anos ser mandado para a Venezuela pela sua família, naquele que foi “o voo mais longo” da sua vida. Atualmente está dedicado a projetos de ecoturismo através dos quais dá a conhecer as belezas naturais na Venezuela, país onde vive há quase 40 anos, apesar de ter vivido em outros países nesse tempo, como os Estados Unidos da America, Espanha e em Portugal... 
@@ -26,7 +26,7 @@ Estima-se que atualmente a população indígena consista de aproximadamente 370
 
 E o resto de nós é responsável por apoiar e complementar essa tarefa que já vem sendo realizada ancestralmente sendo que este ano 2019 foi escolhido como o **[Ano Internacional das Línguas Indígenas](https://es.iyil2019.org/)** . 
 
-![Durante muitos anos teve a alcunha de ‘Portu’, por ser português. Só anos mais tarde começaram ...](img/files_styles_image_00_public_img_0_0_medium.jpg, "Durante muitos anos teve a alcunha de ‘Portu’, por ser português. Só anos mais tarde começaram ...")
+![Durante muitos anos teve a alcunha de ‘Portu’, por ser português. Só anos mais tarde começaram ...](img/files_styles_image_00_public_img_0_0_medium.jpg)
 Durante muitos anos teve a alcunha de ‘Portu’, por ser português. Só anos mais tarde começaram a chamar-lhe ‘Tarzan Português’. Fotografia por Arquivo de António Pestana Drumond **Que preocupações carrega na mochila quando está na selva?** 
 
 Preocupo-me sempre com a segurança, mas é mais ou é menos se vou trabalhar ou se estou de férias, pois no que se refere à responsabilidade do caso, é diferente logicamente. 

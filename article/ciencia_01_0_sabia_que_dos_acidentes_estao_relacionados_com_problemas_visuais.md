@@ -1,12 +1,12 @@
 [facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.natgeo.pt%2Fciencia%2F2019%2F06%2Fsabia-que-25-dos-acidentes-estao-relacionados-com-problemas-visuais) [twitter](https://twitter.com/share?url=https%3A%2F%2Fwww.natgeo.pt%2Fciencia%2F2019%2F06%2Fsabia-que-25-dos-acidentes-estao-relacionados-com-problemas-visuais&via=natgeo&text=Sabia%20que%2025%25%20dos%20Acidentes%20Est%C3%A3o%20Relacionados%20com%20Problemas%20Visuais%3F) [whatsapp](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.natgeo.pt%2Fciencia%2F2019%2F06%2Fsabia-que-25-dos-acidentes-estao-relacionados-com-problemas-visuais) [flipboard](https://share.flipboard.com/bookmarklet/popout?v=2&title=Sabia%20que%2025%25%20dos%20Acidentes%20Est%C3%A3o%20Relacionados%20com%20Problemas%20Visuais%3F&url=https%3A%2F%2Fwww.natgeo.pt%2Fciencia%2F2019%2F06%2Fsabia-que-25-dos-acidentes-estao-relacionados-com-problemas-visuais) [mail](mailto:?subject=NatGeo&body=https%3A%2F%2Fwww.natgeo.pt%2Fciencia%2F2019%2F06%2Fsabia-que-25-dos-acidentes-estao-relacionados-com-problemas-visuais%20-%20Sabia%20que%2025%25%20dos%20Acidentes%20Est%C3%A3o%20Relacionados%20com%20Problemas%20Visuais%3F) PATROCINADO POR 
 
 ![Conselheiros da visao logo
-...](img/files_styles_image_00_public_conselheiros.png, "Conselheiros da visao logo\n ...")
+...](img/files_styles_image_00_public_conselheiros.png)
 [Ciência](https://www.natgeo.pt/ciencia) 
 # Sabia que 25% dos Acidentes Estão Relacionados com Problemas Visuais? 
 ## Descubra a importância da acuidade ocular na prevenção rodoviária e o porquê de uma visão controlada regularmente poder fazer a diferença num cenário de perigo eminente. Por [National Geographic](https://www.natgeo.pt/autor/national-geographic) Publicado 17/06/2019, 11:58 
 ![A visão é um dos sentidos mais importantes na condução. É fundamental ver bem para 
-distinguir ...](img/files_styles_image_00_public_fotolia_1_0_m_1.jpg, "A visão é um dos sentidos mais importantes na condução. É fundamental ver bem para \ndistinguir ...")
+distinguir ...](img/files_styles_image_00_public_fotolia_1_0_m_1.jpg)
 A visão é um dos sentidos mais importantes na condução. É fundamental ver bem para 
 distinguir corretamente os objetos, as distâncias, a velocidade e prever as reações das 
 outras pessoas na estrada. Fotografia por Conselheiros da Visão Conduz, mas tem a certeza que vê suficientemente bem? Conduzir é uma tarefa importante, quer seja condutor ou passageiro. Se a sua visão estiver comprometida, a sua aptidão para conduzir em segurança também estará. 
@@ -25,7 +25,7 @@ Atualmente, para obter ou renovar a carta de condução em Portugal, é obrigat�
 
 Se tem alguma dúvida sobre a sua condição ocular, deve realizar um exame visual antes de voltar a conduzir. 
 
-![Assegure-se que utiliza óculos de sol quando conduz durante o dia para aumentar as suas condições ...](img/files_styles_image_00_public_0_ceu_joshua_forbes_0_0_unsplash.jpg, "Assegure-se que utiliza óculos de sol quando conduz durante o dia para aumentar as suas condições ...")
+![Assegure-se que utiliza óculos de sol quando conduz durante o dia para aumentar as suas condições ...](img/files_styles_image_00_public_0_ceu_joshua_forbes_0_0_unsplash.jpg)
 Assegure-se que utiliza óculos de sol quando conduz durante o dia para aumentar as suas condições de segurança.
 Fotografia por Conselheiros da Visão **Qual a relevância da utilização de óculos de sol?** 
 
@@ -40,7 +40,7 @@ Mesmo para condutores com boa visão, o uso de óculos de sol com lentes filtran
 Quando circular na estrada com sol, independentemente da estação, não se esqueça dos seus óculos de sol. 
 
 <code>{"tag":"VIDEO","src":"data:audio/mpeg;base64,SUQzBAAAAAAAI1RTU0UAAAAPAAADTGF2ZjU2LjI1LjEwMQAAAAAAAAAAAAAA//tQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASW5mbwAAAA8AAAACAAAEEwCZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZ//////////////////////////////////////////////////////////////////8AAAAATGF2YzU2LjI2AAAAAAAAAAAAAAAAJAAAAAAAAAAABBN3YQi+AAAAAAAAAAAAAAAAAAAAAP/7kGQAD/AAAGkAAAAIAAANIAAAAQAAAaQAAAAgAAA0gAAABExBTUUzLjk5LjVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVUxBTUUzLjk5LjVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVf/7kmRAj/AAAGkAAAAIAAANIAAAAQAAAaQAAAAgAAA0gAAABFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVU="}</code> <code>{"tag":"VIDEO"}</code> [](https://www.natgeo.pt/ciencia/2019/06/sabia-que-25-dos-acidentes-estao-relacionados-com-problemas-visuais#) 
-![](img/mage_svg_xml_charset_utf_csvg_xmlns_http_www_w_org_000_svg_e_c_svg.e, "")
+![](img/mage_svg_xml_charset_utf_csvg_xmlns_http_www_w_org_000_svg_e_c_svg.e)
 
 Publicidade: O seu vídeo começa em 
 
@@ -60,7 +60,7 @@ Durante a noite, deve ter especial atenção ao encandeamento causado por farói
 
 Para descobrir se necessita de óculos diferentes para o dia e a noite ou de lentes com tratamento antirreflexo, faça um [exame ocular de diagnóstico ocular](http://conselheirosdavisao.pt/contactos/) . 
 
-![Manuel Gião, piloto profissional](img/files_styles_image_00_public_untitled_01.jpg, "Manuel Gião, piloto profissional")
+![Manuel Gião, piloto profissional](img/files_styles_image_00_public_untitled_01.jpg)
 Manuel Gião, piloto profissional Fotografia por Conselheiros da Visão **Para testar a sua acuidade visual…** 
 
 …procure uma matrícula que está longe ao ponto de não a conseguir distinguir. Caminhe na sua direção até conseguir lê-la e pare. Meça a distância desse local até ao veículo. 

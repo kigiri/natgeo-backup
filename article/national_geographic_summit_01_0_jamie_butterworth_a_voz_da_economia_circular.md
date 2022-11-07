@@ -3,7 +3,7 @@
 [Summit 2022](https://www.natgeo.pt/summit2022) 
 # Jamie Butterworth, a Voz da Economia Circular 
 ## No dia 29 de abril, Jamie Butterworth traz ao palco do National Geographic Summit 2019 o tema ‘Planet or Plastic: Let’s Get Smart About This Now and Go for Circularity’. Por [National Geographic](https://www.natgeo.pt/autor/national-geographic) Publicado 11/03/2019, 14:59 
-![Jamie Butterworth, expert em economia circular, é cofundador da Circularity Capital](img/files_styles_image_00_public_cc01_0_0chosen.jpg, "Jamie Butterworth, expert em economia circular, é cofundador da Circularity Capital")
+![Jamie Butterworth, expert em economia circular, é cofundador da Circularity Capital](img/files_styles_image_00_public_cc01_0_0chosen.jpg)
 Jamie Butterworth, expert em economia circular, é cofundador da Circularity Capital 
 
 **Jamie Butterworth** , expert em economia circular, é um dos oradores do National Geographic Summit 2019 e no dia 29 de abril vai falar acerca do tema ‘ **Planet or Plastic: Let’s Get Smart About This Now** **and Go for Circularity** ’. 
@@ -32,5 +32,5 @@ Para qualquer dúvida ou informação, por favor contacte-nos através de:
 
 **Telefone:** (+351) 91 3839 945 
 
-![](img/files_styles_image_00_public_ngsummit1_logosbar_0.png, "")
+![](img/files_styles_image_00_public_ngsummit1_logosbar_0.png)
 Este conteúdo é-lhe trazido pelo nosso parceiro. Não reflete necessariamente a visão da National Geographic ou da sua equipa editorial. 

@@ -1,7 +1,7 @@
 [facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.natgeo.pt%2Fanimais%2F2021%2F02%2Fentrevista-goncalo-curveira-santos-carnivoros-gestao-conservacao) [twitter](https://twitter.com/share?url=https%3A%2F%2Fwww.natgeo.pt%2Fanimais%2F2021%2F02%2Fentrevista-goncalo-curveira-santos-carnivoros-gestao-conservacao&via=natgeo&text=A%20Resposta%20dos%20Carn%C3%ADvoros%20a%20Diferentes%20Modelos%20de%20Gest%C3%A3o%20e%20Conserva%C3%A7%C3%A3o) [whatsapp](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.natgeo.pt%2Fanimais%2F2021%2F02%2Fentrevista-goncalo-curveira-santos-carnivoros-gestao-conservacao) [flipboard](https://share.flipboard.com/bookmarklet/popout?v=2&title=A%20Resposta%20dos%20Carn%C3%ADvoros%20a%20Diferentes%20Modelos%20de%20Gest%C3%A3o%20e%20Conserva%C3%A7%C3%A3o&url=https%3A%2F%2Fwww.natgeo.pt%2Fanimais%2F2021%2F02%2Fentrevista-goncalo-curveira-santos-carnivoros-gestao-conservacao) [mail](mailto:?subject=NatGeo&body=https%3A%2F%2Fwww.natgeo.pt%2Fanimais%2F2021%2F02%2Fentrevista-goncalo-curveira-santos-carnivoros-gestao-conservacao%20-%20A%20Resposta%20dos%20Carn%C3%ADvoros%20a%20Diferentes%20Modelos%20de%20Gest%C3%A3o%20e%20Conserva%C3%A7%C3%A3o) [Animais](https://www.natgeo.pt/animais) 
 # A Resposta dos Carnívoros a Diferentes Modelos de Gestão e Conservação 
 ## Gonçalo Curveira-Santos instalou quase 300 câmaras para avaliar o papel das áreas protegidas e das reservas privadas na conservação de 13 espécies de carnívoros na África do Sul. Por [Filipa Coutinho](https://www.natgeo.pt/autor/filipa-coutinho) Publicado 2/02/2021, 09:08 , Atualizado 2/02/2021, 13:05 
-![Gonçalo Curveira-Santos](img/files_styles_image_00_public_fieldwork_credit_laura_gigliotti_v.jpg, "Gonçalo Curveira-Santos")
+![Gonçalo Curveira-Santos](img/files_styles_image_00_public_fieldwork_credit_laura_gigliotti_v.jpg)
 O biólogo de conservação Gonçalo Curveira-Santos durante trabalho de campo. 
 
 Fotografia por Laura Gigliotti [**Gonçalo Curveira-Santos**](https://www.researchgate.net/profile/Goncalo_Curveira-Santos) , **** explorador da National Geographic, estuda a ocupação de mamíferos carnívoros em diferentes habitats na África do Sul e dedicou-se recentemente à análise da desigualdade na conservação em áreas protegidas tradicionais e reservas privadas de ecoturismo ou de caça. O biólogo de conservação pretendia perceber como os carnívoros sul africanos alvo de menos estudos respondem a modelos e medidas de conservação diferentes. 
@@ -20,7 +20,7 @@ Sou um biólogo da conservação, atualmente a investigar comunidades de mamífe
 
 Desde muito novo percebi que queria, de alguma forma, poder contribuir para proteger a natureza e a vida selvagem; primeiro apenas por fascínio e mais tarde por uma consciência crescente dos riscos e ameaças. À medida que o meu interesse pela ciência foi também crescendo, percebi que a investigação e o conhecimento científico eram as ferramentas com as quais mais me identificava para esse objetivo. O satisfazer da minha curiosidade em desvendar um pouco mais da complexidade fascinante da natureza, e com isso poder contribuir mais um pouco para a conservação, é algo que me entusiasma todos os dias. A minha linha de trabalho acaba por ser uma expressão natural desta motivação com os temas, espécies e sistemas que mais me fascinam, como os carnívoros e África. 
 
-![Leopardo](img/files_styles_image_00_public_leopard_credit_goncalo_curveira_santos.jpg, "Leopardo")
+![Leopardo](img/files_styles_image_00_public_leopard_credit_goncalo_curveira_santos.jpg)
 Leopardo ( _Panthera pardus_ ) numa das imagens de armadilhagem fotográfica obtidas no âmbito do estudo realizado com financiamento parcial da National Geographic Society (NGS). __ 
 
 Fotografia por Gonçalo Curveira-Santos **Há um desequilíbrio na gestão e conservação da vida selvagem na África do Sul. Quão perigoso é este cenário?** 
@@ -37,14 +37,14 @@ A capacidade de implementar medidas de conservação mais holísticas e eficazes
 
 Depois disso, a capacidade de implementar medidas mais eficazes está dependente do conciliar de várias esferas políticas, sociais e económicas. Mas mais importante, acredito que a capacidade de o fazer com sucesso irá sempre depender essencialmente da valorização que seja feita pela sociedade, na África do Sul e a nível global, da conservação da natureza, tanto em termos de recursos como de investigação. 
 
-![Seis das 13 espécies analisadas](img/files_styles_image_00_public_carnivores_spp_mosaic_credit_goncalo_curveira_santos_v.jpg, "Seis das 13 espécies analisadas")
+![Seis das 13 espécies analisadas](img/files_styles_image_00_public_carnivores_spp_mosaic_credit_goncalo_curveira_santos_v.jpg)
 Seis das 13 espécies de grandes, médios e pequenos carnívoros alvo deste estudo, entre as mais de 7000 fotografias obtidas através de armadilhagem fotográfica. 
 
 Fotografia por Gonçalo Curveira-Santos **Quais os impactos da pandemia de COVID-19 na vida selvagem?** 
 
 Só agora estamos a começar a descobrir os reais impactos da pandemia na vida selvagem. Em vários lugares, o confinamento coletivo e redução de várias atividades nefastas podem ter efeitos positivos, mas em África (onde foco o meu trabalho) o cenário é distinto. A pandemia COVID-19 ameaça os esforços de conservação em África com uma ‘tempestade perfeita’ de menor financiamento e menor, ou mesmo esgotada, capacidade de gestão das inúmeras áreas protegidas ou reservas privadas, a quebra acentuada da indústria ecoturística e colapso de empresas de gestão de recursos naturais comunitárias, e o consequente aumento de várias ameaças (por exemplo, caça furtiva). Mais que nunca, é crucial uma colaboração ativa entre governos locais, a comunidade internacional, doadores e profissionais de conservação para a implementação de novos, e mais resilientes, modelos de conservação que beneficiem os humanos e a vida selvagem a longo prazo. 
 
-![Gonçalo Curveira-Santos instala armadilhas fotográficas ](img/files_styles_image_00_public_goncalo_cs.jpg, "Gonçalo Curveira-Santos instala armadilhas fotográficas ")
+![Gonçalo Curveira-Santos instala armadilhas fotográficas ](img/files_styles_image_00_public_goncalo_cs.jpg)
 Gonçalo Curveira-Santos instala duas das 294 armadilhas fotográficas – câmaras ativadas pelo movimento que fotografam de forma automática os animais quando passam – em KwaZulu-Natal, no nordeste da África do Sul. 
 
 Fotografia por Michael Langley **Como é que a bolsa da NGS o ajudou?** 

@@ -2,7 +2,7 @@
 
 # Protetor Solar: Um Grande Poluidor dos Oceanos 
 ## A maioria dos produtos solares contem componentes prejudiciais para a saúde humana e ambiental, causando impactos negativos na vitalidade dos oceanos, fonte de 70% do oxigénio que respiramos. Por [Filipa Coutinho](https://www.natgeo.pt/autor/filipa-coutinho) Publicado 6/05/2019, 10:05 
-![Joana Schenker, a primeira atleta portuguesa a sagrar-se campeã mundial de bodyboard em 2017, é uma ...](img/files_styles_image_00_public_mendo_dornellas_0.jpg, "Joana Schenker, a primeira atleta portuguesa a sagrar-se campeã mundial de bodyboard em 2017, é uma ...")
+![Joana Schenker, a primeira atleta portuguesa a sagrar-se campeã mundial de bodyboard em 2017, é uma ...](img/files_styles_image_00_public_mendo_dornellas_0.jpg)
 Joana Schenker, a primeira atleta portuguesa a sagrar-se campeã mundial de bodyboard em 2017, é uma das vozes da proteção dos oceanos e embaixadora da marca Fotografia por Eau Thermale Avène 
 
 Muitas pessoas desconhecem que além da poluição marinha e do aumento da temperatura da água, os protetores solares são um dos principais poluidores dos oceanos. Os ingredientes químicos incorporados na composição da maioria dos protetores solares contaminam a água e agridem os biossistemas marinhos. 
@@ -13,7 +13,7 @@ Os protetores solares possuem tipicamente até 20 compostos químicos. Um dos co
 
 Alguns estudos científicos têm sugerido que a oxibenzona provoca [danos celulares](http://www.faculty.ucr.edu/~christob/Sunscreen_enhancement.pdf) e desequilíbrios hormonais, acumulando riscos para a saúde humana. Este cenário é especialmente preocupante tendo em conta que já foram encontrados químicos de protetores solares em amostras de leite materno, expondo fetos e recém-nascidos a estas substâncias. 
 
-![Estima-se que 75% dos recifes de corais se encontram ameaçados pela atividade humana](img/files_styles_image_00_public_slider_oceans_1.jpg, "Estima-se que 75% dos recifes de corais se encontram ameaçados pela atividade humana")
+![Estima-se que 75% dos recifes de corais se encontram ameaçados pela atividade humana](img/files_styles_image_00_public_slider_oceans_1.jpg)
 Estima-se que 75% dos recifes de corais se encontram ameaçados pela atividade humana Fotografia por Eau Thermale Avène 
 
 **IMPACTO NOS RECIFES DE CORAIS** 
@@ -32,7 +32,7 @@ Até ser implementada regulamentação que proíba a comercialização de protet
 
 Ao escolher um produto solar, saiba que pode optar por uma alternativa sem substâncias químicas nocivas, mais saudável para si e para os oceanos. Graças a uma seleção rigorosa de ingredientes, os protetores solares Eau Thermale Avène **[SKIN PROTECT OCEAN RESPECT](https://www.eau-thermale-avene.pt/skinprotect-oceanrespect)** são uma escolha segura. 
 
-![Os protetores solares Eau Thermale Avène SKIN PROTECT OCEAN RESPECT não possuem silicones nem filtros hidrossolúveis, ...](img/files_styles_image_00_public_dsc00.jpg, "Os protetores solares Eau Thermale Avène SKIN PROTECT OCEAN RESPECT não possuem silicones nem filtros hidrossolúveis, ...")
+![Os protetores solares Eau Thermale Avène SKIN PROTECT OCEAN RESPECT não possuem silicones nem filtros hidrossolúveis, ...](img/files_styles_image_00_public_dsc00.jpg)
 Os protetores solares Eau Thermale Avène SKIN PROTECT OCEAN RESPECT não possuem silicones nem filtros hidrossolúveis, minimizando o impacto da sua utilização no meio marinho Fotografia por Eau Thermale Avène 
 
 Os protetores solares da gama cor-de-laranja desta marca são desenvolvidos com uma menor quantidade de filtros e componentes que favorecem a biodegradabilidade da fórmula, minimizando o impacto no meio marinho. Sem silicones as fórmulas tornam-se mais biodegradáveis, e sem filtros hidrossolúveis são mais difíceis de assimilar por organismos marinhos, limitando os danos ambientais causados pela sua utilização. 

@@ -3,7 +3,7 @@
 [Viagem e Aventuras](https://www.natgeo.pt/viagem-e-aventuras) 
 # Faça Uma Roadtrip em Portugal Como Esta 
 ## Desbrave o asfalto das estradas portuguesas nestas paisagens nacionais incríveis, através do nosso roteiro para uma roadtrip inesquecível. Por [National Geographic](https://www.natgeo.pt/autor/national-geographic) Publicado 17/12/2019, 16:05 , Atualizado 5/01/2021, 09:29 
-![Uma das estradas que atravessa o Parque Natural da Serra da Estrela.](img/files_styles_image_00_public_exodus_01_roadtrip_fotografamos_day_0_of_0_large.jpg, "Uma das estradas que atravessa o Parque Natural da Serra da Estrela.")
+![Uma das estradas que atravessa o Parque Natural da Serra da Estrela.](img/files_styles_image_00_public_exodus_01_roadtrip_fotografamos_day_0_of_0_large.jpg)
 ver galeria Sem planos durante uns dias ou com uma janela temporal para uma viagem pelo nosso país? O inverno é uma altura com menos turismo interno, ideal para usufruir de zonas com maior afluência turística em outras alturas do ano. Pegue nas chaves do carro, explore os caminhos e paragens que lhe sugerimos e encante-se com o património natural e cultural português. 
 
 A nossa roadtrip arrancou de **Aveiro** , onde sugerimos que: 

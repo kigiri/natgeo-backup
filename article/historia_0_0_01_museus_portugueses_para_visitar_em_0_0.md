@@ -1,7 +1,7 @@
 [facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.natgeo.pt%2Fhistoria%2F2020%2F01%2F6-museus-portugueses-para-visitar-em-2020) [twitter](https://twitter.com/share?url=https%3A%2F%2Fwww.natgeo.pt%2Fhistoria%2F2020%2F01%2F6-museus-portugueses-para-visitar-em-2020&via=natgeo&text=6%20Museus%20Portugueses%20Para%20Visitar%20em%202020) [whatsapp](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.natgeo.pt%2Fhistoria%2F2020%2F01%2F6-museus-portugueses-para-visitar-em-2020) [flipboard](https://share.flipboard.com/bookmarklet/popout?v=2&title=6%20Museus%20Portugueses%20Para%20Visitar%20em%202020&url=https%3A%2F%2Fwww.natgeo.pt%2Fhistoria%2F2020%2F01%2F6-museus-portugueses-para-visitar-em-2020) [mail](mailto:?subject=NatGeo&body=https%3A%2F%2Fwww.natgeo.pt%2Fhistoria%2F2020%2F01%2F6-museus-portugueses-para-visitar-em-2020%20-%206%20Museus%20Portugueses%20Para%20Visitar%20em%202020) [História](https://www.natgeo.pt/historia) 
 # 6 Museus Portugueses Para Visitar em 2020 
 ## Em 2020 entre com o pé direito nestes museus portugueses, por onde deve passar no ano novo. Por [National Geographic](https://www.natgeo.pt/autor/national-geographic) Publicado 22/01/2020, 11:52 
-![exposição ‘Um Século e Tanto'](img/files_styles_image_00_public_ng_mhncup_10_large.jpg, "exposição ‘Um Século e Tanto'")
+![exposição ‘Um Século e Tanto'](img/files_styles_image_00_public_ng_mhncup_10_large.jpg)
 A exposição ‘Um Século e Tanto’ assinala os 130 anos da National Geographic e está no Porto até 19 de julho. Fotografia por Anabela Trindade Edifícios antigos com recheios novos. Paredes novas com objetos antigos. De um aquário de bacalhaus ao mais antigo museu português que se mantém no seu espaço de origem. De workshops de filigrana a porcelana chinesa. Passe por onde passar, estes são alguns dos museus portugueses que deve visitar em 2020. 
 
 **Museu de História Natural e da Ciência da Universidade do Porto** 
@@ -14,7 +14,7 @@ Na Galeria da Biodiversidade – Centro Ciência Viva, localizada no Jardim Bot�
 
 Por sua vez, no Jardim Botânico do Porto, considerado o ‘pulmão verde’ do MHNC-UP, há muitos jardins onde se perder, do jardim do peixe ao jardim dos xistos. Convidamo-lo a viajar ao longo do tempo através de peças de arqueologia e etnografia, jardins magníficos e a aproveitar o [bilhete combinado](https://mhnc.up.pt/precario-visitas-combinadas-a-exposicoes/) para os vários polos do museu. 
 
-![Museu do Oriente, em Lisboa](img/files_styles_image_00_public_funda_c_a_ao_oriente.jpg, "Museu do Oriente, em Lisboa")
+![Museu do Oriente, em Lisboa](img/files_styles_image_00_public_funda_c_a_ao_oriente.jpg)
 Edifício com projeto de arquitetura de João Luís Carrilho da Graça e Rui Francisco. Fotografia por Museu do Oriente **Museu do Oriente** 
 
 Uma oferta de workshops de fazer inveja às agendas mais concorridas, espetáculos musicais, palestras sobre temas asiáticos, cursos de história, aulas de Karaté e Tai Chi… uma magnífica ode ao Oriente. Das peças dos Descobrimentos às coleções de máscaras, o [Museu do Oriente](http://www.museudooriente.pt/) possui dois grandes acervos: um alusivo à presença portuguesa na Ásia e outro com testemunhos etnográficos de toda a Ásia – a Coleção Kwok On. 
@@ -25,7 +25,7 @@ A somar ao programa de férias escolares, organizam [visitas orientadas, ativida
 
 Oferecem a possibilidade de adquirir um bilhete de entrada no Museu com [refeição incluída](http://www.museudooriente.pt/2512/visita-com-refeicao-incluida.htm#.Xice-WieSAs) e aos fins de semana servem brunch virado para o rio. Do que está à espera? 
 
-![Artesãs a trabalhar durante o horário de funcionamento do museu, no atelier da House of Filigree. ...](img/files_styles_image_00_public_house_of_filigree.jpeg, "Artesãs a trabalhar durante o horário de funcionamento do museu, no atelier da House of Filigree. ...")
+![Artesãs a trabalhar durante o horário de funcionamento do museu, no atelier da House of Filigree. ...](img/files_styles_image_00_public_house_of_filigree.jpeg)
 Artesãs a trabalhar durante o horário de funcionamento do museu, no atelier da House of Filigree. Fotografia por ©House of Filigree, Inês d’Orey **House of Filigree** 
 
 O museu de Filigrana [‘House of Filigree’](https://houseoffiligree.pt/) abriu portas no final de 2019, na cidade do Porto, com o objetivo de proteger e divulgar uma das mais antigas e prestigiadas técnicas da ourivesaria. Criada por Luísa e Pedro Rosas, pertencentes à quinta geração de uma família com ligações à ourivesaria desde meados do século XIX, a House of Filigree pretende promover esta tradição __ que se encontra ameaçada pela difusão das peças de fabrico industrial. 
@@ -34,7 +34,7 @@ Localizado num emblemático edifício do século XIX, o projeto _House of Filigr
 
 Faça uma viagem imersiva pelo universo e história da arte da filigrana portuguesa e aprecie a perícia dos artesãos que se encontram a trabalhar durante o horário de funcionamento do museu. A exposição permanente conta com um espólio de peças das tipologias mais emblemáticas que datam dos séculos XIX, XX e XXI, assim como um conjunto de vários instrumentos utilizados na produção desta técnica. 
 
-![Aquário dos Bacalhaus do Museu Marítimo de Ílhavo.](img/files_styles_image_00_public_dsc_01.jpg, "Aquário dos Bacalhaus do Museu Marítimo de Ílhavo.")
+![Aquário dos Bacalhaus do Museu Marítimo de Ílhavo.](img/files_styles_image_00_public_dsc_01.jpg)
 Aquário dos Bacalhaus do Museu Marítimo de Ílhavo. Fotografia por Filipa Coutinho **Museu Marítimo de Ílhavo** 
 
 Um tributo único ao trabalho no mar e uma promoção exímia da cultura e identidade marítima portuguesa, o [Museu Marítimo de Ílhavo](https://museumaritimo.cm-ilhavo.pt/) foi criado por um grupo de amigos do museu no ano de 1937. Após obras de renovação e ampliação, passou a incluir o navio-museu Santo André - um antigo arrastão bacalhoeiro e um aquário de bacalhaus. 
@@ -43,7 +43,7 @@ Este museu testemunha a forte ligação da população de Ílhavo ao mar, da pes
 
 As quatro exposições permanentes incluem um iate da pesca do bacalhau em tamanho real, onde pode descobrir a bordo os elementos materiais que faziam parte do ofício. O aquário de bacalhaus distingue-se por ser aberto e permitir ser visto através de um percurso circular descendente, que vai aproximando os visitantes dos animais. 
 
-![tapeçaria portalegre](img/files_styles_image_00_public_tapecaria_portalegre.jpg, "tapeçaria portalegre")
+![tapeçaria portalegre](img/files_styles_image_00_public_tapecaria_portalegre.jpg)
 A técnica da tapeçaria de Portalegre confere características únicas a estas peças. Fotografia por Museu da Tapeçaria de Portalegre – Guy Fino **Museu da Tapeçaria de Portalegre** 
 
 As tapeçarias de Portalegre são uma peça de arte original que se distingue pela sua qualidade e técnica. Utilizam uma obra de um pintor conhecido para, através de uma técnica exclusivamente manual, criarem a tapeçaria, que vai crescendo horizontalmente num trabalho minucioso e moroso. 
@@ -54,7 +54,7 @@ O [Museu da Tapeçaria de Portalegre – Guy Fino](http://www.cm-portalegre.pt/p
 
 A visita permite apreciar reproduções das obras de Almada Negreiros, Júlio Pomar, Vieira da Silva, Eduardo Nery, Graça Morais, Jean Lurçat, Le Corbusier, entre outros. 
 
-![Galeria de História Natural](img/files_styles_image_00_public_dsc_0.jpg, "Galeria de História Natural")
+![Galeria de História Natural](img/files_styles_image_00_public_dsc_0.jpg)
 A Galeria de História Natural integra o Museu da Ciência da Universidade de Coimbra e foi criada em 1772 para o ensino experimental na Faculdade de Philosophia. Fotografia por Filipa Coutinho **Museu da Ciência da Universidade de Coimbra** 
 
 O Laboratorio Chimico, concebido para o ensino experimental da Química, o Antigo Colégio de Jesus, a Faculdade de Philosophia, o Gabinete de Física – com uma das coleção mais raras e notáveis da Europa, e a Galeria de História Natural – este é o mais antigo museu de Portugal que se mantém no seu espaço de origem. Estes são todos espaços históricos do [Museu da Ciência da Universidade de Coimbra](http://www.museudaciencia.org/) (MCUC), que detém o mais antigo núcleo museológico português de história natural e instrumentos científicos. 

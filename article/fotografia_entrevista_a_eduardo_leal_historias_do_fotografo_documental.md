@@ -1,7 +1,7 @@
 [facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.natgeo.pt%2Ffotografia%2Fentrevista-a-eduardo-leal-historias-do-fotografo-documental) [twitter](https://twitter.com/share?url=https%3A%2F%2Fwww.natgeo.pt%2Ffotografia%2Fentrevista-a-eduardo-leal-historias-do-fotografo-documental&via=natgeo&text=Entrevista%20a%20Eduardo%20Leal%20-%20Hist%C3%B3rias%20do%20Fot%C3%B3grafo%20Documental) [whatsapp](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.natgeo.pt%2Ffotografia%2Fentrevista-a-eduardo-leal-historias-do-fotografo-documental) [flipboard](https://share.flipboard.com/bookmarklet/popout?v=2&title=Entrevista%20a%20Eduardo%20Leal%20-%20Hist%C3%B3rias%20do%20Fot%C3%B3grafo%20Documental&url=https%3A%2F%2Fwww.natgeo.pt%2Ffotografia%2Fentrevista-a-eduardo-leal-historias-do-fotografo-documental) [mail](mailto:?subject=NatGeo&body=https%3A%2F%2Fwww.natgeo.pt%2Ffotografia%2Fentrevista-a-eduardo-leal-historias-do-fotografo-documental%20-%20Entrevista%20a%20Eduardo%20Leal%20-%20Hist%C3%B3rias%20do%20Fot%C3%B3grafo%20Documental) [Fotografia](https://www.natgeo.pt/fotografia) 
 # Entrevista a Eduardo Leal - Histórias do Fotógrafo Documental 
 ## A carreia do fotógrafo documental português é marcada por projetos como ‘Revolução Cubana’, ‘A Ascensão das Cholitas’ e ‘Árvores de Plástico’, e já foi distinguida com prémios como Estação Imagem e Sony World Photo Awards. Por [National Geographic](https://www.natgeo.pt/autor/national-geographic) 
-![Eduardo Leal](img/files_styles_image_00_public_edu_0.jpg, "Eduardo Leal")
+![Eduardo Leal](img/files_styles_image_00_public_edu_0.jpg)
 Eduardo Leal Fotografia por Sophie Gost 
 
 **[Eduardo Leal](http://www.eduardoleal.co.uk/)** nasceu no Porto, onde se formou em Jornalismo e viveu até aos 23 anos, altura em que saiu do país para aprofundar o seu conhecimento na área da fotografia documental. Foi consultor na Fundação Arpad A. Busson durante cinco anos, onde esteve responsável pela coleção ‘Cuba in Revolution’, e integrou a equipa editorial do livro com o mesmo título. 
@@ -22,7 +22,7 @@ Há uma história que fiz sobre [jogadores de basquetebol na Bolívia](http://ww
 
 Há histórias planeadas, como a ‘ [Ascenção das](http://www.eduardoleal.co.uk/cholitas-rise) _[Cholitas](http://www.eduardoleal.co.uk/cholitas-rise) ’_ , que se calhar também foram sorte. Fui documentar as ‘ _Cholitas do Wrestling’_ e não esperava que o tema se desenvolvesse para outro tipo de história. 
 
-![Eduardo Leal no National Geographic Exodus Aveiro Fest](img/files_styles_image_00_public_exodus_01.jpg, "Eduardo Leal no National Geographic Exodus Aveiro Fest")
+![Eduardo Leal no National Geographic Exodus Aveiro Fest](img/files_styles_image_00_public_exodus_01.jpg)
 Eduardo Leal foi um dos oradores da edição de 2018 do National Geographic Exodus Aveiro Fest. Fotografia por Ricardo Matos Abreu 
 
 **É Cada Vez Mais Perigoso Ser Fotojornalista e o Eduardo já Sofreu isso na Pele, em 2014, na Venezuela. Isso Moldou a Forma como se Posiciona no Terreno e Interage com as Pessoas que Fotografa?** 
@@ -47,7 +47,7 @@ Mas ao mesmo tempo, num momento em que os media estão em crise e há menos _ass
 
 Habitualmente trabalho com revistas e media nos Estados Unidos e na Europa, e obviamente é muito difícil uma revista dessas chegar a outros continentes. Se calhar, através das redes sociais consigo levar a história e a voz das pessoas a esses sítios… dão-nos a oportunidade de espalhar a mensagem e de chegar a pessoas, que de outra maneira não chegaríamos. 
 
-![Eduardo Leal no National Geographic Exodus Aveiro Fest](img/files_styles_image_00_public_exodus_01.jpg, "Eduardo Leal no National Geographic Exodus Aveiro Fest")
+![Eduardo Leal no National Geographic Exodus Aveiro Fest](img/files_styles_image_00_public_exodus_01.jpg)
 Eduardo Leal foi um dos oradores da edição de 2018 do National Geographic Exodus Aveiro Fest. Fotografia por Carlos Guiomar 
 
 **Depois de Projetos como ‘ _Afterquake’_ e ‘Copa do Povo’, que Preocupações Leva na Mochila?** 
@@ -74,7 +74,7 @@ Nós documentamos para mostrar uma problemática e para chamar à atenção, mas
 
 Há histórias em todo o lado. Se pararmos, respirarmos e olharmos à nossa volta, começamos a vê-las. 
 
-![National Geographic Exodus Fest 2018](img/files_styles_image_00_public_imagem_exodus_01.jpg, "National Geographic Exodus Fest 2018")
+![National Geographic Exodus Fest 2018](img/files_styles_image_00_public_imagem_exodus_01.jpg)
 Cartaz da edição de 2018 do National Geographic Exodus Fest. Fotografia por National Geographic | Exodus 
 
 **O que o Inspira?** 
@@ -105,11 +105,11 @@ Uma coisa que por vezes critico muito, é a exploração do sofrimento das pesso
 
 Se queremos apelar à humanidade pelos nossos trabalhos, temos de ser humanos, abertos, respeitosos e entender que as pessoas por vezes não têm tempo para nós, porque nos estão a dar acesso à vida e tempo delas. Temos de entender isso e ser pacientes, não só com a luz e o projeto, mas com as pessoas. 
 
-### + artigos [![Timothy Allen](img/files_styles_image_00_public_timothy_0allen_0.jpeg, "Timothy Allen")](https://www.natgeo.pt/fotografia/2018/08/timothy-allen-um-zoologo-apaixonado-por-povos-indigenas) [Fotografia](https://www.natgeo.pt/fotografia) 
-## [Timothy Allen – Um Zoólogo Apaixonado por Povos Indígenas](https://www.natgeo.pt/fotografia/2018/08/timothy-allen-um-zoologo-apaixonado-por-povos-indigenas) [![Fotografia de um projeto com lixo eletrónico de Benjamin Von Wong.](img/files_styles_image_00_public_1_101_1_1_1_1_0_01_1_o.jpg, "Fotografia de um projeto com lixo eletrónico de Benjamin Von Wong.")
+### + artigos [![Timothy Allen](img/files_styles_image_00_public_timothy_0allen_0.jpeg)](https://www.natgeo.pt/fotografia/2018/08/timothy-allen-um-zoologo-apaixonado-por-povos-indigenas) [Fotografia](https://www.natgeo.pt/fotografia) 
+## [Timothy Allen – Um Zoólogo Apaixonado por Povos Indígenas](https://www.natgeo.pt/fotografia/2018/08/timothy-allen-um-zoologo-apaixonado-por-povos-indigenas) [![Fotografia de um projeto com lixo eletrónico de Benjamin Von Wong.](img/files_styles_image_00_public_1_101_1_1_1_1_0_01_1_o.jpg)
 
-![Fotografia de um dos projetos do fotógrafo Benjamin Von Wong.](img/files_styles_image_00_public_1_101_1_1_00_1_0_o.jpg, "Fotografia de um dos projetos do fotógrafo Benjamin Von Wong.")
+![Fotografia de um dos projetos do fotógrafo Benjamin Von Wong.](img/files_styles_image_00_public_1_101_1_1_00_1_0_o.jpg)
 
-![Imagem do fotógrafo Benjamin Von Wong](img/files_styles_image_00_public_1_1_1010_1_1_11_1_0_n.jpg, "Imagem do fotógrafo Benjamin Von Wong")](https://www.natgeo.pt/fotografia/benjamin-von-wong-de-engenheiro-de-minas-a-fotografo) [Fotografia](https://www.natgeo.pt/fotografia) 
-## [Benjamin Von Wong – de Engenheiro de Minas a Fotógrafo](https://www.natgeo.pt/fotografia/benjamin-von-wong-de-engenheiro-de-minas-a-fotografo) [![Fotografia de Matthieu Paley, numa comunidade remota](img/files_styles_image_00_public_mathieu_0palley_0.jpg, "Fotografia de Matthieu Paley, numa comunidade remota")](https://www.natgeo.pt/fotografia/2018/09/matthieu-paley-vem-diretamente-de-uma-caravana-em-portugal-para-o-exodus) [Fotografia](https://www.natgeo.pt/fotografia) 
+![Imagem do fotógrafo Benjamin Von Wong](img/files_styles_image_00_public_1_1_1010_1_1_11_1_0_n.jpg)](https://www.natgeo.pt/fotografia/benjamin-von-wong-de-engenheiro-de-minas-a-fotografo) [Fotografia](https://www.natgeo.pt/fotografia) 
+## [Benjamin Von Wong – de Engenheiro de Minas a Fotógrafo](https://www.natgeo.pt/fotografia/benjamin-von-wong-de-engenheiro-de-minas-a-fotografo) [![Fotografia de Matthieu Paley, numa comunidade remota](img/files_styles_image_00_public_mathieu_0palley_0.jpg)](https://www.natgeo.pt/fotografia/2018/09/matthieu-paley-vem-diretamente-de-uma-caravana-em-portugal-para-o-exodus) [Fotografia](https://www.natgeo.pt/fotografia) 
 ## [Matthieu Paley Vem Diretamente de Uma Caravana em Portugal para o Exodus](https://www.natgeo.pt/fotografia/2018/09/matthieu-paley-vem-diretamente-de-uma-caravana-em-portugal-para-o-exodus) 

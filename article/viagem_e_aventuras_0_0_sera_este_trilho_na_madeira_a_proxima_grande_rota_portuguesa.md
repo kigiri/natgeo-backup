@@ -3,7 +3,7 @@
 [Viagem e Aventuras](https://www.natgeo.pt/viagem-e-aventuras) 
 # Será este trilho na Madeira a próxima Grande Rota portuguesa? 
 ## O trilho de 200 quilómetros desbravado recentemente por André Rocha em cinco dias, reúne declives estonteantes e cenários soberbos, naquela que pode tornar-se uma das primeiras grandes rotas costeiras na ilha da Madeira. Por [Filipa Coutinho](https://www.natgeo.pt/autor/filipa-coutinho) Publicado 23/06/2022, 12:01 
-![André Rocha](img/files_styles_image_00_public.jpg, "André Rocha")
+![André Rocha](img/files_styles_image_00_public.jpg)
 André Rocha fez uma caminhada épica que contornou a Madeira, não escapando à morfologia vertiginosa da ilha. 
 
 Fotografia por [André Rocha](https://www.natgeo.pt/fotografo/andre-rocha) **Luxo é caminhar a solo** num paraíso insular sem avistar gente por muitos quilómetros, apreciando o instante. Assim caminhou André Rocha durante cinco dias em meados de junho. A Grande Rota que mapeou por GPS e que entusiasticamente chamou “Grande Rota Índigo” poderá estar no horizonte do governo regional da Madeira para ser proposta e integrada no plano de rotas nacional. 
@@ -12,7 +12,7 @@ Após [percorrer a pé](https://www.natgeo.pt/viagem-e-aventuras/2021/12/andre-r
 
 A aventura foi projetada há alguns meses e contou com o apoio de entidades regionais e do Instituto de Florestas e Conservação da Natureza. A partir desta matriz, André Rocha apresenta um novo percurso pedestre litoral que privilegia a exploração da ilha no seu contorno. 
 
-![Vereda do Larano](img/files_styles_image_00_public_vereda_do_larano_madeiracdigitaltravelcouple_custom.jpg, "Vereda do Larano")
+![Vereda do Larano](img/files_styles_image_00_public_vereda_do_larano_madeiracdigitaltravelcouple_custom.jpg)
 Vereda do Larano, um dos lugares por onde André caminhou. 
 
 Fotografia por DigitalTravelCouple 
@@ -21,7 +21,7 @@ Fotografia por DigitalTravelCouple
 
 As subidas vertiginosas vão-se mesclando com descidas para praias banhadas pelo tom índigo com o qual André ‘batizou’ o nome da Grande Rota. Este sobe e desce constante foi um dos maiores desafios da rota. Os outros? “Vegetação densa, piso acidentado e ultra variado (alcatrão, terra, pedra, escarpa, pântano, floresta), vento, dias de caminhada longos (40 quilómetros por dia) e a tentação do mergulho em cada praia por onde se passa”. Felizmente, não se registaram incidentes graves, mas alguns desequilíbrios terminaram em quedas, na descida da floresta Laurissilva. 
 
-![Estrada na Madeira](img/files_styles_image_00_public_ar1.jpg, "Estrada na Madeira")
+![Estrada na Madeira](img/files_styles_image_00_public_ar1.jpg)
 Um dos receios de André eram as derrocadas na estrada marginal da costa norte. 
 
 Fotografia por [André Rocha](https://www.natgeo.pt/fotografo/andre-rocha) Apesar de ainda não existir nenhuma grande rota oficial na ilha, na sua opinião “a Madeira tem a infraestrutura natural mais do que necessária para ser imbatível no delinear de uma grande rota”. Por onde começar? “Nós, os que podemos intervir, devemos democratizar a beleza e exuberância da ilha, dando narrativa e condições para uma travessia segura pelos recantos e aventuras de toda a ilha”. 
@@ -31,7 +31,7 @@ André tem uma especial atração por rotas arrojadas e extensas. Em dezembro pa
 
 Na sua opinião a “exuberância da vegetação, a diversidade costeira (norte e sul são dois mundos diferentes) e o desnível fazem da Madeira um Disneyland para quem gosta de aventura e fusão com a natureza envolvente”. Confessa ainda que a “Madeira fica-nos na pele”. 
 
-![Chão da Lagoa](img/files_styles_image_00_public_chao_da_lagoa.jpg, "Chão da Lagoa")
+![Chão da Lagoa](img/files_styles_image_00_public_chao_da_lagoa.jpg)
 Na opinião de André, um dos lugares mais bonitos desta rota é Chão da Lagoa, na área do Parque Natural da Madeira. 
 
 Fotografia por Secretaria Regional de Turismo e Cultura da Madeira 
@@ -40,7 +40,7 @@ A ilha da Madeira é globalmente conhecida pelo seu clima soalheiro, gastronomia
 
 A floresta Laurissilva, incluída na área do Parque Natural da Madeira, ocupa uma área com cerca de 15000 hectares, sendo uma das maiores do mundo. Esta relíquia do Terciário integra a lista dos Patrimónios Mundiais Naturais da UNESCO e abriga uma rede de percursos pedonais e veredas. 
 
-![Costa Norte da Madeira](img/files_styles_image_00_public_costa_norte1cjose_mendes.jpg, "Costa Norte da Madeira")
+![Costa Norte da Madeira](img/files_styles_image_00_public_costa_norte1cjose_mendes.jpg)
 Estrada antiga entre Seixal e S. Vicente na costa Norte da ilha da Madeira. 
 
 Fotografia por José Mendes A biodiversidade da ilha merece ser celebrada com uma paragem nos Miradouros dos Balcões, do Cabo Aéreo e de Cabanas. Se a sua visita permitir um brinde, não perca a Rota dos Vinhos da Madeira. O Jardim Botânico da Madeira e os jardins do ilhéu de Câmara de Lobos são outras duas visitas que não desiludem. Leia mais [propostas](https://www.natgeo.pt/viagem-e-aventuras/2020/01/descubra-o-cobicado-vinho-que-colocou-a-ilha-da-madeira-no-mapa) sobre onde ficar e como se entreter. 

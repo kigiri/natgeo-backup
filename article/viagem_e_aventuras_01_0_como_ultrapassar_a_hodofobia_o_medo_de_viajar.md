@@ -3,7 +3,7 @@
 [Viagem e Aventuras](https://www.natgeo.pt/viagem-e-aventuras) 
 # Como Ultrapassar a Hodofobia – o Medo de Viajar? 
 ## A hodofobia pode manifestar-se de forma mais ou menos grave, chegando a causar falta de ar e tremores por todo o corpo. Descubra como combatê-la. Por [Filipa Coutinho](https://www.natgeo.pt/autor/filipa-coutinho) Publicado 20/08/2019, 18:03 , Atualizado 19/07/2021, 15:54 
-![Autocaravana na Costa da Caparica (à esquerda) e Praia da Ribeira do Cavalo (à direita).](img/files_styles_image_00_public_0desenhos_0sketch_0portugal_1.png, "Autocaravana na Costa da Caparica (à esquerda) e Praia da Ribeira do Cavalo (à direita).")
+![Autocaravana na Costa da Caparica (à esquerda) e Praia da Ribeira do Cavalo (à direita).](img/files_styles_image_00_public_0desenhos_0sketch_0portugal_1.png)
 Autocaravana na Costa da Caparica (à esquerda) e Praia da Ribeira do Cavalo (à direita). Fotografia por André Gomes Viajar possibilita uma troca de culturas e conhecimento, uma troca de hábitos e rotinas, uma troca de experiências e realidades… um autêntico mar de aventuras. Mas sabia que existem pessoas que têm **fobia de viajar** ? Essa condição sintomática é chamada **hodofobia** e pode manifestar-se antes do embarque num automóvel, barco, autocarro ou avião, de forma mais ou menos grave, chegando a causar falta de ar e tremores por todo o corpo. 
 
 Existem pessoas que gostam de viajar em lazer e pessoas que viajam apenas por obrigatoriedade profissional. Há quem prefira viajar a solo e há quem não saiba viajar sem companhia. E até existem pessoas viciadas em viajar, que abandonam a sua carreira para se dedicarem ao _wanderlust_ (forte desejo em viajar). Ao viajar, todos ganhamos qualquer coisa. 
@@ -35,7 +35,7 @@ Osmofobia – aversão a odores desagradáveis
 
 Se tem alguma destas fobias, lembre-se que pode estar a perder a maior aventura da sua vida. E, se ainda assim não o convencemos, veja a nossa seleção de [**imagens dos 10 países mais felizes do mundo**](https://www.natgeo.pt/photography/2019/04/faca-uma-viagem-pelos-paises-mais-felizes-do-mundo) . 
 
-![10. Áustria ](img/files_styles_image_00_public_hallstatt_austria.jpg, "10. Áustria ")
+![10. Áustria ](img/files_styles_image_00_public_hallstatt_austria.jpg)
 ver galeria 
 ## **Como vencer o medo?** 
 Se sofre de algum destes medos, o ideal é confrontar esse receio e ultrapassá-lo. Pode fazê-lo viajando com uma pessoa da sua confiança que lhe consiga transmitir calma, se necessário. 

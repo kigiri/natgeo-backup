@@ -1,7 +1,7 @@
 [facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.natgeo.pt%2Ftelevisao-e-video%2F2020%2F10%2Fum-olhar-feminino-sobre-a-rota-do-trafico) [twitter](https://twitter.com/share?url=https%3A%2F%2Fwww.natgeo.pt%2Ftelevisao-e-video%2F2020%2F10%2Fum-olhar-feminino-sobre-a-rota-do-trafico&via=natgeo&text=Um%20Olhar%20Feminino%20Sobre%20a%20Rota%20do%20Tr%C3%A1fico) [whatsapp](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.natgeo.pt%2Ftelevisao-e-video%2F2020%2F10%2Fum-olhar-feminino-sobre-a-rota-do-trafico) [flipboard](https://share.flipboard.com/bookmarklet/popout?v=2&title=Um%20Olhar%20Feminino%20Sobre%20a%20Rota%20do%20Tr%C3%A1fico&url=https%3A%2F%2Fwww.natgeo.pt%2Ftelevisao-e-video%2F2020%2F10%2Fum-olhar-feminino-sobre-a-rota-do-trafico) [mail](mailto:?subject=NatGeo&body=https%3A%2F%2Fwww.natgeo.pt%2Ftelevisao-e-video%2F2020%2F10%2Fum-olhar-feminino-sobre-a-rota-do-trafico%20-%20Um%20Olhar%20Feminino%20Sobre%20a%20Rota%20do%20Tr%C3%A1fico) [Televisão e Vídeo](https://www.natgeo.pt/televisao-e-video) 
 # Um Olhar Feminino Sobre a Rota do Tráfico 
 ## Nesta entrevista exclusiva, a correspondente da National Geographic Mariana van Zeller, explica como ser mulher facilita o seu trabalho de investigação e fala sobre a atual explosão dos mercados negros. Por [Filipa Coutinho](https://www.natgeo.pt/autor/filipa-coutinho) Publicado 28/10/2020, 16:00 , Atualizado 18/02/2021, 09:11 
-![As reportagens e documentários da jornalista foram distinguidos com o duPont-Columbia Award, o Livingston Award para Jovens ...](img/files_styles_image_00_public_moneyrunners_ep101_trafficked_trafficked_dsc1.jpg, "As reportagens e documentários da jornalista foram distinguidos com o duPont-Columbia Award, o Livingston Award para Jovens ...")
+![As reportagens e documentários da jornalista foram distinguidos com o duPont-Columbia Award, o Livingston Award para Jovens ...](img/files_styles_image_00_public_moneyrunners_ep101_trafficked_trafficked_dsc1.jpg)
 As [reportagens e documentários](https://www.marianavanzeller.com/) da jornalista foram distinguidos com o _duPont-Columbia Award_ , o _Livingston Award_ para Jovens Jornalistas, o _Peabody Award,_ uma honra da Academia de Televisão e uma nomeação para um Emmy. 
 
 Fotografia por National Geographic Destemida aparenta ser uma palavra demasiado diminuta para descrever a coragem e tenacidade de **Mariana van Zeller** . Depois de trabalhar num programa de viagens na SIC, decidiu fazer jornalismo de investigação. Queria compreender por que é que o mundo funciona da forma que funciona. Mudou-se para Nova Iorque para frequentar um mestrado na Columbia University’s Graduate School of Journalism e, apenas um mês após o início das aulas, já se encontrava a reportar os eventos do 11 de setembro para Portugal. 
@@ -21,7 +21,7 @@ São muitos meses de preparação em termos da segurança que temos no terreno e
 Estes primeiros encontros, a que chamo “ _underworld first dates_ ” envolvem sempre bebidas, comida e muita conversa e só depois de terem total confiança em nós é que nos dão acesso. Quando finalmente temos acesso a estes grupos, por vezes até me sinto mais protegida estando dentro do território controlado por eles, do que fora destes territórios. Mas claro que existe sempre uma preparação de segurança, para termos a certeza com quem nos vamos encontrar e onde, para ter a certeza que temos um backup e uma equipa fora desse território que sabe exatamente onde estamos e o que fazer no caso de as coisas correrem mal. 
 
 ![Mariana van Zeller fala com um elemento de uma rede de tráfico em Lima, no Peru.
-](img/files_styles_image_00_public_titansofscamep10_trafficked_dsc0.jpg, "Mariana van Zeller fala com um elemento de uma rede de tráfico em Lima, no Peru.\r\n")
+](img/files_styles_image_00_public_titansofscamep10_trafficked_dsc0.jpg)
 Mariana van Zeller fala com um elemento de uma rede de tráfico em Lima, no Peru. 
 
 Fotografia por National Geographic **Do ponto de vista jornalístico, um encontro com alguém do mercado negro deve ser ao mesmo tempo fascinante e aterrador. Ser mulher facilita?** 
@@ -39,7 +39,7 @@ Mais do que todas as preocupações, carrego a minha segurança e a segurança d
 Perguntam-nos sempre como temos coragem de ir a estes sítios e fazer este tipo de reportagens tão perigosas, mas muitas vezes o que as pessoas não sabem é que dependemos muito dos jornalistas locais que nos ajudam, que já têm os contactos, que nos levam a conhecer estes mundos e que já fizeram reportagens locais. Eles são de facto quem tem coragem, porque têm de ficar no país quando nós voltamos para os nossos países. 
 
 <code>{"tag":"VIDEO"}</code> <code>{"tag":"VIDEO"}</code> [](https://www.natgeo.pt/televisao-e-video/2020/10/um-olhar-feminino-sobre-a-rota-do-trafico#) 
-![](img/mage_svg_xml_charset_utf_csvg_xmlns_http_www_w_org_000_svg_e_c_svg.e, "")
+![](img/mage_svg_xml_charset_utf_csvg_xmlns_http_www_w_org_000_svg_e_c_svg.e)
 
 Publicidade: O seu vídeo começa em 
 
@@ -49,7 +49,7 @@ Publicidade: O seu vídeo começa em
 --:-- / --:-- 
 -------- 
 
-![](img/_plugins_v_1_mpx_unmute_common_assets_volume_off.png, "")
+![](img/_plugins_v_1_mpx_unmute_common_assets_volume_off.png)
 
 audio/video source is invalid 
 
@@ -141,9 +141,9 @@ Show Keyboard Controls
 
 <kbd>?</kbd> or / 
 
-![](img/files_player.jpg, "")
+![](img/files_player.jpg)
 
-![](img/_plugins_v_1_mpx_continue_watching_img_reload.svg, "")
+![](img/_plugins_v_1_mpx_continue_watching_img_reload.svg)
 
 ACABOU DE VER 
 

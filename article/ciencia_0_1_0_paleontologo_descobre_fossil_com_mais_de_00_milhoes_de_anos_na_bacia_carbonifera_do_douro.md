@@ -2,7 +2,7 @@
 # Paleontólogo descobre fóssil com mais de 300 milhões de anos na Bacia Carbonífera do Douro 
 ## O paleontólogo Pedro Correia descobriu recentemente um fóssil de um novo grupo de plantas com 300 milhões de anos na Bacia Carbonífera do Douro. Por [Filipa Coutinho](https://www.natgeo.pt/autor/filipa-coutinho) Publicado 19/02/2021, 11:36 
 ![Iberisetum wegeneri (holótipo).
-](img/files_styles_image_00_public_iberisetum_wegeneri_holotipo.jpg, "Iberisetum wegeneri (holótipo).\n")
+](img/files_styles_image_00_public_iberisetum_wegeneri_holotipo.jpg)
 _Iberisetum wegeneri_ (holótipo). 
 
 Fotografia por Pedro Correia O paleontólogo e investigador do Instituto de Ciências da Terra da Universidade do Porto descobriu, na Bacia Carbonífera do Douro, em Gondomar, um fóssil de um novo grupo de plantas em rochas com 300 milhões de anos. Esta região foi também onde o mesmo paleontólogo descobriu uma [espécie de cavalinha também com cerca de 300 milhões de anos](https://www.natgeo.pt/ciencia/2020/10/descoberta-especie-de-cavalinha-com-cerca-de-300-milhoes-de-anos-na-regiao-do-douro) , uma [espécie de esfenopsídeos denominada Annularia noronhai](https://www.natgeo.pt/ciencia/2019/05/nova-especie-de-planta-fossil-descoberta-na-regiao-do-douro) , e um [fóssil raro de uma barata primitiva](https://www.natgeo.pt/ciencia/2019/09/fossil-de-primitiva-barata-parasitoide-descoberto-na-regiao-do-douro) . 
@@ -14,7 +14,7 @@ Uma das características peculiares do _Iberisetum wegeneri_ é possuir grandes 
 ## **É possível que estas plantas ocorram em outras partes do país? Em que ambientes?** 
 A _Iberisetum wegeneri_ viveu em ambientes muito restritivos como os ambientes intramontanhosos da bacia do Douro. É provável que este tipo de flora tenha ocorrido em outras regiões do país com o mesmo tipo de ambiente e da mesma época, como a bacia do Bussaco. 
 
-![Sítio de escavação ](img/files_styles_image_00_public_sitio_de_escavacao_da_iberisetum_wegeneri_em_s_pedro_da_cova.jpg, "Sítio de escavação ")
+![Sítio de escavação ](img/files_styles_image_00_public_sitio_de_escavacao_da_iberisetum_wegeneri_em_s_pedro_da_cova.jpg)
 Sítio de escavação da _Iberisetum wegeneri_ em São Pedro da Cova. 
 
 Fotografia por Pedro Correia 

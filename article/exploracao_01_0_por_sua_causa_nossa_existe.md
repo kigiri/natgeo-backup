@@ -1,7 +1,7 @@
 [facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.natgeo.pt%2Fexploracao%2F2019%2F02%2Fpor-sua-causa-nossa-existe) [twitter](https://twitter.com/share?url=https%3A%2F%2Fwww.natgeo.pt%2Fexploracao%2F2019%2F02%2Fpor-sua-causa-nossa-existe&via=natgeo&text=Por%20Sua%20Causa%2C%20a%20Nossa%20Existe) [whatsapp](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.natgeo.pt%2Fexploracao%2F2019%2F02%2Fpor-sua-causa-nossa-existe) [flipboard](https://share.flipboard.com/bookmarklet/popout?v=2&title=Por%20Sua%20Causa%2C%20a%20Nossa%20Existe&url=https%3A%2F%2Fwww.natgeo.pt%2Fexploracao%2F2019%2F02%2Fpor-sua-causa-nossa-existe) [mail](mailto:?subject=NatGeo&body=https%3A%2F%2Fwww.natgeo.pt%2Fexploracao%2F2019%2F02%2Fpor-sua-causa-nossa-existe%20-%20Por%20Sua%20Causa%2C%20a%20Nossa%20Existe) [A Nossa Causa](https://www.natgeo.pt/a-nossa-causa) 
 # Por Sua Causa, a Nossa Existe 
 ## Conheça melhor a missão da National Geographic e descubra como o seu contributo é crucial para a proteção e conservação do nosso planeta. Por [National Geographic](https://www.natgeo.pt/autor/national-geographic) Publicado 13/02/2019, 18:27 , Atualizado 12/01/2022, 09:31 
-![](img/files_styles_image_00_public_header_txt.jpg, "")
+![](img/files_styles_image_00_public_header_txt.jpg)
 A National Geographic está no centro de uma comunidade que integra pessoas audazes e com uma ávida curiosidade. Perseguimos grandes questões e desafiamos pensamentos outrora aceites. 
 
 Fundadores como Alexander Graham Bell, acreditavam no poder de uma boa história e de como a mesma poderia estimular a curiosidade, ajudar a resolver grandes problemas e a ultrapassar limites impostos ao ser humano. Através dos nossos **canais televisivos, revista, livros, viagens, exposições e eventos** , oferecemos um vasto conjunto de experiências, onde cada história nos permite conhecer melhor o mundo e o papel de cada um. 
@@ -9,7 +9,7 @@ Fundadores como Alexander Graham Bell, acreditavam no poder de uma boa história
 Ao longo de [mais de 130 anos](https://www.natgeo.pt/historia/2019/10/130-anos-de-descobertas-aventura-e-exploracao) , a National Geographic distingue-se por desafiar, proteger e inspirar a humanidade a ir mais além. A nossa moldura amarela é uma porta para aventuras e diversos locais que o mundo nos reserva e que a National Geographic tem o prazer de trazer até si. 
 
 <code>{"tag":"VIDEO","src":"data:audio/mpeg;base64,SUQzBAAAAAAAI1RTU0UAAAAPAAADTGF2ZjU2LjI1LjEwMQAAAAAAAAAAAAAA//tQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASW5mbwAAAA8AAAACAAAEEwCZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZ//////////////////////////////////////////////////////////////////8AAAAATGF2YzU2LjI2AAAAAAAAAAAAAAAAJAAAAAAAAAAABBN3YQi+AAAAAAAAAAAAAAAAAAAAAP/7kGQAD/AAAGkAAAAIAAANIAAAAQAAAaQAAAAgAAA0gAAABExBTUUzLjk5LjVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVUxBTUUzLjk5LjVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVf/7kmRAj/AAAGkAAAAIAAANIAAAAQAAAaQAAAAgAAA0gAAABFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVU="}</code> <code>{"tag":"VIDEO","src":"https://sire-ngcpt-pmd.fichub.com/mpx/NGP_NatGeo_GS/10/224/video-1550139581_298509381150_mp4_video_1920x1080_4000000_primary_audio_eng_6.mp4"}</code> [](https://www.natgeo.pt/exploracao/2019/02/por-sua-causa-nossa-existe#) 
-![](img/mage_svg_xml_charset_utf_csvg_xmlns_http_www_w_org_000_svg_e_c_svg.e, "")
+![](img/mage_svg_xml_charset_utf_csvg_xmlns_http_www_w_org_000_svg_e_c_svg.e)
 
 Publicidade: O seu vídeo começa em 
 
@@ -19,7 +19,7 @@ Publicidade: O seu vídeo começa em
 --:-- / --:-- 
 -------- 
 
-![](img/_plugins_v_1_mpx_unmute_common_assets_volume_off.png, "")
+![](img/_plugins_v_1_mpx_unmute_common_assets_volume_off.png)
 
 Bem-vindo ao Portal da National Geographic Mas esta porta só está aberta graças ao seu apoio. Sempre que lê, vê, compra ou viaja connosco, está a contribuir para o trabalho dos nossos cientistas, exploradores e educadores em todo o mundo. Sem o seu apoio, os nossos exploradores não conseguiriam ultrapassar o seu primeiro instinto de curiosidade. 
 
@@ -31,12 +31,12 @@ Através do apoio à investigação, exploração e conservação, a **National 
 
 Perceba como o seu contributo é essencial para a exploração do planeta! 
 
-![](img/files_styles_image_00_public_infografia_campanha_0ng.jpg, "")
+![](img/files_styles_image_00_public_infografia_campanha_0ng.jpg)
 Direcionamos a nossa atenção para projetos que promovem a ciência, a tecnologia e a narração de histórias que ajudam na proteção de espécies em vias de extinção e que proporcionam uma maior aprendizagem da história e cultura humanas. 
 
 Conheça alguns dos nossos projetos e o seu impacto. 
 
-![](img/files_styles_image_00_public_imagelink_0_0.png, "")
+![](img/files_styles_image_00_public_imagelink_0_0.png)
 **ALGUNS DOS NOSSOS PROJETOS** 
 
 **Beyond Yellowstone** 

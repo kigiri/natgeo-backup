@@ -3,11 +3,11 @@
 CONTEÚDO PATROCINADO POR 
 
 ![ 
-...](img/files_styles_image_00_public_ng_sponsor_logo_x_ordemcorreta.png, " \n ...")
+...](img/files_styles_image_00_public_ng_sponsor_logo_x_ordemcorreta.png)
 [Viagem e Aventuras](https://www.natgeo.pt/viagem-e-aventuras) 
 # Da quimera ao Dubai 
 ## Dubai, a cidade dos superlativos, é tudo menos artificial e comum, mas o que a torna única? Fomos à procura da sua identidade. Por [Filipa Coutinho](https://www.natgeo.pt/autor/filipa-coutinho) Publicado 12/04/2021, 10:48 
-![Praia do Dubai](img/files_styles_image_00_public_large_dtcm_dscf_11_generic_lamer_final_0.jpg, "Praia do Dubai")
+![Praia do Dubai](img/files_styles_image_00_public_large_dtcm_dscf_11_generic_lamer_final_0.jpg)
 Dubai é uma cidade de luxuosos arranha-céus, portos e praias. 
 
 Fotografia por Turismo do Dubai **Pronuncia-se Du-bayy.** Pode até confundir-se com outro local quando pisca os olhos e aguarda pelos cocktails servidos à borda da piscina. Pode parecer-lhe que o tilintar dos chamamentos para as orações muçulmanas faz lembrar os sinos de igrejas. Pode ficar nas cadeias de hotéis que já conhece. Pode passear-se na baixa antiga e até recordar-se de outros destinos. Pode com certeza desfrutar de muitos entrepostos culturais, mas no Dubai encontra algo que não encontra em mais lado algum, algo que o catapulta para um universo onírico. 
@@ -17,7 +17,7 @@ Esta cidade do Médio Oriente é sumptuosa, futurista, corporativa, inovadora, n
 ## **A origem e a perseguição dos portugueses** 
 Antes de ser habitável, o Dubai era um mangal e, quando esse pântano secou e se tornou habitável por volta de 6000 a.C., acredita-se que os pastores nómadas da Idade do Bronze foram os primeiros a habitar a zona. É difícil imaginar esta cidade antiga, pouco desenvolvida, baixa e estéril. Esta era a terra onde se trocavam missangas, porcelana, especiarias e têxteis vindos de outros lugares. Este fervoroso comércio e a sua posição estratégica começaram a atrair as potências europeias e a facilitar a interação de culturas. Em 1498, Ahmad Ibn Majid, um marinheiro de Omã, ajudou Vasco da Gama a navegar no Estreito de Ormuz. Os navegadores portugueses aproveitaram esse conhecimento para anexar a Ilha de Socotra no Iémen, ocupando Omã e colonizando o Bahrein. 
 
-![Dubai antigo](img/files_styles_image_00_public_large_old_dubai_al_ras_1.jpg, "Dubai antigo")
+![Dubai antigo](img/files_styles_image_00_public_large_old_dubai_al_ras_1.jpg)
 Certas partes da cidade têm o poder de nos transportar para uma realidade mais antiga. 
 
 Fotografia por Turismo do Dubai Mais tarde, nos séculos XVII e XVIII, os portugueses foram perseguidos por franceses e holandeses, que compreenderam o valor estratégico da costa do Golfo e da proteção das suas próprias rotas comerciais para o leste. Contudo, foram os ingleses quem mais conseguiu reivindicar o futuro da região, assegurando as rotas comerciais para a Índia e mantendo a terra protegida dos turcos e Persas. Em troca da proteção britânica, os xeques locais renunciaram toda a jurisdição dos seus negócios estrangeiros. 
@@ -38,7 +38,7 @@ Esta cidade é também uma extensa ementa de destinos para todos os gostos, à d
 ## Veja estas atrações imperdíveis no Dubai 
 
 ![A caminhada até às montanhas de Hatta oferece vistas magníficas. 
-](img/files_styles_image_00_public_hatta_hiking_china_large.jpg, "A caminhada até às montanhas de Hatta oferece vistas magníficas. \r\n")
+](img/files_styles_image_00_public_hatta_hiking_china_large.jpg)
 ver galeria 
 ## **Sustentabilidade aos molhos** 
 O Dubai dá passos ousados em direção a um mundo mais consciente, afastando-se da abundância de outros tempos. A cidade não esconde a sua ambição: há pouco mais de dez anos possuía uma das mais pesadas pegadas ambientais, mas em 2050 pretende ter uma das mais leves. 
@@ -48,7 +48,7 @@ E a cidade já começou a mudar. Na periferia foi criado um complexo habitaciona
 A sua identidade continuará a ser contornada por rios e lagos artificiais. Este cenário não é difícil de imaginar numa região em que a terra frequentemente se “transforma” em água e a água em terra. E quando as ideias escassearem, o Dubai irá reinventar-se como poucas cidades conseguem. A [Expo de 2020](https://www.expo2020dubai.com/) , adiada devido à pandemia, promete trazer experiências inesquecíveis de 1 de outubro de 2021 a 31 de março de 2022, onde serão anunciadas soluções para o novo mundo. 
 
 ![Ir ao Dubai e não subir a um arranha-céus é equivalente a um sacrilégio.
-](img/files_styles_image_00_public_dtcm_at_the_top_burj_khalifa_1.jpg, "Ir ao Dubai e não subir a um arranha-céus é equivalente a um sacrilégio.\r\n")
+](img/files_styles_image_00_public_dtcm_at_the_top_burj_khalifa_1.jpg)
 Ir ao Dubai e não subir a um arranha-céus é equivalente a um sacrilégio. 
 
 Fotografia por Elmer Magallanes , Turismo do Dubai 

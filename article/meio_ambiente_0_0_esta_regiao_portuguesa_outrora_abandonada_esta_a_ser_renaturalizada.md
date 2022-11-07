@@ -1,7 +1,7 @@
 [facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.natgeo.pt%2Fmeio-ambiente%2F2022%2F03%2Festa-regiao-portuguesa-outrora-abandonada-esta-a-ser-renaturalizada) [twitter](https://twitter.com/share?url=https%3A%2F%2Fwww.natgeo.pt%2Fmeio-ambiente%2F2022%2F03%2Festa-regiao-portuguesa-outrora-abandonada-esta-a-ser-renaturalizada&via=natgeo&text=Esta%20regi%C3%A3o%20portuguesa%20outrora%20abandonada%20est%C3%A1%20a%20ser%20renaturalizada) [whatsapp](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.natgeo.pt%2Fmeio-ambiente%2F2022%2F03%2Festa-regiao-portuguesa-outrora-abandonada-esta-a-ser-renaturalizada) [flipboard](https://share.flipboard.com/bookmarklet/popout?v=2&title=Esta%20regi%C3%A3o%20portuguesa%20outrora%20abandonada%20est%C3%A1%20a%20ser%20renaturalizada&url=https%3A%2F%2Fwww.natgeo.pt%2Fmeio-ambiente%2F2022%2F03%2Festa-regiao-portuguesa-outrora-abandonada-esta-a-ser-renaturalizada) [mail](mailto:?subject=NatGeo&body=https%3A%2F%2Fwww.natgeo.pt%2Fmeio-ambiente%2F2022%2F03%2Festa-regiao-portuguesa-outrora-abandonada-esta-a-ser-renaturalizada%20-%20Esta%20regi%C3%A3o%20portuguesa%20outrora%20abandonada%20est%C3%A1%20a%20ser%20renaturalizada) [Olhares de Portugal](https://www.natgeo.pt/olhares-de-portugal) 
 # Esta região portuguesa outrora abandonada está a ser renaturalizada 
 ## Há uma equipa de biólogos jovens, dedicados afincadamente à renaturalização do Vale do Rio Côa, que pretende reforçar um corredor de 120.000 hectares para a vida selvagem. Por [Filipa Coutinho](https://www.natgeo.pt/autor/filipa-coutinho) Publicado 10/03/2022, 15:58 , Atualizado 10/03/2022, 17:30 
-![A equipa de biólogos e especialistas da Rewilding Portugal está a implementar esforços para tornar esta ...](img/files_styles_image_00_public_0_a_0.jpg, "A equipa de biólogos e especialistas da Rewilding Portugal está a implementar esforços para tornar esta ...")
+![A equipa de biólogos e especialistas da Rewilding Portugal está a implementar esforços para tornar esta ...](img/files_styles_image_00_public_0_a_0.jpg)
 A equipa de biólogos e especialistas da Rewilding Portugal está a implementar esforços para tornar esta região do Vale do Rio Côa mais selvagem e biodiversa. 
 
 Fotografia por Rewilding Portugal Nas margens do Grande Vale do Côa, no nordeste do país, as densas florestas foram desaparecendo e sendo trocadas por olivais e pastos para ovelhas. Nas últimas décadas também os agricultores abandonaram estas terras, o que não significa que existam mais condições de atração para a vida selvagem. É imperativo um refortalecimento da região para criar um novo espaço, capaz de reunir animais selvagens e um território mais saudável para todos. 
@@ -13,7 +13,7 @@ O processo de _rewilding_ , ou renaturalização, é uma abordagem inovadora e p
 
 Pedro Prata, biólogo da conservação e diretor da ONG portuguesa, regressou à zona onde cresceu para lutar pela restauração deste habitat. Após ter estudado e trabalhado na Holanda, no Brasil e nos EUA, é um dos poucos membros da sua família que regressou às origens. Pretende implementar uma estratégia de _rewilding_ para trazer de volta a vida selvagem e rejuvenescer a população habitante. Aos seus olhos, a renaturalização não deve ser sinónimo de isolamento. Deve incluir a população tanto quanto possível, reforçando também a conexão da população à natureza. Tudo deve ser pensado como um ecossistema, aumentando a consciencialização sobre a conservação da natureza e melhorando a situação socioeconómica das comunidades locais. 
 
-![Cavalos no Vale do Côa](img/files_styles_image_00_public_dsc0_0_0_x1.jpg, "Cavalos no Vale do Côa")
+![Cavalos no Vale do Côa](img/files_styles_image_00_public_dsc0_0_0_x1.jpg)
 Os cavalos, juntamente com as aves, são importantes difusores de sementes e da biodiversidade. Como parte dos esforços de renaturalização da região, a organização tem adquirido cavalos para estas terras. 
 
 Fotografia por Rewilding Portugal A organização visa construir uma economia baseada na natureza e na cultura para criar apoio comunitário a um ambiente mais selvagem, em que os processos naturais e a vida selvagem modelam a paisagem. Do rio Douro, no norte, até às montanhas da Malcata, no sul, a ONG pretende aumentar a área de terra sob restauração e reduzir as principais ameaças a habitats e espécies. 
@@ -22,7 +22,7 @@ Outro dos problemas da região são as vastas culturas de Eucalipto e os incênd
 
 Esta estratégia começa a dar frutos. O Vale do Côa está a ser reabitado aos poucos e a tornar-se num lugar mais selvagem. Há uma nova colónia reprodutora de abutre preto confirmada recentemente na Reserva Natural da Serra da Malcata e também o lobo ibérico, o veado-vermelho e o corço continuam a expandir a sua área de distribuição. 
 
-![Equipa da Rewilding Portugal](img/files_styles_image_00_public_screenshot1.jpg, "Equipa da Rewilding Portugal")
+![Equipa da Rewilding Portugal](img/files_styles_image_00_public_screenshot1.jpg)
 A ONG irá identificar oportunidades de negócio desde a produção de produtos agrícolas locais ao turismo, entre outras. Estas oportunidades de negócio devem apoiar os objetivos de conservação da vida selvagem e ser comercialmente sustentáveis. 
 
 Fotografia por Rewilding Portugal 

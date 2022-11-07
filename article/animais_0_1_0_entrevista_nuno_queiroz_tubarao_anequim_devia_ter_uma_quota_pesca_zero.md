@@ -1,7 +1,7 @@
 [facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.natgeo.pt%2Fanimais%2F2021%2F07%2Fentrevista-nuno-queiroz-tubarao-anequim-devia-ter-uma-quota-pesca-zero) [twitter](https://twitter.com/share?url=https%3A%2F%2Fwww.natgeo.pt%2Fanimais%2F2021%2F07%2Fentrevista-nuno-queiroz-tubarao-anequim-devia-ter-uma-quota-pesca-zero&via=natgeo&text=Nuno%20Queiroz%3A%20%E2%80%9C%C3%89%20j%C3%A1%20evidente%20que%20o%20tubar%C3%A3o-anequim%20devia%20ter%20uma%20quota%20de%20pesca%20de%20zero%E2%80%9D) [whatsapp](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.natgeo.pt%2Fanimais%2F2021%2F07%2Fentrevista-nuno-queiroz-tubarao-anequim-devia-ter-uma-quota-pesca-zero) [flipboard](https://share.flipboard.com/bookmarklet/popout?v=2&title=Nuno%20Queiroz%3A%20%E2%80%9C%C3%89%20j%C3%A1%20evidente%20que%20o%20tubar%C3%A3o-anequim%20devia%20ter%20uma%20quota%20de%20pesca%20de%20zero%E2%80%9D&url=https%3A%2F%2Fwww.natgeo.pt%2Fanimais%2F2021%2F07%2Fentrevista-nuno-queiroz-tubarao-anequim-devia-ter-uma-quota-pesca-zero) [mail](mailto:?subject=NatGeo&body=https%3A%2F%2Fwww.natgeo.pt%2Fanimais%2F2021%2F07%2Fentrevista-nuno-queiroz-tubarao-anequim-devia-ter-uma-quota-pesca-zero%20-%20Nuno%20Queiroz%3A%20%E2%80%9C%C3%89%20j%C3%A1%20evidente%20que%20o%20tubar%C3%A3o-anequim%20devia%20ter%20uma%20quota%20de%20pesca%20de%20zero%E2%80%9D) [Animais](https://www.natgeo.pt/animais) 
 # Nuno Queiroz: “É já evidente que o tubarão-anequim devia ter uma quota de pesca de zero” 
 ## Em conversa com a National Geographic, o investigador Nuno Queiroz sublinhou a urgência da melhoria das medidas de proteção dos tubarões e a necessidade da sua implementação rigorosa. Por [Filipa Coutinho](https://www.natgeo.pt/autor/filipa-coutinho) Publicado 15/07/2021, 14:49 
-![Nuno Queiroz](img/files_styles_image_00_public_0_10_1.jpg, "Nuno Queiroz")
+![Nuno Queiroz](img/files_styles_image_00_public_0_10_1.jpg)
 Nuno Queiroz, um dos maiores especialistas portugueses no estudo e monitorização de tubarões, esteve recentemente nos Açores a marcar tubarões para posterior análise do seu comportamento. 
 
 Fotografia por Nuno Queiroz Os tubarões podem provocar medo e receio como nenhuma outra criatura marinha, mas isso não justifica a sua ingrata demonização pela cultura popular. Sabia que a probabilidade de morrermos esmagados por uma máquina de venda automática é maior do que no ataque de um tubarão? 
@@ -24,9 +24,9 @@ Desde pequeno que sempre senti um fascínio pela vida marinha e em particular po
 
 Os tubarões existem por toda a costa portuguesa, mas há zonas onde é mais fácil encontrá-los, como por exemplo no Algarve ou ao largo dos [Açores](https://www.natgeo.pt/animais/2021/06/varios-tubaroes-de-alto-mar-avistados-ao-largo-dos-acores) e Madeira. Diria que os Açores serão a zona onde existe uma maior diversidade porque para além de ser possível observar espécies também comuns em Portugal continental, é uma região que recebe a 'visita' sazonal de espécies menos frequentes, como tubarões-baleia por exemplo. 
 
-![Marcação de tubarão](img/files_styles_image_00_public_img_0_10_wa00.jpg, "Marcação de tubarão")
+![Marcação de tubarão](img/files_styles_image_00_public_img_0_10_wa00.jpg)
 
-![Marcação de tubarão](img/files_styles_image_00_public_img_0_10_wa000.jpg, "Marcação de tubarão")
+![Marcação de tubarão](img/files_styles_image_00_public_img_0_10_wa000.jpg)
 **Esquerda:** **Superior:** A equipa de investigadores esteve a marcar tubarões com a tag da equipa e transmissores de satélite. 
 
 **Direita:** **Inferior:** A marcação dos indivíduos é feita através de transmissores colocados na barbatana, uma zona maioritariamente composta por cartilagem e pouco vascularizada, ideal para uma marcação com o menor impacto possível. 

@@ -3,7 +3,7 @@
 [Viagem e Aventuras](https://www.natgeo.pt/viagem-e-aventuras) 
 # 7 Atividades no destino de natureza mais radical de Portugal 
 ## Este município em Portugal tem-se afirmado como o destino de natureza mais radical do país e oferece aventuras para todas as idades. Por [Filipa Coutinho](https://www.natgeo.pt/autor/filipa-coutinho) Publicado 30/06/2021, 12:22 
-![Melgaço, sede do concelho mais a norte de Portugal, é abraçado por serras e serpenteado pelos ...](img/files_styles_image_00_public_mg_1_1.jpg, "Melgaço, sede do concelho mais a norte de Portugal, é abraçado por serras e serpenteado pelos ...")
+![Melgaço, sede do concelho mais a norte de Portugal, é abraçado por serras e serpenteado pelos ...](img/files_styles_image_00_public_mg_1_1.jpg)
 Melgaço, sede do concelho mais a norte de Portugal, é abraçado por serras e serpenteado pelos rios Minho, Laboreiro, Mouro e Trancoso. 
 
 Fotografia por Município de Melgaço **Quando chegamos a Melgaço,** deixamo-nos contagiar pelo entusiasmo com que nos recebem. A afetuosa simpatia e generosidade dos seus habitantes acompanha o mais simples contacto. 
@@ -16,7 +16,7 @@ Deixamos-lhe algumas ideias por onde pode começar.
 
 ## **Encha-se de adrenalina nos vários percursos de canyoning** 
 
-![Canyoning ](img/files_styles_image_00_public_dsc.jpg, "Canyoning ")
+![Canyoning ](img/files_styles_image_00_public_dsc.jpg)
 Esta atividade desportiva consiste na exploração de canyons (penhascos) e descida de rios e regatos, que podem ser mais ou menos sinuosos, utilizando vários equipamentos e técnicas como o rappel. 
 
 Fotografia por Município de Melgaço Passando por piscinas naturais límpidas e cascatas deslumbrantes, esta atividade promete surpreendê-lo com as mais variadas técnicas de progressão e levá-lo a lugares idílicos, apenas acessíveis desta forma. 
@@ -31,9 +31,9 @@ O canyoning é indicado para todas as idades, desde que o nível de dificuldade 
 
 ## **Suba ao castelo de Castro Laboreiro para uma vista inesquecível** 
 
-![Castelo de Castro Laboreiro](img/files_styles_image_00_public_castelo_de_castro_laboreiro_1_large.jpg, "Castelo de Castro Laboreiro")
+![Castelo de Castro Laboreiro](img/files_styles_image_00_public_castelo_de_castro_laboreiro_1_large.jpg)
 
-![Vista aérea do castelo de Castro Laboreiro ](img/files_styles_image_00_public_foto_aacrea_melgaasso.jpg, "Vista aérea do castelo de Castro Laboreiro ")
+![Vista aérea do castelo de Castro Laboreiro ](img/files_styles_image_00_public_foto_aacrea_melgaasso.jpg)
 **Esquerda:** **Superior:** **** Para encontrar o percurso até ao castelo de Castro Laboreiro contorne o restaurante Miradouro do Castelo. 
 
 **Direita:** **Inferior:** A vista aérea do castelo de Castro Laboreiro demonstra a grandiosidade deste local. 
@@ -48,7 +48,7 @@ A origem da exploração deste local remonta à Idade do Ferro até, mais tarde,
 
 ## **Ganhe coragem e faça um salto pendular** 
 
-![Salto pendular](img/files_styles_image_00_public_mg_00.jpg, "Salto pendular")
+![Salto pendular](img/files_styles_image_00_public_mg_00.jpg)
 O salto pendular assemelha-se ao _bungee jumping_ , mas ao contrário dessa atividade, o praticante pode ter uma intervenção no desenvolvimento e criatividade do seu salto. 
 
 Fotografia por Município de Melgaço O salto pendular desafia-o a saltar em queda livre de uma altura de 30 metros, com panorâmica do rio Minho. O lançamento vertical é feito de cabeça e de forma dianteira, para o “vazio”, até as cordas ficarem tensas e darem início ao movimento pendular. Nessa fase, o praticante ficará a baloiçar como um pêndulo de um relógio e poderá controlar o movimento com o corpo. 
@@ -59,7 +59,7 @@ Os saltos da ponte internacional Peso-Arbo são organizados pelas empresas Melga
 
 ## **Alterne a aventura com o relaxamento no Parque Termal** 
 
-![Termas de Melgaço](img/files_styles_image_00_public_dscf.jpg, "Termas de Melgaço")
+![Termas de Melgaço](img/files_styles_image_00_public_dscf.jpg)
 As Termas de Melgaço inserem-se no Parque Termal **** do Peso e o seu complexo possui vários edifícios de arquitetura imponente, como a Buvete, desenhada pelo Engenheiro Luís Couto dos Santos. **** 
 
 Fotografia por Filipa Coutinho , National Geographic Foi em 1884, após a cura da esposa de um médico de Vila Nova de Cerveira, que padecia de uma doença de estômago, que as águas do Peso começaram a ser valorizadas. Estas águas são reconhecidas pelo seu contributo terapêutico no tratamento de doenças respiratórias, digestivas, reumáticas, metabólico-endócrinas e músculo-esqueléticas. 
@@ -72,9 +72,9 @@ Pode ainda passear pelo parque, descobrir os outros edifícios do complexo terma
 
 ## **Descubra o Rio Minho numa experiência de rafting** 
 
-![Rafting ](img/files_styles_image_00_public_mg_1.jpg, "Rafting ")
+![Rafting ](img/files_styles_image_00_public_mg_1.jpg)
 
-![Rafting](img/files_styles_image_00_public_mg.jpg, "Rafting")
+![Rafting](img/files_styles_image_00_public_mg.jpg)
 **Esquerda:** **Superior:** O rafting consiste na descida de rios com águas agitadas em botes insufláveis. 
 
 **Direita:** **Inferior:** A Melgaço Radical e a Melgaço White Water são as duas empresas que operam no território. 
@@ -89,7 +89,7 @@ Esta foi a primeira atividade de desporto de natureza a ser implementada em Melg
 
 ## **Viaje no tempo explorando o trilho do megalitismo** 
 
-![Monumento megalítico ](img/files_styles_image_00_public_dscf.jpg, "Monumento megalítico ")
+![Monumento megalítico ](img/files_styles_image_00_public_dscf.jpg)
 Monumento megalítico que se pode observar no trilho do planalto de Castro Laboreiro, onde foram encontrados quartzos afeiçoados pelo homem e um vaso. **** 
 
 Fotografia por Filipa Coutinho , National Geographic Outro dos programas imperdíveis no território de Melgaço é a caminhada pelo planalto de Castro Laboreiro. Além de observar a riquíssima flora e as paisagens exploradas por garranos, o trilho permite visitar a Necrópole Megalítica do planalto, inserida na área com a maior concentração de monumentos megalíticos da Península Ibérica - e uma das maiores da Europa. 
@@ -100,7 +100,7 @@ Dos vários vestígios pré-históricos existentes na região, esta é uma das m
 
 ## **Teste a sua sorte à procura de lobos ibéricos** 
 
-![Apesar de persistentes, as alcateias de lobos ibéricos que habitam a região variam muito de tamanho. ...](img/files_styles_image_00_public_nationalgeographic_1_large.jpg, "Apesar de persistentes, as alcateias de lobos ibéricos que habitam a região variam muito de tamanho. ...")
+![Apesar de persistentes, as alcateias de lobos ibéricos que habitam a região variam muito de tamanho. ...](img/files_styles_image_00_public_nationalgeographic_1_large.jpg)
 Apesar de persistentes, as alcateias de lobos ibéricos que habitam a região variam muito de tamanho. Estima-se que 80 a 90% da sua dieta sejam animais domésticos e pecuária, facto que infelizmente motiva conflitos pecuários e aumenta a mortalidade ilegal da espécie em perigo de extinção. 
 
 Fotografia por Joël Sartore , National Geographic Photo Ark É verdade, ao caminhar pelo planalto de Castro Laboreiro, pode ter a (extrema) sorte de ter um encontro com um lobo ibérico. Mas alertamos: será mais provável encontrar vestígios da sua passagem como pegadas, ossadas ou matérias fecais. Os excrementos são frequentemente observados em cruzamentos de trilhos e apresentam-se como uma mensagem odorífica e territorial para os indivíduos de outras alcateias ou até mesmo outros animais. 

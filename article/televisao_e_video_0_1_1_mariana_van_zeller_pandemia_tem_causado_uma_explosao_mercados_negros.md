@@ -1,7 +1,7 @@
 [facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.natgeo.pt%2Ftelevisao-e-video%2F2021%2F12%2Fmariana-van-zeller-pandemia-tem-causado-uma-explosao-mercados-negros) [twitter](https://twitter.com/share?url=https%3A%2F%2Fwww.natgeo.pt%2Ftelevisao-e-video%2F2021%2F12%2Fmariana-van-zeller-pandemia-tem-causado-uma-explosao-mercados-negros&via=natgeo&text=Mariana%20van%20Zeller%3A%20%E2%80%9CA%20pandemia%20tem%20causado%20uma%20explos%C3%A3o%20significativa%20nos%20mercados%20negros%20mundiais%E2%80%9D) [whatsapp](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.natgeo.pt%2Ftelevisao-e-video%2F2021%2F12%2Fmariana-van-zeller-pandemia-tem-causado-uma-explosao-mercados-negros) [flipboard](https://share.flipboard.com/bookmarklet/popout?v=2&title=Mariana%20van%20Zeller%3A%20%E2%80%9CA%20pandemia%20tem%20causado%20uma%20explos%C3%A3o%20significativa%20nos%20mercados%20negros%20mundiais%E2%80%9D&url=https%3A%2F%2Fwww.natgeo.pt%2Ftelevisao-e-video%2F2021%2F12%2Fmariana-van-zeller-pandemia-tem-causado-uma-explosao-mercados-negros) [mail](mailto:?subject=NatGeo&body=https%3A%2F%2Fwww.natgeo.pt%2Ftelevisao-e-video%2F2021%2F12%2Fmariana-van-zeller-pandemia-tem-causado-uma-explosao-mercados-negros%20-%20Mariana%20van%20Zeller%3A%20%E2%80%9CA%20pandemia%20tem%20causado%20uma%20explos%C3%A3o%20significativa%20nos%20mercados%20negros%20mundiais%E2%80%9D) [Televisão e Vídeo](https://www.natgeo.pt/televisao-e-video) 
 # Mariana van Zeller: “A pandemia tem causado uma explosão significativa nos mercados negros mundiais” 
 ## Conversámos com Mariana van Zeller antes da estreia da segunda temporada de “Na Rota do Tráfico” sobre alguns dos momentos que mais a surpreenderam durante as gravações. Por [Filipa Coutinho](https://www.natgeo.pt/autor/filipa-coutinho) Publicado 7/12/2021, 17:26 
-![Na série “Na Rota do Tráfico com Mariana Van Zeller”, a jornalista portuguesa conduz os espectadores ...](img/files_styles_image_00_public_blackmarketmarijuana_trafficked_0_b.jpg, "Na série “Na Rota do Tráfico com Mariana Van Zeller”, a jornalista portuguesa conduz os espectadores ...")
+![Na série “Na Rota do Tráfico com Mariana Van Zeller”, a jornalista portuguesa conduz os espectadores ...](img/files_styles_image_00_public_blackmarketmarijuana_trafficked_0_b.jpg)
 Na série “Na Rota do Tráfico com Mariana Van Zeller”, a jornalista portuguesa conduz os espectadores numa viagem a lugares nunca antes vistos. 
 
 Fotografia por National Geographic Há 15 anos que Mariana van Zeller investiga e se encontra com indivíduos de redes criminosas para revelar como operam os mercados negros. Depois do sucesso da primeira temporada de “ [Na Rota do Tráfico com Mariana van Zeller](https://www.natgeo.pt/video/tv/rota-trafico-com-mariana-van-zeller) ”, a nova temporada chega no dia 18 de dezembro ao National Geographic. 
@@ -15,7 +15,7 @@ Na série documental, a premiada jornalista explora o funcionamento interno dos 
 Acho que o mais assustador foi o tempo que passei com o movimento de supremacia branca, sentando-me ao lado de alguns neonazis que falavam abertamente sobre a violência e a morte dos que chamam “invasores do ocidente”, e também da forma como falavam das minorias e da imigração. Foi bastante assustador, sabendo que o que eles dizem faz parte de uma rede global de supremacia branca que está em crescimento e que tem tido efeito direto em ataques terroristas não só nos EUA, como na Nova Zelândia e na Noruega, e que estão todos interconectados. Foi assustador perceber que este movimento funciona muito como o tráfico de drogas ou de armas. Em vez de estarem a colocar drogas ou armas nos corpos de pessoas, estão a colocar ideias e mentiras nas suas cabeças. 
 
 <code>{"tag":"VIDEO"}</code> <code>{"tag":"VIDEO"}</code> [](https://www.natgeo.pt/televisao-e-video/2021/12/mariana-van-zeller-pandemia-tem-causado-uma-explosao-mercados-negros#) 
-![](img/mage_svg_xml_charset_utf_csvg_xmlns_http_www_w_org_000_svg_e_c_svg.e, "")
+![](img/mage_svg_xml_charset_utf_csvg_xmlns_http_www_w_org_000_svg_e_c_svg.e)
 
 Publicidade: O seu vídeo começa em 
 
@@ -25,7 +25,7 @@ Publicidade: O seu vídeo começa em
 --:-- / --:-- 
 -------- 
 
-![](img/_plugins_v_1_mpx_unmute_common_assets_volume_off.png, "")
+![](img/_plugins_v_1_mpx_unmute_common_assets_volume_off.png)
 
 audio/video source is invalid 
 
@@ -117,9 +117,9 @@ Show Keyboard Controls
 
 <kbd>?</kbd> or / 
 
-![](img/files_player.jpg, "")
+![](img/files_player.jpg)
 
-![](img/_plugins_v_1_mpx_continue_watching_img_reload.svg, "")
+![](img/_plugins_v_1_mpx_continue_watching_img_reload.svg)
 
 ACABOU DE VER 
 
@@ -140,9 +140,9 @@ Começámos a gravar a segunda temporada em julho de 2020 e o que reparámos de 
 
 Houve uma cena que nunca mais me vou esquecer. Estávamos em mar aberto, no oceano Atlântico, quando fizemos o episódio da pesca ilegal. Fomos com a Sea Shepherd e com a Liberian Coast Guard, com quem entrámos a meio da noite num barco que eles achavam que estava a pescar ilegalmente. Estavam ondas grandes, aproximámo-nos do barco sem luzes, com escuridão total, e tínhamos de saltar para cima de um escadote para subir, com o barco a andar, sem sabermos com que situação nos iríamos deparar. Existem situações em que estes barcos de pesca ilegal têm pessoas armadas lá dentro e nós no momento não sabíamos. Foi um momento de grande preocupação para a equipa toda. 
 
-![Durante as gravações do episódio "Metanfetaminas"](img/files_styles_image_00_public_meth_trafficked_b.jpg, "Durante as gravações do episódio \"Metanfetaminas\"")
+![Durante as gravações do episódio "Metanfetaminas"](img/files_styles_image_00_public_meth_trafficked_b.jpg)
 
-![Gravações do episódio "Supremacia Branca"](img/files_styles_image_00_public_whitesupremacy_trafficked_b.jpeg, "Gravações do episódio \"Supremacia Branca\"")
+![Gravações do episódio "Supremacia Branca"](img/files_styles_image_00_public_whitesupremacy_trafficked_b.jpeg)
 **Esquerda:** **Superior:** Mariana van Zeller durante as gravações do episódio sobre metanfetaminas. 
 
 **Direita:** **Inferior:** Uma das conversas da jornalista realizadas para o episódio "Supremacia Branca". 

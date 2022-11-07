@@ -2,9 +2,9 @@ import { readFile, readdir, stat } from 'node:fs/promises'
 import { createWriteStream } from 'node:fs'
 import { pipeline } from 'node:stream/promises'
 
-const files = await readdir('.')
+const files = await readdir('data')
 const data = await Promise.all(files
-  .filter(f => !f.startsWith('package') && f.endsWith('.json'))
+  .filter(f => f.endsWith('.json'))
   .map(async f => JSON.parse(await readFile(f, 'utf8'))))
 
 const getSource = el => {
@@ -12,7 +12,7 @@ const getSource = el => {
   return source ? [source] : []
 }
 
-const toImgPath = path => `img/` + path
+const toImgPath = path => `article/img/` + path
   .slice(1)
   .toLowerCase()
   .replace(/[^a-z0-1]+/g, '_')

@@ -1,7 +1,7 @@
 [facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.natgeo.pt%2Ftubarao%2F2019%2F05%2Fuma-nova-perspetiva-dos-tubaroes-entrevista-a-brian-skerry) [twitter](https://twitter.com/share?url=https%3A%2F%2Fwww.natgeo.pt%2Ftubarao%2F2019%2F05%2Fuma-nova-perspetiva-dos-tubaroes-entrevista-a-brian-skerry&via=natgeo&text=Uma%20Nova%20Perspetiva%20dos%20Tubar%C3%B5es%3A%20Entrevista%20a%20Brian%20Skerry) [whatsapp](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.natgeo.pt%2Ftubarao%2F2019%2F05%2Fuma-nova-perspetiva-dos-tubaroes-entrevista-a-brian-skerry) [flipboard](https://share.flipboard.com/bookmarklet/popout?v=2&title=Uma%20Nova%20Perspetiva%20dos%20Tubar%C3%B5es%3A%20Entrevista%20a%20Brian%20Skerry&url=https%3A%2F%2Fwww.natgeo.pt%2Ftubarao%2F2019%2F05%2Fuma-nova-perspetiva-dos-tubaroes-entrevista-a-brian-skerry) [mail](mailto:?subject=NatGeo&body=https%3A%2F%2Fwww.natgeo.pt%2Ftubarao%2F2019%2F05%2Fuma-nova-perspetiva-dos-tubaroes-entrevista-a-brian-skerry%20-%20Uma%20Nova%20Perspetiva%20dos%20Tubar%C3%B5es%3A%20Entrevista%20a%20Brian%20Skerry) [Sharks](https://www.natgeo.pt/sharks) 
 # Uma Nova Perspetiva dos Tubarões: Entrevista a Brian Skerry 
 ## Com mais de 10 mil horas debaixo de água e 14 viagens à volta do mundo, Brian Skerry é um dos principais fotógrafos subaquáticos do mundo e um acérrimo promotor da conservação marinha. Por [National Geographic](https://www.natgeo.pt/autor/national-geographic) Publicado 21/05/2019, 17:37 
-![Fotografia de um mergulhador ao lado de um tubarão](img/files_styles_image_00_public_01_national_0geographic_0sharks_0brian_0skerry_0oceanic_0whitetip.jpg, "Fotografia de um mergulhador ao lado de um tubarão")
+![Fotografia de um mergulhador ao lado de um tubarão](img/files_styles_image_00_public_01_national_0geographic_0sharks_0brian_0skerry_0oceanic_0whitetip.jpg)
 "A primeira vez que estive na presença de um tubarão-de-pontas-brancas foi na Ilha do Gato, em 2006, e estava acompanhado do meu mentor Wes Pratt." 
 
 Fotografia por Brian Skerry , National Geographic **Qual é o poder da fotografia na conservação marinha?** 
@@ -18,7 +18,7 @@ Acho que é como ir ao quintal de um vizinho e um dia ver o seu cão a abanar a 
 
 [**VEJA ALGUMAS FOTOGRAFIAS DA EXPOSIÇÃO SHARKS:**](https://www.natgeo.pt/photography/2019/05/revelamos-5-fotografias-da-exposicao-sharks) 
 
-![Fotografia de um mergulhador ao lado de um tubarão](img/files_styles_image_00_public_01_national_0geographic_0sharks_0brian_0skerry_0oceanic_0whitetip.jpg, "Fotografia de um mergulhador ao lado de um tubarão")
+![Fotografia de um mergulhador ao lado de um tubarão](img/files_styles_image_00_public_01_national_0geographic_0sharks_0brian_0skerry_0oceanic_0whitetip.jpg)
 ver galeria **Um encontro com um tubarão deve ser ao mesmo tempo formidável e aterrador. Alguma vez se sentiu ameaçado?** 
 
 Tive alguns momentos muito especiais com tubarões. Fiz centenas, se não milhares de mergulhos com tubarões, e apenas me senti realmente ameaçado três ou quatro vezes, em que tive de sair da água. 

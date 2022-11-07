@@ -1,16 +1,16 @@
 [facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.natgeo.pt%2Ffamilia%2F2022%2F08%2Fa-narrativa-das-criancas-em-campos-de-refugiados) [twitter](https://twitter.com/share?url=https%3A%2F%2Fwww.natgeo.pt%2Ffamilia%2F2022%2F08%2Fa-narrativa-das-criancas-em-campos-de-refugiados&via=natgeo&text=A%20narrativa%20das%20crian%C3%A7as%20em%20campos%20de%20refugiados) [whatsapp](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.natgeo.pt%2Ffamilia%2F2022%2F08%2Fa-narrativa-das-criancas-em-campos-de-refugiados) [flipboard](https://share.flipboard.com/bookmarklet/popout?v=2&title=A%20narrativa%20das%20crian%C3%A7as%20em%20campos%20de%20refugiados&url=https%3A%2F%2Fwww.natgeo.pt%2Ffamilia%2F2022%2F08%2Fa-narrativa-das-criancas-em-campos-de-refugiados) [mail](mailto:?subject=NatGeo&body=https%3A%2F%2Fwww.natgeo.pt%2Ffamilia%2F2022%2F08%2Fa-narrativa-das-criancas-em-campos-de-refugiados%20-%20A%20narrativa%20das%20crian%C3%A7as%20em%20campos%20de%20refugiados) [Família](https://www.natgeo.pt/familia) 
 # A narrativa das crianças em campos de refugiados 
 ## O cinema de animação foi o mote do trabalho da exploradora da National Geographic Fausta Cardoso Pereira que esteve cerca de quatro meses com crianças em campos de refugiados na Grécia. Por [Filipa Coutinho](https://www.natgeo.pt/autor/filipa-coutinho) Publicado 8/08/2022, 15:27 
-![Fausta Cardoso Pereira](img/files_styles_image_00_public_fausta.jpg, "Fausta Cardoso Pereira")
+![Fausta Cardoso Pereira](img/files_styles_image_00_public_fausta.jpg)
 A investigadora portuguesa continua a desenhar e a implementar projetos de cooperação, desenvolvimento e sustentabilidade. Está atualmente a desenvolver trabalho para Moçambique, em conjunto com ONGs. 
 
 Fotografia por Ozias Filho Quando lhe peço para descrever o seu trabalho em algumas frases, Fausta Cardoso Pereira explica que tem “um trabalho interdisciplinar, que vai desde a gestão até à arte, com pessoas de várias origens sociais, culturais e religiosas”. Por isto, considera-se privilegiada, “uma contadora de histórias que vive, ouve e observa as histórias que conta”. 
 
 Ouviu uma [reportagem](https://www.tsf.pt/internacional/eu-so-tenho-um-sonho-chegar-ao-reino-unido-10293770.html) sobre um bosque em Dunquerque que serve de abrigo a cerca de 1000 curdos iraquianos, iranianos e sírios, que a inspirou a conceber este projeto. A entrevista relatava os refugidos de Calais que tentavam viajar para Inglaterra. As palavras de um dos testemunhos ficaram-lhe na memória: “Não sou um terrorista. Vim para a Europa para escapar ao terrorismo”. Foi com este eco que Fausta Cardoso Pereira quis contribuir para romper com a narrativa negativa e os estereótipos que os europeus têm sobre os refugiados. 
 
-![jovem Nour](img/files_styles_image_00_public_fausta.jpg, "jovem Nour")
+![jovem Nour](img/files_styles_image_00_public_fausta.jpg)
 
-![Storyboard de um dos filmes](img/files_styles_image_00_public_fausta.jpg, "Storyboard de um dos filmes")
+![Storyboard de um dos filmes](img/files_styles_image_00_public_fausta.jpg)
 **Esquerda:** **Superior:** A jovem Nour anima uma sequência do filme "Nour's Book". 
 
 **Direita:** **Inferior:** Storyboard do filme "Summer Nights in Afghanistan". 
@@ -25,7 +25,7 @@ O processo foi longo, desde o apoio de várias organizações não-governamentai
 
 Para ver este vídeo é necessário aceitar as cookies do Youtube 
 
-![Animação de um dos filmes](img/files_styles_image_00_public_fausta.jpg, "Animação de um dos filmes")
+![Animação de um dos filmes](img/files_styles_image_00_public_fausta.jpg)
 Animação do filme "Eyes full of Hope". 
 
 Fotografia por Fausta Cardoso Pereira O início arrancava com exercícios de animação, “em que as crianças e jovens animavam objetos que traziam como flores, pedras, arroz, botões”. O propósito era “captar o interesse e perceberem que a animação é muito mais do que os cartoons que vêm na TV.” Fausta Cardoso Pereira esclarece que mais tarde, “seguia-se o processo de storytelling e storyboard” e na semana final, as crianças dedicavam-se a “ animar a história e à exibição dos filmes, no último dia, com a presença dos jovens e das famílias”. 

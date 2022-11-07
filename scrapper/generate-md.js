@@ -1,9 +1,9 @@
 import { readFile, readdir, writeFile } from 'node:fs/promises'
 
-const files = await readdir('.')
+const files = await readdir('data')
 const data = await Promise.all(files
   .filter(f => !f.startsWith('package') && f.endsWith('.json'))
-  .map(async f => [f, JSON.parse(await readFile(f, 'utf8'))]))
+  .map(async f => [f, JSON.parse(await readFile(`data/${f}`, 'utf8'))]))
 
 const ignore = () => []
 
@@ -77,7 +77,7 @@ const TAGS = {
   H4: startsWith('\n#### '),
   H5: startsWith('\n##### '),
   HR: () => ['--------'],
-  IMG: maybe(img => [`\n![${img.alt||''}](${toImgLink(img.src)}, ${JSON.stringify(img.alt||'')})\n`]),
+  IMG: maybe(img => [`\n![${img.alt||''}](${toImgLink(img.src)})\n`]),
   INPUT: ignore,
   KBD: kbd => [`<kbd>${textContent(kbd).trim()}</kbd>`],
   LABEL: ignore,
@@ -112,6 +112,6 @@ for (const [filename, content] of data) {
     .replaceAll('\n ', '\n')
     .replace(/\n[\n]+/g, '\n\n')
 
-  await writeFile(filename.slice(0, -4) + 'md', flatten, 'utf8')
+  await writeFile('article/'+filename.slice(0, -4) + 'md', flatten, 'utf8')
 }
 

@@ -1,7 +1,7 @@
 [facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.natgeo.pt%2Fespaco%2F2018%2F11%2F10-coisas-incriveis-sobre-marte) [twitter](https://twitter.com/share?url=https%3A%2F%2Fwww.natgeo.pt%2Fespaco%2F2018%2F11%2F10-coisas-incriveis-sobre-marte&via=natgeo&text=10%20Coisas%20Incr%C3%ADveis%20Sobre%20Marte) [whatsapp](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.natgeo.pt%2Fespaco%2F2018%2F11%2F10-coisas-incriveis-sobre-marte) [flipboard](https://share.flipboard.com/bookmarklet/popout?v=2&title=10%20Coisas%20Incr%C3%ADveis%20Sobre%20Marte&url=https%3A%2F%2Fwww.natgeo.pt%2Fespaco%2F2018%2F11%2F10-coisas-incriveis-sobre-marte) [mail](mailto:?subject=NatGeo&body=https%3A%2F%2Fwww.natgeo.pt%2Fespaco%2F2018%2F11%2F10-coisas-incriveis-sobre-marte%20-%2010%20Coisas%20Incr%C3%ADveis%20Sobre%20Marte) [Espaço](https://www.natgeo.pt/espaco) 
 # 10 Coisas Incríveis Sobre Marte 
 ## Marte, um planeta que podemos ver frequentemente no céu noturno, não pára de nos surpreender. Por [National Geographic](https://www.natgeo.pt/autor/national-geographic) Publicado 2/11/2018, 12:36 
-![Observação de Marte](img/files_styles_image_00_public_nasa_0_mars.jpg, "Observação de Marte")
+![Observação de Marte](img/files_styles_image_00_public_nasa_0_mars.jpg)
 Observação de Marte Fotografia por © National Geographic Channels/Robert Viglasky Marte, o quarto planeta a contar do Sol, situado a cerca de 1,5 unidades astronómicas, logo a seguir à Terra e antes de Júpiter, faz-nos sonhar desde a antiguidade. Muito se tem falado nos últimos anos sobre a possibilidade de fazer as malas e ir para Marte, de vez. Mas, antes de planear a mudança, veja 10 coisas incríveis sobre Marte que tem mesmo de saber. 
 
 **O SEU NOME VEM DO DEUS DA GUERRA** 
@@ -20,7 +20,7 @@ Se influenciou guerras, não sabemos, mas já enviou meteoritos para a Terra. Co
 
 Os dois satélites naturais que orbitam Marte são muito menores que a nossa Lua. Fobos tem cerca de 22 quilómetros de diâmetro; Deimos, apenas 12. Fobos demora cerca de 7 horas e 39 minutos a dar a volta a Marte (o que significa que orbita a uma velocidade de pouco mais de 2km/s), mas Deimos demora pouco mais de um dia e seis horas, pelo que a sua velocidade é menor, cerca de 1,35km/s. E sabe o porquê das Luas de Marte terem estes nomes ? Fobos (medo) e Deimos (pânico) são os dois cavalos que puxam a carruagem de Ares, o equivalente Grego de Marte. 
 
-![Expedição Marte](img/files_styles_image_00_public_spiritandopportunity_0_1.jpg, "Expedição Marte")
+![Expedição Marte](img/files_styles_image_00_public_spiritandopportunity_0_1.jpg)
 Expedição Marte Fotografia por © 1998 Hewlett-Packard Company **UM DIA MARCIANO É DESIGNADO POR 'SOL' E UM ANO É MAIS COMPRIDO** 
 
 Um dia em Marte, ou dia marciano, designa-se por _sol_ , e dura 23 horas e 39 minutos. Já um ano marciano, que dura 669,6 _sols,_ é quase o dobro de um ano terrestre! Para Marte completar uma volta em torno do Sol passam 687 dias terrestres, ou seja, um ano, dez meses e 17 dias. Por duas razões: está a uma maior distância do Sol (228 milhões de quilómetros), e a velocidade orbital de Marte (velocidade com que dá a volta ao Sol) é de cerca de 24 km/h, inferior à da Terra. 
@@ -31,7 +31,7 @@ O Monte Olimpo de Marte é um vulcão extinto com 21 quilómetros de altura e 60
 
 O segundo maior desfiladeiro do Sistema Solar também chama casa a Marte. O Valles Marinieri, em honra à sonda que o descobriu, é um desfiladeiro com 4 mil quilómetros de extensão, 200 de largura e mais de 7 de profundidade. 
 
-![Montanha em Marte](img/files_styles_image_00_public_spiritandopportunity_0.jpg, "Montanha em Marte")
+![Montanha em Marte](img/files_styles_image_00_public_spiritandopportunity_0.jpg)
 Montanha em Marte Fotografia por © 1998 Hewlett-Packard Company **MARTE TEM ATMOSFERA, TEMPESTADES E ESTAÇÕES DO ANO** 
 
 A atmosfera de Marte não permite a vida humana, já que é composta maioritariamente por dióxido de carbono (96%), árgon e azoto. Por ser um planeta com atmosfera, tem um clima que se repete periodicamente, tal como as estações do ano na Terra. 
@@ -48,7 +48,7 @@ Esta descoberta faz todo o sentido, já que existem evidências de “mares” e
 
 Conheça o [lago subterrâneo descoberto em Marte](https://www.natgeo.pt/espaco/2018/07/um-lago-subterraneo-encontrado-em-marte-conheca-os-factos) ! 
 
-![Colagem de fotografias tiradas pelo rover Curiosity, e coloridas artificialmente, mostarm parte da Marathon Valley em ...](img/files_styles_image_00_public_pia1_1.jpg, "Colagem de fotografias tiradas pelo rover Curiosity, e coloridas artificialmente, mostarm parte da Marathon Valley em ...")
+![Colagem de fotografias tiradas pelo rover Curiosity, e coloridas artificialmente, mostarm parte da Marathon Valley em ...](img/files_styles_image_00_public_pia1_1.jpg)
 Colagem de fotografias tiradas pelo rover Curiosity, e coloridas artificialmente, mostram parte da Marathon Valley em Marte. Fotografia por NASA , JPL Cal-tech , Cornell Univ. , Arizona State Univ. **MEIA CENTENA DE SONDAS ESPACIAIS** 
 
 Desde 1960 já se enviaram (ou tentaram enviar) 56 sondas, em missões a Marte. Destas, apenas 17 foram bem sucedidas! 

@@ -3,7 +3,7 @@
 [Summit 2022](https://www.natgeo.pt/summit2022) 
 # Claire Sancelot, a Voz do Desperdício Zero 
 ## No dia 29 de abril, a ativista de Desperdício Zero Claire Sancelot traz ao palco do National Geographic Summit 2019 o tema ‘Small Steps, Big impact’. Por [National Geographic](https://www.natgeo.pt/autor/national-geographic) Publicado 18/04/2019, 16:42 
-![Claire Sancelot é ativista de Desperdício Zero e abriu a primeira loja dedicada a este estilo ...](img/files_styles_image_00_public_cmyk_unnamed.jpg, "Claire Sancelot é ativista de Desperdício Zero e abriu a primeira loja dedicada a este estilo ...")
+![Claire Sancelot é ativista de Desperdício Zero e abriu a primeira loja dedicada a este estilo ...](img/files_styles_image_00_public_cmyk_unnamed.jpg)
 Claire Sancelot é ativista de Desperdício Zero e abriu a primeira loja dedicada a este estilo de vida na Malásia 
 
 **Claire Sancelot** vive um estilo de vida com Desperdício Zero em Kuala Lumpur, com o seu marido, os seus três filhos e um cão. Desperdício Zero não significa que temos de cultivar os nossos próprios vegetais ou utilizar a mesma roupa até se estragar, mas sim que nenhum lixo vai para um aterro. Claire evita produzir lixo, uma tarefa que considera difícil numa casa com três crianças, no entanto, afirma que “ _se todos fizermos o nosso melhor, podemos criar um mundo com muito menos lixo_ ”. 
@@ -24,5 +24,5 @@ Para qualquer dúvida ou informação, por favor contacte-nos através de:
 
 **Telefone:** (+351) 91 3839 945 
 
-![](img/files_styles_image_00_public_ngsummit1_logosbar_0.png, "")
+![](img/files_styles_image_00_public_ngsummit1_logosbar_0.png)
 Este conteúdo é-lhe trazido pelo nosso parceiro. Não reflete necessariamente a visão da National Geographic ou da sua equipa editorial. 

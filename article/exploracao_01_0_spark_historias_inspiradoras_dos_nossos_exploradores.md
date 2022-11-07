@@ -1,7 +1,7 @@
 [facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.natgeo.pt%2Fexploracao%2F2019%2F02%2Fspark-historias-inspiradoras-dos-nossos-exploradores) [twitter](https://twitter.com/share?url=https%3A%2F%2Fwww.natgeo.pt%2Fexploracao%2F2019%2F02%2Fspark-historias-inspiradoras-dos-nossos-exploradores&via=natgeo&text=The%20Spark%20%E2%80%93%20Hist%C3%B3rias%20Inspiradoras%20dos%20Nossos%20Exploradores) [whatsapp](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.natgeo.pt%2Fexploracao%2F2019%2F02%2Fspark-historias-inspiradoras-dos-nossos-exploradores) [flipboard](https://share.flipboard.com/bookmarklet/popout?v=2&title=The%20Spark%20%E2%80%93%20Hist%C3%B3rias%20Inspiradoras%20dos%20Nossos%20Exploradores&url=https%3A%2F%2Fwww.natgeo.pt%2Fexploracao%2F2019%2F02%2Fspark-historias-inspiradoras-dos-nossos-exploradores) [mail](mailto:?subject=NatGeo&body=https%3A%2F%2Fwww.natgeo.pt%2Fexploracao%2F2019%2F02%2Fspark-historias-inspiradoras-dos-nossos-exploradores%20-%20The%20Spark%20%E2%80%93%20Hist%C3%B3rias%20Inspiradoras%20dos%20Nossos%20Exploradores) [A Nossa Causa](https://www.natgeo.pt/a-nossa-causa) 
 # The Spark – Histórias Inspiradoras dos Nossos Exploradores 
 ## Conheça algumas histórias dos exploradores da National Geographic e descubra como iniciaram as suas missões inspiradoras. Por [National Geographic](https://www.natgeo.pt/autor/national-geographic) Publicado 21/02/2019, 19:11 
-![](img/files_styles_image_00_public_imagelink_0_0_0.png, "")
+![](img/files_styles_image_00_public_imagelink_0_0_0.png)
 Ao longo de 130 anos, a National Geographic distingue-se por desafiar, proteger e inspirar a humanidade a ir mais além. Desde 1888 **atribuímos mais de 14 mil bolsas** nos campos da conservação, educação, investigação, escrita e tecnologia. Através da sua paixão, persistência, curiosidade e dedicação, os nossos exploradores contribuem para o conhecimento do planeta e criam soluções para um futuro mais sustentável. 
 
 The Spark é um conjunto de histórias de superação que nos revelam a motivação de alguns dos exploradores da National Geographic. A curiosidade, persistência e exploração estão acessíveis a todos e as barreiras são ultrapassáveis - podemos aceitá-las ou ter a ousadia de as enfrentar. Um explorador é qualquer pessoa que identifique esses limites e os leve mais além. Esta pode ser a sua história. 
@@ -9,7 +9,7 @@ The Spark é um conjunto de histórias de superação que nos revelam a motivaç
 **DESCUBRA AS HISTÓRIAS DOS NOSSOS EXPLORADORES:** 
 
 <code>{"tag":"VIDEO"}</code> <code>{"tag":"VIDEO"}</code> [](https://www.natgeo.pt/exploracao/2019/02/spark-historias-inspiradoras-dos-nossos-exploradores#) 
-![](img/mage_svg_xml_charset_utf_csvg_xmlns_http_www_w_org_000_svg_e_c_svg.e, "")
+![](img/mage_svg_xml_charset_utf_csvg_xmlns_http_www_w_org_000_svg_e_c_svg.e)
 
 Publicidade: O seu vídeo começa em 
 
@@ -19,7 +19,7 @@ Publicidade: O seu vídeo começa em
 --:-- / --:-- 
 -------- 
 
-![](img/_plugins_v_1_mpx_unmute_common_assets_volume_off.png, "")
+![](img/_plugins_v_1_mpx_unmute_common_assets_volume_off.png)
 
 audio/video source is invalid 
 
@@ -111,9 +111,9 @@ Show Keyboard Controls
 
 <kbd>?</kbd> or / 
 
-![](img/files_player.jpg, "")
+![](img/files_player.jpg)
 
-![](img/_plugins_v_1_mpx_continue_watching_img_reload.svg, "")
+![](img/_plugins_v_1_mpx_continue_watching_img_reload.svg)
 
 ACABOU DE VER 
 
@@ -142,7 +142,7 @@ Há um limite à volta daquilo que os humanos consideram ser verdadeiro e possí
 
 A exploração acontece graças a si e **[Por Sua Causa, A Nossa Existe](https://www.natgeo.pt/national-geographic/2019/02/por-sua-causa-nossa-existe)** . Graças ao seu contributo, conseguimos apoiar projetos ambiciosos nas áreas da ciência, exploração e conservação. Quando lê, assiste, compra ou viaja connosco, está a apoiar o trabalho dos nossos cientistas, exploradores e educadores em todo o mundo. **Obrigado por nos ajudar a contribuir para um planeta mais sustentável.** 
 
-### + EXPLORADORES [![](img/files_styles_image_00_public_thumb_1_0.jpg, "")](https://www.natgeo.pt/video/tv/adjany-costa-exploradora-national-geographic) [A Nossa Causa](https://www.natgeo.pt/a-nossa-causa) 1:00 
-## [Adjany Costa](https://www.natgeo.pt/video/tv/adjany-costa-exploradora-national-geographic) [![](img/files_styles_image_00_public_thumb_1.jpg, "")](https://www.natgeo.pt/video/tv/borge-ousland-explorador-national-geographic) [A Nossa Causa](https://www.natgeo.pt/a-nossa-causa) 1:00 
-## [Borge Ousland](https://www.natgeo.pt/video/tv/borge-ousland-explorador-national-geographic) [![](img/files_styles_image_00_public_thumb_1_0.jpg, "")](https://www.natgeo.pt/video/tv/martin-edstrom-explorador-national-geographic) [A Nossa Causa](https://www.natgeo.pt/a-nossa-causa) 1:00 
+### + EXPLORADORES [![](img/files_styles_image_00_public_thumb_1_0.jpg)](https://www.natgeo.pt/video/tv/adjany-costa-exploradora-national-geographic) [A Nossa Causa](https://www.natgeo.pt/a-nossa-causa) 1:00 
+## [Adjany Costa](https://www.natgeo.pt/video/tv/adjany-costa-exploradora-national-geographic) [![](img/files_styles_image_00_public_thumb_1.jpg)](https://www.natgeo.pt/video/tv/borge-ousland-explorador-national-geographic) [A Nossa Causa](https://www.natgeo.pt/a-nossa-causa) 1:00 
+## [Borge Ousland](https://www.natgeo.pt/video/tv/borge-ousland-explorador-national-geographic) [![](img/files_styles_image_00_public_thumb_1_0.jpg)](https://www.natgeo.pt/video/tv/martin-edstrom-explorador-national-geographic) [A Nossa Causa](https://www.natgeo.pt/a-nossa-causa) 1:00 
 ## [Martin Edström](https://www.natgeo.pt/video/tv/martin-edstrom-explorador-national-geographic) 

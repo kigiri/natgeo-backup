@@ -3,7 +3,7 @@
 [Viagem e Aventuras](https://www.natgeo.pt/viagem-e-aventuras) 
 # Entrevista a João Garcia, 20 Anos Após o Evereste 
 ## Apaixonado por alpinismo desde os 16 anos e praticante de escalada sem recurso a oxigénio artificial, foi o primeiro português a escalar o Monte Evereste e continua com o objetivo de ir mais além. Por [National Geographic](https://www.natgeo.pt/autor/national-geographic) Publicado 22/08/2019, 11:00 
-![Chegada ao cume Kangchenjunga em 2006](img/files_styles_image_00_public_joao_0garcia_0chegada_0ao_0cume_0kangchenjunga_0_00.jpg, "Chegada ao cume Kangchenjunga em 2006")
+![Chegada ao cume Kangchenjunga em 2006](img/files_styles_image_00_public_joao_0garcia_0chegada_0ao_0cume_0kangchenjunga_0_00.jpg)
 No ano em que se assinalam os 20 anos da sua escalada ao Monte Evereste, entrevistámos o alpinista português. Fotografia por Ivan Valejo Iniciou a sua dedicação à escalada na Serra da Estrela em 1983. Em 1990 integra uma comissão de serviço no Quartel Supremo das Forças Aliadas na Bélgica e intensifica a sua atividade nos Alpes. Em 1999 tornou-se no primeiro alpinista português a escalar o ‘topo do mundo’ – o Monte Evereste, na qual perdeu um companheiro de escalada e lhe deixou marcas físicas. 
 
 Em 2010, João Garcia tornou-se o 10º alpinista no mundo a conseguir a proeza de escalar todas as 14 montanhas com mais de 8 mil metros sem recorrer a auxílio de oxigénio artificial nem carregadores de altitude. Ainda nesse ano, subiu ao cume do Monte Kosciuszko, alcançando o seu objetivo de escalar o cume mais alto de todos os continentes. 
@@ -30,7 +30,7 @@ Projectos de novas escaladas ou alpinismo de exploração.
 
 Mais árvores e menos plástico. 
 
-![João Garcia nos Alpes franceses.](img/files_styles_image_00_public_joao_0garcia_0ref_0tete_0rousse_0alpes_0franca.jpg, "João Garcia nos Alpes franceses.")
+![João Garcia nos Alpes franceses.](img/files_styles_image_00_public_joao_0garcia_0ref_0tete_0rousse_0alpes_0franca.jpg)
 João Garcia nos Alpes franceses. Fotografia por Tete Rousse **CURIOSIDADES 
 
 Cresceu em…** Lisboa 

@@ -1,7 +1,7 @@
 [facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.natgeo.pt%2Fciencia%2F2022%2F10%2Ffertilidade-masculina-papel-dieta-estilo-de-vida) [twitter](https://twitter.com/share?url=https%3A%2F%2Fwww.natgeo.pt%2Fciencia%2F2022%2F10%2Ffertilidade-masculina-papel-dieta-estilo-de-vida&via=natgeo&text=Com%20a%20fertilidade%20masculina%20em%20queda%20vertiginosa%2C%20descubra%20o%20papel%20da%20dieta%20e%20do%20estilo%20de%20vida) [whatsapp](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.natgeo.pt%2Fciencia%2F2022%2F10%2Ffertilidade-masculina-papel-dieta-estilo-de-vida) [flipboard](https://share.flipboard.com/bookmarklet/popout?v=2&title=Com%20a%20fertilidade%20masculina%20em%20queda%20vertiginosa%2C%20descubra%20o%20papel%20da%20dieta%20e%20do%20estilo%20de%20vida&url=https%3A%2F%2Fwww.natgeo.pt%2Fciencia%2F2022%2F10%2Ffertilidade-masculina-papel-dieta-estilo-de-vida) [mail](mailto:?subject=NatGeo&body=https%3A%2F%2Fwww.natgeo.pt%2Fciencia%2F2022%2F10%2Ffertilidade-masculina-papel-dieta-estilo-de-vida%20-%20Com%20a%20fertilidade%20masculina%20em%20queda%20vertiginosa%2C%20descubra%20o%20papel%20da%20dieta%20e%20do%20estilo%20de%20vida) [Olhares de Portugal](https://www.natgeo.pt/olhares-de-portugal) 
 # Com a fertilidade masculina em queda vertiginosa, descubra o papel da dieta e do estilo de vida 
 ## Perante uma queda de quase 60% no número de espermatozoides nos últimos 40 anos, o estilo de vida e a dieta podem ajudar a combater ou a promover esta tendência na fertilidade masculina ocidental. Por [Filipa Coutinho](https://www.natgeo.pt/autor/filipa-coutinho) Publicado 21/10/2022, 14:33 
-![Saúde sexual](img/files_styles_image_00_public_nationalgeographic1_custom.jpg, "Saúde sexual")
+![Saúde sexual](img/files_styles_image_00_public_nationalgeographic1_custom.jpg)
 As escolhas de vida que fazemos, como a atividade física e aquilo que ingerimos, têm um impacto na saúde sexual que não deve ser menosprezado. **** 
 
 Fotografia por [Melissa Farlow](https://www.natgeo.pt/fotografo/melissa-farlow) Este é um tema que muitas vezes fica à porta de casa. Continua a ser frequentemente associado à mulher, no entanto, o estilo de vida e a dieta de um homem podem ter tanto impacto na conceção como os de uma mulher. 
@@ -50,7 +50,7 @@ Sabia que os homens produzem novo sémen a cada 60 a 80 dias? Em teoria, isto si
 
 A docente clarificou que quando se associa a fertilidade à dieta, é “incontornável não explicar que os alimentos têm uma enorme complexidade química, muito além do que se sabe estar presente no alimento”. Além de “proteínas, hidratos de carbono e/ou lípidos, vitaminas e minerais (nutrientes), temos ‘não nutrientes’, que podem ser de origem natural (por exemplo os fitoquímicos como beta-caroteno, isoflavonas, etc.) ou antropogénica, como aditivos alimentares e ainda, de muito risco, contaminantes”. E muitos dos contaminantes podem ser alteradores endócrinos. 
 
-![Dieta e saúde sexual](img/files_styles_image_00_public_nationalgeographic_11_custom.jpg, "Dieta e saúde sexual")
+![Dieta e saúde sexual](img/files_styles_image_00_public_nationalgeographic_11_custom.jpg)
 A dieta consegue alterar a fisiologia testicular e a produção de espermatozoides. **** 
 
 Fotografia por Brian Finke, Getty Images Então, o que pode ser feito num plano imediato? 
@@ -61,7 +61,7 @@ Conceição Calhau esclareceu que quando falamos em alteradores endócrinos, pre
 
 Reduzir ou **evitar o consumo de tabaco, álcool e drogas** . O álcool é tóxico para o sémen e reduz a sua qualidade e mobilidade. Os homens que bebem mais têm frequentemente menores níveis de testosterona. O consumo de álcool pode também afetar a capacidade do fígado de excretar toxinas prejudiciais à qualidade dos gâmetas. Já o tabaco pode tornar o sémen mais lento. No mundo dos narcóticos, a cocaína está no topo das substâncias com piores efeitos para a fertilidade, reduzindo o fluxo de sangue para os testículos. 
 
-![Dieta e saúde sexual](img/files_styles_image_00_public_nationalgeographic_1_custom.jpg, "Dieta e saúde sexual")
+![Dieta e saúde sexual](img/files_styles_image_00_public_nationalgeographic_1_custom.jpg)
 Fruta e legumes ricos em vitamina C, vitamina D, zinco e licopeno, de preferência de origem biológica, podem contribuir para uma boa qualidade das células reprodutoras masculinas. 
 
 Fotografia por [Luis Marden](https://www.natgeo.pt/fotografo/luis-marden) A **atividade física moderada** e o peso saudável também parecem aliar-se a espermatozoides mais saudáveis e com maior mobilidade, por oposição ao sedentarismo e ao excesso de peso. 

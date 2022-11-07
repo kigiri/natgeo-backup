@@ -3,7 +3,7 @@
 [Viagem e Aventuras](https://www.natgeo.pt/viagem-e-aventuras) 
 # Entrevista a Bernardo Conde, da Engenharia a Líder de Viagens 
 ## Entrevistámos Bernardo Conde, o fotógrafo, líder de viagem e fundador do Exodus Aveiro Fest, com quem conversámos sobre a sede de viajar e o estado de pertença ao nosso planeta. Por [National Geographic](https://www.natgeo.pt/autor/national-geographic) Publicado 13/01/2020, 14:27 , Atualizado 7/12/2020, 13:46 
-![Bernardo Conde ](img/files_styles_image_00_public_bernardo_conde_large.jpg, "Bernardo Conde ")
+![Bernardo Conde ](img/files_styles_image_00_public_bernardo_conde_large.jpg)
 Bernardo Conde viaja regularmente à Islândia, Madagáscar e Mongólia com grupos. 
 
 Fotografia por Iolanda Silva Vive inquieto e não saberia viver de outra forma. Partilha a sua sede de viajar com grupos com quem viaja regularmente à Islândia, Madagáscar e Mongólia, enquanto líder de viagens. Há 12 anos criou o centro de fotografia documental [Trilhos da Terra](https://www.trilhosdaterra.com/) , em Aveiro, onde tem uma vasta oferta de workshops e atividades exploratórias. Tem várias exposições no seu portfólio e um livro editado - “Uma Janela para Marrocos”. É o fundador e organizador do [Exodus Aveiro Fest](https://www.natgeo.pt/exodus) e nada lhe dá mais prazer que mostrar o mundo aos outros. 
@@ -30,7 +30,7 @@ Aprendi com o tempo que o que me dá mais prazer nas viagens são aqueles moment
 
 O retrato da Batolum, a minha sobrinha ‘emprestada’ mongol, no meio de uma tempestade de neve enquanto o irmão a preparava para a levar para casa. 
 
-![Batolum, a sua sobrinha ‘emprestada’. ](img/images_transparent.png, "Batolum, a sua sobrinha ‘emprestada’. ")
+![Batolum, a sua sobrinha ‘emprestada’. ](img/images_transparent.png)
 Batolum, a sua sobrinha ‘emprestada’. Fotografia por Bernardo Conde **Quantas viagens faz por ano (internacionais e nacionais)? Como se encontra um sentido de pertença com tanto tempo fora por ano?** 
 
 Diria que umas sete ou oito internacionais e nacionais umas três, estas últimas não são muito programadas, às vezes proporcionam-se. Ao todo ultimamente estou cerca de cinco a seis meses por ano fora. 

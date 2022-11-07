@@ -3,7 +3,7 @@
 [Viagem e Aventuras](https://www.natgeo.pt/viagem-e-aventuras) 
 # Sketching por Caminhos Portugueses 
 ## O sketcher André Gomes percorreu algumas estradas portuguesas e eternizou esses momentos em cadernos de viagens. Por [National Geographic](https://www.natgeo.pt/autor/national-geographic) Publicado 16/08/2019, 11:44 
-![Vista de Foz Côa, no distrito da Guarda.](img/files_styles_image_00_public_foz_0c_c_b_a_01.jpg, "Vista de Foz Côa, no distrito da Guarda.")
+![Vista de Foz Côa, no distrito da Guarda.](img/files_styles_image_00_public_foz_0c_c_b_a_01.jpg)
 Vista de Foz Côa, no distrito da Guarda. Fotografia por André Gomes Um sketch, um esboço, uma tentativa de imortalizar a realidade através de aguarelas. Os cadernos de viagem de **André Gomes** eternizam as suas aventuras por terras portuguesas. Buçaco, Ílhavo, Sortelha e Almeida foram alguns dos sítios por onde passou e nesta galeria compilamos alguns dos desenhos que foi traçando. 
 
 Para o sketcher, o desenho “apresenta-se como componente indissociável da viagem, (…) testemunhando o mundo real, por meio de caneta e aguarelas”. É assim que André guarda memórias visuais do seu quotidiano – pessoas, circunstâncias, paisagens urbanas e campestres, lugares religiosos, entre outros. 
@@ -12,5 +12,5 @@ Sketch tem origem na palavra grega _schedios_ e significa fazer rapidamente, nes
 
 Viaje por **caminhos portugueses através destas pinturas** , por paisagens distintas, da Ilha do Pessegueiro até ao Palácio do Buçaco e vá mais além! 
 
-![Burro (Recriação Histórica)](img/files_styles_image_00_public_1.png, "Burro (Recriação Histórica)")
+![Burro (Recriação Histórica)](img/files_styles_image_00_public_1.png)
 ver galeria 

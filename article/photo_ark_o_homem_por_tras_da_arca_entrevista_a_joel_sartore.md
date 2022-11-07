@@ -1,7 +1,7 @@
 [facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.natgeo.pt%2Fphoto-ark%2Fo-homem-por-tras-da-arca-entrevista-a-joel-sartore) [twitter](https://twitter.com/share?url=https%3A%2F%2Fwww.natgeo.pt%2Fphoto-ark%2Fo-homem-por-tras-da-arca-entrevista-a-joel-sartore&via=natgeo&text=O%20Homem%20Por%20Tr%C3%A1s%20da%20Arca%20%E2%80%93%20Entrevista%20a%20Joel%20Sartore) [whatsapp](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.natgeo.pt%2Fphoto-ark%2Fo-homem-por-tras-da-arca-entrevista-a-joel-sartore) [flipboard](https://share.flipboard.com/bookmarklet/popout?v=2&title=O%20Homem%20Por%20Tr%C3%A1s%20da%20Arca%20%E2%80%93%20Entrevista%20a%20Joel%20Sartore&url=https%3A%2F%2Fwww.natgeo.pt%2Fphoto-ark%2Fo-homem-por-tras-da-arca-entrevista-a-joel-sartore) [mail](mailto:?subject=NatGeo&body=https%3A%2F%2Fwww.natgeo.pt%2Fphoto-ark%2Fo-homem-por-tras-da-arca-entrevista-a-joel-sartore%20-%20O%20Homem%20Por%20Tr%C3%A1s%20da%20Arca%20%E2%80%93%20Entrevista%20a%20Joel%20Sartore) [Photo Ark](https://www.natgeo.pt/photoark) 
 # O Homem Por Trás da Arca – Entrevista a Joel Sartore 
 ## Joel Sartore iniciou uma missão única há 13 anos atrás: fotografar as 12 mil espécies animais que vivem em cativeiro. Conheça melhor o fotógrafo responsável pelo projeto Photo Ark, apelidado ‘Nova Arca de Noé’, na entrevista que lhe fizemos. Por [National Geographic](https://www.natgeo.pt/autor/national-geographic) 
-![fotógrafo Joel Sartore](img/files_styles_image_00_public_joel_0headshot_0_large.jpg, "fotógrafo Joel Sartore")
+![fotógrafo Joel Sartore](img/files_styles_image_00_public_joel_0headshot_0_large.jpg)
 O fotógrafo Joel Sartore, responsável pelo projeto Photo Ark - A Nova Arca de Noé. 
 
 Fotografia por Joël Sartore , National Geographic **Qual a maior diferença entre fotografar a espécie humana e a espécie animal?** 
@@ -20,7 +20,7 @@ Quando listamos os animais que queremos fotografar, temos dois cenários para a 
 
 À medida que se movimentam e investigam o seu novo espaço, captamos frequentemente a atenção dos animais e eles olham diretamente para a câmara. Para alguns, é a primeira vez que veem o seu reflexo. 
 
-![Imagem de Joel Sartore com pinguins](img/files_styles_image_00_public_footer_image_x_00_0_large.jpg, "Imagem de Joel Sartore com pinguins")
+![Imagem de Joel Sartore com pinguins](img/files_styles_image_00_public_footer_image_x_00_0_large.jpg)
 Fotografia de uma das viagens de Joel Sartore. Na fotografia está acompanhado por alguns pinguins. 
 
 Fotografia por Joël Sartore , National Geographic **Que espécies o surpreendem mais nas sessões fotográficas? Quais as que levam mais tempo a fotografar?** 
@@ -49,7 +49,7 @@ Nem todas. Os corais, as anémonas, os mexilhões de água doce, os peixes-cegos
 
 **Veja algumas das fotografias do Photo Ark:** 
 
-![LEOPARDO-DE-AMUR](img/files_styles_image_00_public.jpg, "LEOPARDO-DE-AMUR")
+![LEOPARDO-DE-AMUR](img/files_styles_image_00_public.jpg)
 ver galeria **Devemos ter receio da perda drástica de espécies?** 
 
 Sim. O meu maior desafio em criar imagens para o Photo Ark é assistir à extinção das espécies. Um coelho, peixes, invertebrados e vários anfíbios, incluindo o sapo _ecnomiohyla rabborum_ , já se extinguiram depois de os fotografar. Entristece-me muito, mas também me revolta e inspira a dedicar todo o meu esforço a este projeto, e utilizar a extinção como uma chamada de atenção: **à medida que estas espécies desaparecem, nós também podemos desaparecer** . Por exemplo, temos de salvar os insetos polinizadores para ter frutas e vegetais. E as florestas tropicais não nos fornecem apenas o ar que respiramos, mas também estabilizam os padrões de pluviosidade em todo o mundo, que são vitais para crescer as colheitas que nos alimentam. Dizer que a extinção é um grande problema para a nossa sobrevivência é um eufemismo enorme. 

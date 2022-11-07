@@ -2,7 +2,7 @@
 # Ricardo Rocha: “A diversidade racial e étnica na ciência Portuguesa/Europeia não deve continuar a ser um tema tabu” 
 ## Em conversa com a National Geographic, o biólogo falou sobre o seu trabalho na área da conservação e ecologia e, também, sobre a falta de diversidade racial e étnica na ciência. Por [Filipa Coutinho](https://www.natgeo.pt/autor/filipa-coutinho) Publicado 20/09/2021, 10:19 
 ![Ricardo Rocha, durante trabalho de campo na Amazónia.
-](img/files_styles_image_00_public_ricardo_rocha_trabalho_de_campo_na_amazonia_foto_pela_madalena_boto_custom.jpg, "Ricardo Rocha, durante trabalho de campo na Amazónia.\n")
+](img/files_styles_image_00_public_ricardo_rocha_trabalho_de_campo_na_amazonia_foto_pela_madalena_boto_custom.jpg)
 Ricardo Rocha, durante trabalho de campo na Amazónia. 
 
 Fotografia por Madalena Boto **Ricardo Rocha** , **** explorador da National Geographic, deu os primeiros passos da sua carreira como biólogo da conservação na ilha da Madeira, de onde é natural. A partir daí rumou ao Brasil, Madagáscar, China, Quénia, Cabo Verde, São Tomé e Príncipe e Finlândia. 
@@ -13,9 +13,9 @@ Em 2020 foi distinguido com o **** _European Early Career Conservation Award_ , 
 
 A sua dedicação à promoção da diversidade e inclusão na ciência levam-no no dia 1 de outubro a um [evento sobre diversidade nas ciências da vida e da saúde](https://diversidade.i3s.up.pt/) , onde será um dos oradores em palco. O evento é organizado em colaboração entre o i3S – Instituto de Investigação e Inovação em Saúde, o CIBIO-InBIO e a Universidade do Porto, e mais informação sobre o mesmo está disponível no respetivo [site](https://diversidade.i3s.up.pt/) . 
 
-![Ricardo Rocha no Quénia](img/files_styles_image_00_public_ricardo_rocha_trabalho_de_campo_quenia_01_1_foto_por_adria_lopez_baucells_custom.jpg, "Ricardo Rocha no Quénia")
+![Ricardo Rocha no Quénia](img/files_styles_image_00_public_ricardo_rocha_trabalho_de_campo_quenia_01_1_foto_por_adria_lopez_baucells_custom.jpg)
 
-![Calumma oshaughnessyi ](img/files_styles_image_00_public_calumma_oshaughnessyi_em_madagascar_foto_ricardo_rocha_custom.jpg, "Calumma oshaughnessyi ")
+![Calumma oshaughnessyi ](img/files_styles_image_00_public_calumma_oshaughnessyi_em_madagascar_foto_ricardo_rocha_custom.jpg)
 **Esquerda:** **Superior:** Ricardo Rocha enquanto desenvolvia trabalho de campo no Quénia, em 2016. 
 
 Fotografia por Adrià López-Baucells **Direita:** **Inferior:** A espécie _Calumma oshaughnessyi_ fotografada pelo biólogo durante o seu trabalho em Madagáscar. 
@@ -30,7 +30,7 @@ Os efeitos da ação humana nas comunidades de animais e plantas que compõem os
 
 Essa é uma pergunta que ainda carece de resposta. A minha opinião é que pelo menos na minha área científica – ecologia e biologia da conservação - não se reflete. Portugal, fruto das suas relações históricas com África, América do Sul e Ásia, tem uma das populações mais diversas (do ponto de vista racial e étnico) a nível europeu. No entanto, contam-se pelos dedos de uma mão os cientistas não brancos a trabalhar em Portugal. É inegável que a diversidade racial e étnica que vemos nas ruas das nossas principais cidades não se reflete nos corredores nas nossas faculdades, e urge perceber porquê e quais os impactos que isso tem, não apenas na sociedade em si, mas também no tipo de ciência que é feita, e na qualidade da mesma. Embora ainda haja muito que fazer no que toca à diversidade de género na ciência, acho que está na hora de aplicarmos alguns dos ensinamentos das políticas de fomento à diversidade de género a outras dimensões da diversidade humana. A diversidade racial e étnica na ciência Portuguesa/Europeia (ou a falta dela) não deve continuar a ser um tema tabu. 
 
-![Ricardo Rocha, durante o doutoramento](img/files_styles_image_00_public_ricardo_rocha_amazon_photo_by_madalena_boto.jpg, "Ricardo Rocha, durante o doutoramento")
+![Ricardo Rocha, durante o doutoramento](img/files_styles_image_00_public_ricardo_rocha_amazon_photo_by_madalena_boto.jpg)
 Durante o doutoramento, Ricardo Rocha estudou o efeito da fragmentação da floresta tropical sobre a dinâmica espácio-temporal de morcegos amazónicos. 
 
 Fotografia por Madalena Boto **A pandemia de SARS-CoV-2 veio exacerbar o vínculo entre a saúde das espécies selvagens e a saúde humana. Na sua opinião, que ensinamentos trouxe a pandemia sobre o estado do mundo natural?** 
@@ -44,9 +44,9 @@ No entanto, apesar do impacto do COVID-19, importa enfatizar que esta é apenas 
 Durante a presidência portuguesa da União Europeia tivemos o anúncio do Pacto Ecológico Europeu que mostra um enorme compromisso da União com políticas de conservação da natureza. Uma das coisas que o Pacto Ecológico Europeu enfatiza é o papel da biodiversidade para a economia e para o bem-estar humano. Isso mesmo foi enfatizado no último Fórum Económico Mundial em Davos, onde a perda de biodiversidade foi identificada como um dos 10 maiores riscos à economia mundial. Com o Pacto Ecológico Europeu a União Europeia anunciou um leque de financiamento bastante considerável para políticas de conservação da natureza e em particular para ações de restauro de ecossistemas que revertam a perda de biodiversidade e maximizem potenciais serviços de ecossistema. Ocupando Portugal a presidência da União quando tão importantes compromissos foram assumidos, espero que o nosso país consiga estar na linha da frente da conservação da natureza e da transição para uma sociedade mais sustentável. 
 
 ![Ricardo Rocha durante a captura de morcegos para trabalho de investigação em Taita Hills (Quénia).
-](img/files_styles_image_00_public_ricardo_rocha_capturando_morcegos_em_taita_hills_quenia_01_foto_de_adria_lopez_baucells_custom.jpg, "Ricardo Rocha durante a captura de morcegos para trabalho de investigação em Taita Hills (Quénia).\r\n")
+](img/files_styles_image_00_public_ricardo_rocha_capturando_morcegos_em_taita_hills_quenia_01_foto_de_adria_lopez_baucells_custom.jpg)
 
-![Ricardo Rocha com um morcego](img/files_styles_image_00_public_ricardo_com_morcego_capturado_no_parque_natural_de_sibiloi_norte_do_quenia_foto_por_adria_lopez_baucells.jpg, "Ricardo Rocha com um morcego")
+![Ricardo Rocha com um morcego](img/files_styles_image_00_public_ricardo_com_morcego_capturado_no_parque_natural_de_sibiloi_norte_do_quenia_foto_por_adria_lopez_baucells.jpg)
 **Esquerda:** **Superior:** Ricardo Rocha durante a captura de morcegos para trabalho de investigação em Taita Hills (Quénia). 
 
 **Direita:** **Inferior:** O biólogo com um morcego capturado no Parque Natural de Sibiloi, no norte do Quénia. 

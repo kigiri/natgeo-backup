@@ -2,16 +2,16 @@
 # Projeto documental de Bernardo Conde valoriza a diversidade humana 
 ## O projeto de fotografia e vídeo “Os Outros – pessoas como nós” tem como pano de fundo a pandemia e a consequente distância criada entre pessoas e nações. Por [Filipa Coutinho](https://www.natgeo.pt/autor/filipa-coutinho) Publicado 20/05/2022, 16:06 
 ![ 
-](img/files_styles_image_00_public_os_outrosmediakitteatro_aveirensecamaramunicipaldeaveiro1_00px.jpg, " \n")
+](img/files_styles_image_00_public_os_outrosmediakitteatro_aveirensecamaramunicipaldeaveiro1_00px.jpg)
 
 Fotografia por Bernardo Conde Em tempos difíceis, [**Bernardo Conde**](https://www.natgeo.pt/viagem-e-aventuras/2020/01/entrevista-bernardo-conde-da-engenharia-lider-de-viagens) continua a viver inquieto e a partilhar o seu encanto pela vida humana, desta vez sob o mote "Os Outros - pessoas como nós”. Este é o seu mais recente projeto de fotografia e vídeo, exposto no Teatro Aveirense até 8 de junho. 
 
 “Falamos sempre dos outros, mas se calhar é preciso ouvi-los para percebermos que são pessoas como nós”, sugere o fotógrafo. A iniciativa contempla uma exposição de fotografia, um documentário e um livro, produzidos durante a pandemia, perante a consequente distância criada entre pessoas e nações. Uma distância física, mas não uma distância humana. 
 
 ![O projeto do fotógrafo teve como foco pessoas que habitam ou visitaram Aveiro em 2021.
-](img/files_styles_image_00_public_os_outros_online_1_00px.jpg, "O projeto do fotógrafo teve como foco pessoas que habitam ou visitaram Aveiro em 2021.\r\n")
+](img/files_styles_image_00_public_os_outros_online_1_00px.jpg)
 
-![Anisa Subekti ](img/files_styles_image_00_public_os_outros_online_1_00px_0.jpg, "Anisa Subekti ")
+![Anisa Subekti ](img/files_styles_image_00_public_os_outros_online_1_00px_0.jpg)
 **Esquerda:** **Superior:** O projeto do fotógrafo teve como foco pessoas que habitam ou visitaram Aveiro em 2021. 
 
 **Direita:** **Inferior:** Anisa Subekti vive atualmente em Portugal e passou por Aveiro no ano passado. 

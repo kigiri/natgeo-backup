@@ -1,7 +1,7 @@
 [facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.natgeo.pt%2Ffamilia%2F2021%2F04%2Fcomo-o-dinheiro-afeta-as-nossas-relacoes-e-dicas-para-poupar) [twitter](https://twitter.com/share?url=https%3A%2F%2Fwww.natgeo.pt%2Ffamilia%2F2021%2F04%2Fcomo-o-dinheiro-afeta-as-nossas-relacoes-e-dicas-para-poupar&via=natgeo&text=Como%20o%20dinheiro%20afeta%20as%20nossas%20rela%C3%A7%C3%B5es%20e%20dicas%20para%20poupar) [whatsapp](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.natgeo.pt%2Ffamilia%2F2021%2F04%2Fcomo-o-dinheiro-afeta-as-nossas-relacoes-e-dicas-para-poupar) [flipboard](https://share.flipboard.com/bookmarklet/popout?v=2&title=Como%20o%20dinheiro%20afeta%20as%20nossas%20rela%C3%A7%C3%B5es%20e%20dicas%20para%20poupar&url=https%3A%2F%2Fwww.natgeo.pt%2Ffamilia%2F2021%2F04%2Fcomo-o-dinheiro-afeta-as-nossas-relacoes-e-dicas-para-poupar) [mail](mailto:?subject=NatGeo&body=https%3A%2F%2Fwww.natgeo.pt%2Ffamilia%2F2021%2F04%2Fcomo-o-dinheiro-afeta-as-nossas-relacoes-e-dicas-para-poupar%20-%20Como%20o%20dinheiro%20afeta%20as%20nossas%20rela%C3%A7%C3%B5es%20e%20dicas%20para%20poupar) [Família](https://www.natgeo.pt/familia) 
 # Como o dinheiro afeta as nossas relações e dicas para poupar 
 ## Embora esteja impaciente para viajar e não perder a oportunidade de explorar e experimentar novas iguarias, pode precisar de conselhos para poupar e como falar sobre dinheiro com o seu companheiro, com amigos e talvez até na copa do escritório. Por [Filipa Coutinho](https://www.natgeo.pt/autor/filipa-coutinho) Publicado 21/04/2021, 09:54 
-![Alex Holder](img/files_styles_image_00_public_alexholder.jpg, "Alex Holder")
+![Alex Holder](img/files_styles_image_00_public_alexholder.jpg)
 O livro de Alex Holder, jornalista que se mudou recentemente para Lisboa com a família, reflete sobre como o dinheiro afeta os nossos relacionamentos, amizades e carreira. 
 
 cedida por Alex Holder É dia 22 e já está a contar os dias até receber o vencimento. Não comprou nenhum par de sapatos extra, nem uma nova câmara fotográfica. Jantou fora exatamente a mesma quantidade de vezes e tem quase certeza de que a sua pilha de livros novos está a crescer de forma consistente. Não é o único. 
@@ -16,7 +16,7 @@ A escritora e consultora [**Alex Holder**](https://www.instagram.com/alexandreho
 
 Preocupa-se em ganhar mais, ou menos, do que os seus amigos ganham? Tem dificuldade em dividir a conta do brunch? Precisa de encorajar o seu companheiro a gastar menos? Está a planear um grande casamento com grandes despesas? Pode precisar de ler os conselhos de Alex Holder. 
 
-![Livro 'Vamos falar de dinheiro'](img/files_styles_image_00_public_money_book.jpg, "Livro 'Vamos falar de dinheiro'")
+![Livro 'Vamos falar de dinheiro'](img/files_styles_image_00_public_money_book.jpg)
 Edição portuguesa foi lançada em 2020. 
 
 Fotografia por Alex Holder **Lembro-me da primeira vez que ouvi a palavra poupança - foi na série ‘O Sexo e a Cidade’. Recorda-se da primeira vez que ouviu alguém falar sobre orçamento e poupanças?** 

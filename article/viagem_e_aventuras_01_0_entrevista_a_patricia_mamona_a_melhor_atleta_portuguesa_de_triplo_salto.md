@@ -3,7 +3,7 @@
 [Viagem e Aventuras](https://www.natgeo.pt/viagem-e-aventuras) 
 # Entrevista a Patrícia Mamona, a Melhor Atleta Portuguesa de Triplo Salto 
 ## Finalista de triplo salto olímpica, campeã europeia e recordista nacional de triplo salto, Patrícia Mamona promete continuar a empenhar-se em saltar mais além. Por [National Geographic](https://www.natgeo.pt/autor/national-geographic) Publicado 30/08/2019, 13:58 
-![Patrícia Mamona](img/files_styles_image_00_public_dsf_1_0_medium.jpg, "Patrícia Mamona")
+![Patrícia Mamona](img/files_styles_image_00_public_dsf_1_0_medium.jpg)
 Entrevistámos a melhor atleta portuguesa de triplo salto, Patrícia Mamona. Fotografia por Federação PortuguESA de Futebol A sua dedicação ao atletismo começou quando tinha 13 anos, mas foi apenas aos 22 que percebeu que se queria dedicar ao triplo salto. E é disto que gosta. **Patrícia Mamona** estudou medicina nos Estados Unidos, altura em que competiu no circuito universitário americano. 
 
 Em 2012, a atleta do Sporting Clube de Portugal ganhou a medalha de prata nos Europeus de atletismo, em Helsínquia. Nos Jogos Olímpicos de 2016, bateu o recorde nacional no triplo salto com a marca de **14.65 metros** , **** no Rio de Janeiro. Ainda nesse ano prodigioso para a carreira da triplista portuguesa, Patrícia recebeu a medalha de ouro em triplo salto no Campeonato Europeu de Atletismo. 

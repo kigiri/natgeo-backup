@@ -3,7 +3,7 @@
 [Summit 2022](https://www.natgeo.pt/summit2022) 
 # Brian Skerry, a Voz da Conservação Marinha 
 ## No dia 29 de abril, o fotógrafo Brian Skerry traz ao palco do National Geographic Summit 2019 o tema ‘Exploring the Oceans: Beauty, Mistery and Challenges’. Por [National Geographic](https://www.natgeo.pt/autor/national-geographic) Publicado 11/03/2019, 14:46 
-![Brian Skerry, fotógrafo subaquático e uma das principais vozes para a conservação marinha](img/files_styles_image_00_public_nationalgeographic_0.jpg, "Brian Skerry, fotógrafo subaquático e uma das principais vozes para a conservação marinha")
+![Brian Skerry, fotógrafo subaquático e uma das principais vozes para a conservação marinha](img/files_styles_image_00_public_nationalgeographic_0.jpg)
 Brian Skerry, fotógrafo subaquático e uma das principais vozes para a conservação marinha Tendo crescido numa pequena cidade da classe operária, **Brian Skerry** sonhava em explorar os oceanos e tornar-se num fotógrafo da National Geographic. Hoje, é um dos principais fotógrafos subaquáticos do mundo e National Geographic Photography Fellow. 
 
 Desde 1998, Skerry cobriu um vasto leque de temáticas para a National Geographic, documentando histórias como a luta da foca-da-Gronelândia para sobreviver em águas gélidas, os últimos recifes de coral do planeta e os tubarões ameaçados nas Bahamas. As suas imagens celebram o mistério das profundezas e oferecem retratos tão íntimos que por vezes parecem feitos em estúdio. O fotojornalista mergulha oito meses por ano, muitas vezes em condições extremas sob o gelo do Ártico ou em águas repletas de predadores. Nos últimos 30 anos, passou mais de 10 mil horas debaixo de água. 
@@ -32,5 +32,5 @@ Para qualquer dúvida ou informação, por favor contacte-nos através de:
 
 **Telefone:** (+351) 91 3839 945 
 
-![](img/files_styles_image_00_public_ngsummit1_logosbar_0.png, "")
+![](img/files_styles_image_00_public_ngsummit1_logosbar_0.png)
 Este conteúdo é-lhe trazido pelo nosso parceiro. Não reflete necessariamente a visão da National Geographic ou da sua equipa editorial. 

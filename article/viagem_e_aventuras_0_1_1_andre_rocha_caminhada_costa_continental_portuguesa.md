@@ -3,7 +3,7 @@
 [Viagem e Aventuras](https://www.natgeo.pt/viagem-e-aventuras) 
 # André Rocha percorreu a pé a costa continental portuguesa de uma ponta à outra 
 ## André Rocha propôs-se a caminhar do ponto litoral mais a norte de Portugal até Vila Real de Santo António, passando por todas as praias do país numa extraordinária odisseia de 19 dias. Por [Filipa Coutinho](https://www.natgeo.pt/autor/filipa-coutinho) Publicado 3/12/2021, 08:55 
-![André Rocha quase no final da grande jornada, ao quilómetro 948.](img/files_styles_image_00_public_andrerocha_0.jpg, "André Rocha quase no final da grande jornada, ao quilómetro 948.")
+![André Rocha quase no final da grande jornada, ao quilómetro 948.](img/files_styles_image_00_public_andrerocha_0.jpg)
 André Rocha prestes a chegar ao final da grande jornada, ao quilómetro 948. 
 
 Fotografia por André Rocha Há algo de divino e, ao mesmo tempo, tremendamente congénito, no ato de caminhar. Em Portugal, existem trajetos para todos os gostos e ritmos, alguns bem mais acessíveis e (felizmente) inclusivos que outros. Há também caminhantes de todos os tipos, dos mais rotineiros aos mais arrojados. Depois existe quem não siga um rumo trivial. 
@@ -16,7 +16,7 @@ Passo a passo, André Rocha, percorreu todos os areais, falésias, marginais e e
 
 Conjugaram-se vários fatores, sem que possa indicar o prevalecente. Primeiro: andar, e a velocidade natural que daí decorre, tornou-se há muito tempo um bem necessário e a vontade de o estender pelo máximo tempo possível é constante e irreprimível. Em segundo lugar, a ideia de estender a possibilidade de andar por um terreno que me é familiar, mas não totalmente conhecido, trazia um apelo muito específico, uma vez que conhecer Portugal em câmara lenta e passo a passo era um sonho antigo, sobretudo por adivinhar a sequência cénica que seria ter a memória de toda a nossa costa litoral. Por fim, em função da crescente procura (de natureza global) por rotas pedestres e tendo em conta os bons e fortes passos que se têm dado em Portugal na sua promoção, gostaria de saber até que ponto seria fazível a marcação de uma grande rota pedestre por todo o nosso litoral, criando um roteiro de natureza nacional (e não temática ou regional): e, de facto, além de possível, é uma aventura magnífica. 
 
-![Praia Atlântida de Tróia](img/files_styles_image_00_public_andrerocha.jpg, "Praia Atlântida de Tróia")
+![Praia Atlântida de Tróia](img/files_styles_image_00_public_andrerocha.jpg)
 Praia Atlântida de Tróia, quilómetro 572. 
 
 Fotografia por André Rocha **Caminhar é uma forma de contrabalançar o ritmo intenso do dia-a-dia?** 
@@ -28,9 +28,9 @@ do reconhecimento do privilégio que é fazer o que fiz” **Quando se viaja a s
 
 O processo de catarse é um processo muito individual e conjuntural. Nesta rota, seja por ter já andado muito sozinho antes de a fazer, seja pela conjuntura em que a fiz, não fui assolado por nenhum processo de epifania interna. Foi, sobretudo, um processo de entretenimento puro e do reconhecimento do privilégio que é fazer o que fiz, e ter uma estrada quase interminável sempre à minha frente, com o vento a bater-me nas costas. Quanto ao acaso a resposta é outra: o acaso e o imprevisto são os ingredientes principais (e mais especiais) de uma viagem deste género. Será impossível alguém ter uma viagem igual à minha e cada um de nós terá acesso aos seus fatores: seja a meteorologia e a luz que vai acompanhar cada um dos seus dias de caminho, sejam as pessoas com quem nos cruzamos e com quem nos apetece conversar, seja a altura ou o sítio onde nos apetece parar. Sendo todos estes momentos consequências do acaso, as surpresas que temos são intermináveis. No meu caso, a surpresa acontecia sempre, cada passo novo era um sítio diferente e uma perspetiva mudada, sempre rumo a sudeste. 
 
-![Praia dos Três Irmãos (Alvor)](img/files_styles_image_00_public_andrerocha.jpg, "Praia dos Três Irmãos (Alvor)")
+![Praia dos Três Irmãos (Alvor)](img/files_styles_image_00_public_andrerocha.jpg)
 
-![Carvoeiro (Faro)](img/files_styles_image_00_public_andrerocha_10.jpg, "Carvoeiro (Faro)")
+![Carvoeiro (Faro)](img/files_styles_image_00_public_andrerocha_10.jpg)
 **Esquerda:** **Superior:** Praia dos Três Irmãos (Alvor), quilómetro 817. 
 
 **Direita:** **Inferior:** Carvoeiro (Faro), quilómetro 833. 
@@ -43,9 +43,9 @@ Apesar de o nosso processo intelectual estar relativamente domado durante os dia
 
 Em termos metafóricos, vi a nossa costa como uma sequência de um filme. A costa representa um processo complementar, uma vez que se entrelaça em paisagens e recortes diferentes, sendo quase impossível de acreditar que a praia de Moledo, a da Adraga ou a da Carrapateira ficam no mesmo país, a tão poucas centenas de quilómetros entre si. Mais do que identificar o ponto A ou B, encantou-me a diversidade de um país tão eclético e tão cénico, condensando tanta diversidade, cultura, bravura e esplendor em apenas 961 quilómetros de costa. 
 
-![Praia da Vigia](img/files_styles_image_00_public_andrerocha.jpg, "Praia da Vigia")
+![Praia da Vigia](img/files_styles_image_00_public_andrerocha.jpg)
 
-![Praia da Amália, Odemira](img/files_styles_image_00_public_andrerocha_0.jpg, "Praia da Amália, Odemira")
+![Praia da Amália, Odemira](img/files_styles_image_00_public_andrerocha_0.jpg)
 **Esquerda:** **Superior:** Praia da Vigia, quilómetro 447. 
 
 **Direita:** **Inferior:** Praia da Amália (Odemira), quilómetro 692. 
@@ -54,13 +54,13 @@ fotografias de André Rocha **Esta grande rota pedestre é a prova de que não �
 
 A aventura está mesmo ao nosso lado, a passos de distância. Vivemos quotidianamente em zonas geográficas muito apertadas, num triângulo casa – trabalho – comunidade: e nem mesmo esse território é sempre totalmente conhecido. Se nos aventurarmos a sair desse triângulo com tudo o que precisarmos ao ombros, a previsibilidade e a rotina são imediatamente substituídos pela surpresa e o assombro da descoberta, e sobretudo pela liberdade de uma boa aventura, onde comandamos os nossos destinos durante o tempo que entendermos. Só precisamos mesmo de por todas as nossas desculpas de lado e começar a andar, seja em que direção for. 
 
-![André Rocha à chegada à foz do Guadiana](img/files_styles_image_00_public_andrerocha_1_0.jpg, "André Rocha à chegada à foz do Guadiana")
+![André Rocha à chegada à foz do Guadiana](img/files_styles_image_00_public_andrerocha_1_0.jpg)
 André Rocha à chegada à foz do Guadiana, onde terminou a sua jornada de 19 dias ao longo do litoral continental. 
 
 Fotografia por André Rocha 
-![Praia do Rei Cortiço (Óbidos)](img/files_styles_image_00_public_andrerocha.jpg, "Praia do Rei Cortiço (Óbidos)")
+![Praia do Rei Cortiço (Óbidos)](img/files_styles_image_00_public_andrerocha.jpg)
 
-![Praia da Oura (Albufeira)](img/files_styles_image_00_public_andrerocha.jpg, "Praia da Oura (Albufeira)")
+![Praia da Oura (Albufeira)](img/files_styles_image_00_public_andrerocha.jpg)
 **Esquerda:** **Superior:** Praia do Rei Cortiço (Óbidos), quilómetro 361. 
 
 **Direita:** **Inferior:** Praia da Oura (Albufeira), quilómetro 865. 

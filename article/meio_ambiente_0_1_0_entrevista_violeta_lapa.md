@@ -1,7 +1,7 @@
 [facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.natgeo.pt%2Fmeio-ambiente%2F2021%2F02%2Fentrevista-violeta-lapa) [twitter](https://twitter.com/share?url=https%3A%2F%2Fwww.natgeo.pt%2Fmeio-ambiente%2F2021%2F02%2Fentrevista-violeta-lapa&via=natgeo&text=%22A%20%C3%A1gua%20%C3%A9%20um%20portal%20para%20os%20nossos%20sonhos%22) [whatsapp](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.natgeo.pt%2Fmeio-ambiente%2F2021%2F02%2Fentrevista-violeta-lapa) [flipboard](https://share.flipboard.com/bookmarklet/popout?v=2&title=%22A%20%C3%A1gua%20%C3%A9%20um%20portal%20para%20os%20nossos%20sonhos%22&url=https%3A%2F%2Fwww.natgeo.pt%2Fmeio-ambiente%2F2021%2F02%2Fentrevista-violeta-lapa) [mail](mailto:?subject=NatGeo&body=https%3A%2F%2Fwww.natgeo.pt%2Fmeio-ambiente%2F2021%2F02%2Fentrevista-violeta-lapa%20-%20%22A%20%C3%A1gua%20%C3%A9%20um%20portal%20para%20os%20nossos%20sonhos%22) [Meio Ambiente](https://www.natgeo.pt/meio-ambiente) 
 # "A água é um portal para os nossos sonhos" 
 ## Violeta Lapa contou-nos como a talassofobia a catapultou para experiências debaixo de água e como a terapia aquática nos permite aceder a memórias e sensações únicas. Por [Filipa Coutinho](https://www.natgeo.pt/autor/filipa-coutinho) Publicado 22/02/2021, 15:55 , Atualizado 24/02/2021, 15:09 
-![Violeta durante a primeira viagem de pesquisa nos Açores em 2016. Em busca de palcos naturais ...](img/files_styles_image_00_public_natgeo_article_gs_us_0.jpg, "Violeta durante a primeira viagem de pesquisa nos Açores em 2016. Em busca de palcos naturais ...")
+![Violeta durante a primeira viagem de pesquisa nos Açores em 2016. Em busca de palcos naturais ...](img/files_styles_image_00_public_natgeo_article_gs_us_0.jpg)
 Violeta durante a primeira viagem de pesquisa nos Açores em 2016. Em busca de palcos naturais para práticas em conexão com a natureza. 
 
 Fotografia por Gustavo Neves Natureza podia ser o seu segundo nome. Depois de dois episódios de afogamento iminente na infância, um no mar e outro numa piscina, Violeta Lapa desenvolveu uma fobia pela água. Durante décadas repeliu a água - até o simples ato de lavar o rosto! 
@@ -38,7 +38,7 @@ A forma como eu me conecto mais profundamente e tenho vindo a desenvolver a minh
 
 Para mim a melhor prática de meditação é o mergulho em apneia. Sinto uma conexão direta e não penso em nada, só fico ali imersa e no momento presente, a contemplar a beleza do mundo marinho. Procuro estar mais tempo na natureza e mergulhar cada vez mais. 
 
-![Violeta Lapa conduz uma sessão de terapia aquática](img/files_styles_image_00_public_1_natgeo_article_gs_liquid_zome_gustavo_neves_c_peregrinus_studio_a_1_large.jpg, "Violeta Lapa conduz uma sessão de terapia aquática")
+![Violeta Lapa conduz uma sessão de terapia aquática](img/files_styles_image_00_public_1_natgeo_article_gs_liquid_zome_gustavo_neves_c_peregrinus_studio_a_1_large.jpg)
 Violeta Lapa conduz uma sessão de terapia aquática para Hugo Oliveira, no Liquid Zome em Sintra. 
 
 Fotografia por Gustavo Neves 
@@ -51,7 +51,7 @@ Algo que me traz energia imediata e mais criatividade são os óleos essenciais.
 
 Sugiro momentos de contemplação a olhar o céu da janela, exercícios de escrita livre e reflexões, ou um diário que nos permita registar sonhos e inspirações que vamos recebendo. Ter a higiene diária das pausas pode trazer-nos muita criatividade – quem sabe até dedicar algum tempo a uma paixão ou curiosidade que possamos aprofundar ou estudar online, nesta fase em que estamos mais em casa. 
 
-![portal da ilha](img/files_styles_image_00_public_natgeo_article_gustavo_neves_c_peregrinus_studio_a_large.jpg, "portal da ilha")
+![portal da ilha](img/files_styles_image_00_public_natgeo_article_gustavo_neves_c_peregrinus_studio_a_large.jpg)
 “Sempre que inicio um projeto Oceans and Flow de uma expedição ou viagem nos Açores, venho aqui lançar as minhas intenções, este local é o portal da ilha, e foi onde tudo começou na expedição ‘Açores Atlantis”, recorda Violeta Lapa. 
 
 Fotografia por Gustavo Neves 

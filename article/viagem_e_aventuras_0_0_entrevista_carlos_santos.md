@@ -3,7 +3,7 @@
 [Olhares de Portugal](https://www.natgeo.pt/olhares-de-portugal) 
 # Carlos Santos: “Uma vida sem desafios não vale a pena ser vivida” 
 ## O aventureiro Carlos Santos encontrou nas viagens e no desporto um portal de liberdade, após um acidente traumático. Por [Filipa Coutinho](https://www.natgeo.pt/autor/filipa-coutinho) Publicado 21/09/2022, 08:55 
-![Carlos Santos em viagem](img/files_styles_image_00_public_01_0_0_1_1_customv.jpg, "Carlos Santos em viagem")
+![Carlos Santos em viagem](img/files_styles_image_00_public_01_0_0_1_1_customv.jpg)
 
 Fotografia por Carlos Santos Esta é uma história que se aproxima do impossível. Um caminho herculano. 
 
@@ -15,7 +15,7 @@ Nos 21 anos que se seguiram, nem tudo tem sido fácil. “Nunca se está prepara
 
 Nas viagens, planeadas sempre ao detalhe, a cadeira de rodas não pode ser um entrave. “A nossa limitação não pode, nem deve impedir-nos de concretizar esse gosto”. No entanto, não deixa de ser um desafio planear uma viagem, especialmente para destinos que não estão minimamente adaptados para pessoas com mobilidade reduzida. Para Carlos Santos, "uma vida sem desafios não vale a pena ser vivida”. 
 
-![Carlos Santos mergulho](img/files_styles_image_00_public_gopr0_0.jpg, "Carlos Santos mergulho")
+![Carlos Santos mergulho](img/files_styles_image_00_public_gopr0_0.jpg)
 Carlos Santos durante um dos mergulhos que fez em viagem. 
 
 Fotografia por Carlos Santos **Qual o papel dos amigos e família na adversidade?** 
@@ -28,7 +28,7 @@ Um médico na altura disse-me “tu infelizmente estás numa situação em que v
 
 Um dos meus lemas de vida é “o que não nos mata, torna-nos mais fortes”. Desde então, agarrei-me à vida e tento aproveitá-la ao máximo. Neste momento, faço coisas que nunca pensei vir a fazer como no caso do desporto, onde pratico um pouco de tudo. 
 
-![Carlos Santos e elefante na Tailândia](img/files_styles_image_00_public_img_01_0_0_wa00.jpg, "Carlos Santos e elefante na Tailândia")
+![Carlos Santos e elefante na Tailândia](img/files_styles_image_00_public_img_01_0_0_wa00.jpg)
 Carlos Santos próximo de um elefante, na viagem à Tailândia. 
 
 Fotografia por Carlos Santos **Como se escolhem destinos e planeiam viagens com uma cadeira de rodas?** 
@@ -45,9 +45,9 @@ Por norma, apesar de dar mais trabalho, planeamos as viagens sozinhos. Já fiz a
 
 Conheço, por exemplo, a [Tourism For All](https://www.tourism-for-all.com/en/home/) que consultei uma vez no passado, no entanto, os preços praticados são muito elevados comparativamente aos praticados por outras agências. Acredito que estas agências arranjem soluções adequadas à limitação da pessoa que os contacta, mas prefiro organizar as minhas viagens e assim, não só poupo bastante, como escolho os destinos e atividades sem grandes surpresas. Alguns destinos têm também ofertas para passeios acessíveis, lembro-me da [Reduced Mobility Tours BY Madeira Acessível By Wheelchair](https://madeiraacessivelbywheelchair.pt/en/?fbclid=IwAR3icNRDRU8zteAp_3sXAeMcj9glSOfZjq9I0Xs5H08dEmmxYIkQafE8Yb8) mas, estes serviços personalizados, acabam por encarecer a viagem. Felizmente, apesar da minha paraplegia, tenho bastante mobilidade, sou muito aventureiro e ainda não senti necessidade de recorrer a estes serviços. 
 
-![Carlos Santos, Madeira](img/files_styles_image_00_public_0_00_0_1_0.jpg, "Carlos Santos, Madeira")
+![Carlos Santos, Madeira](img/files_styles_image_00_public_0_00_0_1_0.jpg)
 
-![Carlos Santos em Vitoria Gasteiz](img/files_styles_image_00_public_01_1_1_v.jpg, "Carlos Santos em Vitoria Gasteiz")
+![Carlos Santos em Vitoria Gasteiz](img/files_styles_image_00_public_01_1_1_v.jpg)
 **Esquerda:** **Superior:** Carlos Santos numa cascata na ilha da Madeira. 
 
 **Direita:** **Inferior:** Carlos Santos em Vitoria Gasteiz, no País Basco. 
@@ -68,7 +68,7 @@ Em relação à minha cadeira de rodas, não deixam que a mesma viaje comigo na 
 
 Depois do meu acidente, conhecer pessoas com situações idênticas à minha, foi o que me inspirou. Nomeadamente, através da Associação Salvador. Esses são os meus heróis e são as pessoas que tenho como referência. Tenho aprendido muito com eles e muito do que faço hoje em dia é pelo seu exemplo. 
 
-![Carlos Santos na sua viagem recente às Maldivas](img/files_styles_image_00_public_0_0_0_1_1_0.jpg, "Carlos Santos na sua viagem recente às Maldivas")
+![Carlos Santos na sua viagem recente às Maldivas](img/files_styles_image_00_public_0_0_0_1_1_0.jpg)
 Carlos Santos na sua viagem recente às Maldivas, onde encontrou espaços facilmente adaptáveis a receber hóspedes com mobilidade reduzida. 
 
 Fotografia por Carlos Santos **Se pudesse mudar algo no mundo das viagens, o que seria?** 

@@ -1,10 +1,10 @@
 [facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.natgeo.pt%2Fciencia%2F2018%2F08%2Fsylvia-earle-rainha-dos-oceanos) [twitter](https://twitter.com/share?url=https%3A%2F%2Fwww.natgeo.pt%2Fciencia%2F2018%2F08%2Fsylvia-earle-rainha-dos-oceanos&via=natgeo&text=Sylvia%20Earle%2C%20a%20Rainha%20dos%20Oceanos) [whatsapp](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.natgeo.pt%2Fciencia%2F2018%2F08%2Fsylvia-earle-rainha-dos-oceanos) [flipboard](https://share.flipboard.com/bookmarklet/popout?v=2&title=Sylvia%20Earle%2C%20a%20Rainha%20dos%20Oceanos&url=https%3A%2F%2Fwww.natgeo.pt%2Fciencia%2F2018%2F08%2Fsylvia-earle-rainha-dos-oceanos) [mail](mailto:?subject=NatGeo&body=https%3A%2F%2Fwww.natgeo.pt%2Fciencia%2F2018%2F08%2Fsylvia-earle-rainha-dos-oceanos%20-%20Sylvia%20Earle%2C%20a%20Rainha%20dos%20Oceanos) [Ciência](https://www.natgeo.pt/ciencia) 
 # Sylvia Earle, a Rainha dos Oceanos 
 ## Sylvia Earle é uma oceanógrafa, exploradora Rolex da National Geographic, cientista norte-americana e, acima de tudo, apaixonada pelos Oceanos. Por [National Geographic](https://www.natgeo.pt/autor/national-geographic) Publicado 29/08/2018, 14:50 , Atualizado 22/01/2021, 10:21 
-![Earle observa uma esponja tubular gigante.](img/files_styles_image_00_public_sylvia_earle_jess_cramp_tube_sponge.jpg, "Earle observa uma esponja tubular gigante.")
+![Earle observa uma esponja tubular gigante.](img/files_styles_image_00_public_sylvia_earle_jess_cramp_tube_sponge.jpg)
 Earle observa uma esponja tubular gigante nas águas de Bonaire. Fotografia por David Doubilet , National Geographic Foi uma das oradoras do National Geographic Summit 2018, em Lisboa. Foi a primeira mulher a andar no fundo do Oceano a mais de 300 metros de profundidade. Em 1998 foi nomeada pela revista Time a “Heroína do Planeta”. Viveu no Oceano. Escreveu mais de 150 publicações, ganhou o prémio TED, tem mais de sete mil horas em 65 anos de mergulho. Teve a honra de apresentar a Barack Obama uma espécie de peixe nomeada com o nome do antigo presidente. Fundou a SEAAlliance e a Deep Search Foundation. 
 
-![O presidente Barack Obama conheceu Sylvia Earle no atol de Midway.](img/files_styles_image_00_public_sylvia_earle_jess_cramp_obama.jpg, "O presidente Barack Obama conheceu Sylvia Earle no atol de Midway.")
+![O presidente Barack Obama conheceu Sylvia Earle no atol de Midway.](img/files_styles_image_00_public_sylvia_earle_jess_cramp_obama.jpg)
 O presidente Barack Obama conheceu Sylvia Earle no atol de Midway em setembro de 2016 para celebrar a expansão do Monumento Nacional Marinho de Papahānaumokuākea, no Havai, tornada possível sob a sua presidência.
 Fotografia por Brian Skerry , National Geographic 
 ## **Um Desejo: Salvar os Oceanos** 
@@ -22,7 +22,7 @@ Hoje temos ilhas de plástico, ondas de plástico, correntes de microplástico. 
 
 O plástico de uso único é uma novidade com poucas dezenas de anos. Quando Sylvia começou a mergulhar, o plástico não era necessário. A cientista afirma que “o plástico não é o grande problema. É problema é o que fazemos com ele.” A maioria do plástico criado hoje em dia, é criado para ser utilizado uma única vez. Isto é um problema. Um problema que se começa a falar cada vez mais, embora continue a ser produzido massivamente. 
 
-![Earle mostra uma alga a uma visitante.](img/files_styles_image_00_public_sylvia_earle_jess_cramp_algae.jpg, "Earle mostra uma alga a uma visitante.")
+![Earle mostra uma alga a uma visitante.](img/files_styles_image_00_public_sylvia_earle_jess_cramp_algae.jpg)
 Sylvia Earle mostra uma alga a uma visitante. 
 
 Fotografia por Bates Littlehales , National Geographic 
