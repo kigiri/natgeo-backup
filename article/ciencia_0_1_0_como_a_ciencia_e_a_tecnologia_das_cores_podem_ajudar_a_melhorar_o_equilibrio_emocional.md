@@ -154,3 +154,6 @@ A nossa perceção da cor tem desempenhado um papel significativo no tecido da c
 
 Enquanto terminava de escrever este artigo, olhei para a janela e vi um arco-íris vibrante num raro dia chuvoso de agosto e, pensando nas cores da minha própria vida, sorri. 
 
+
+
+![source](https://www.natgeo.pt/ciencia/2021/09/como-a-ciencia-e-a-tecnologia-das-cores-podem-ajudar-a-melhorar-o-equilibrio-emocional)

@@ -61,3 +61,6 @@ Acompanhe o trabalho de Gonçalo Curveira-Santos na sua conta de [Twitter](https
 
 _O_ [_Big Cat Month_](https://www.natgeo.pt/big-cat-month-2021) _dá destaque aos grandes felinos ao longo de fevereiro no National Geographic Wild, com programação especial todos os dias do mês._ 
 
+
+
+![source](https://www.natgeo.pt/animais/2021/02/entrevista-goncalo-curveira-santos-carnivoros-gestao-conservacao)

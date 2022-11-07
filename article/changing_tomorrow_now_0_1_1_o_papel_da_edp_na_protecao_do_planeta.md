@@ -31,3 +31,6 @@ Enquanto o tempo para travar o aquecimento global se esgota, a EDP está a acele
 
 Este é um conteúdo pago para a EDP. Não reflete necessariamente a visão da National Geographic ou da sua equipa editorial. 
 
+
+
+![source](https://www.natgeo.pt/changing-tomorrow-now/2021/12/o-papel-da-edp-na-protecao-do-planeta)

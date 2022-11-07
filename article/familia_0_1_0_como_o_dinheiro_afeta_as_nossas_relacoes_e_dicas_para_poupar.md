@@ -69,3 +69,6 @@ Por vezes, para parar completamente de gastar, tem de estabelecer **uma semana s
 
 _Alex Holder é jornalista freelancer e consultora; escreve para a Elle, Grazia, e The Guardian, entre outros. Em 2013, a sua campanha acerca da disparidade salarial tornou-se viral e contribuiu para a alteração da legislação no Reino Unido._ 
 
+
+
+![source](https://www.natgeo.pt/familia/2021/04/como-o-dinheiro-afeta-as-nossas-relacoes-e-dicas-para-poupar)

@@ -33,3 +33,6 @@ A maior ameaça para os Oceanos é a ignorância. Sylvia Earle afirma que “par
 
 Leia a [entrevista à exploradora](https://www.natgeo.pt/national-geographic-summit/2018/04/entrevista-sylvia-earle-convidada-do-national-geographic-summit) . 
 
+
+
+![source](https://www.natgeo.pt/ciencia/2018/08/sylvia-earle-rainha-dos-oceanos)

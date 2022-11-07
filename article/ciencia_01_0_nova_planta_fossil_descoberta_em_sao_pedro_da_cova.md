@@ -19,3 +19,6 @@ Espécime parátipo UP‐MHNFCP‐154074 de uma pínula isolada perfeitamente pr
 ![Imagens dos trabalhos de escavação realizados em 2010, com anotações sobre o “log estratigráfico” e respectiva ...](img/files_styles_image_00_public_figure_0_0supplement_s_atilde_o_0pedro_0da_0cova_outcrop.jpg)
 Imagens dos trabalhos de escavação realizados em 2010, com anotações sobre o “log estratigráfico” e respectiva colheita de amostras (suplemento de imagem não publicada, fornecido por Pedro Correia). Fotografia por Pedro Correia Este estudo teve o contributo dos investigadores Artur Sá, da Universidade de Trás-os-Montes e Alto Douro (Vila Real), Zbynek Šimunek, dos Serviços Geológicos de Praga (República Checa), e Christopher Cleal, do Museu Nacional e Ciências Naturais do País de Gales (Reino Unido). O trabalho não terminou e as colaborações com investigadores estrangeiros continuam. Pedro Correia afirma que “a equipa de investigadores está envolvida em novos estudos sobre outros fósseis também encontrados na mesma região”. As novas descobertas serão anunciadas em breve. 
 
+
+
+![source](https://www.natgeo.pt/ciencia/2018/09/nova-planta-fossil-descoberta-em-sao-pedro-da-cova)

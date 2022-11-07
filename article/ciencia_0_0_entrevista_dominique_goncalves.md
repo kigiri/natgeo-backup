@@ -48,3 +48,5 @@ Para proteger a biodiversidade e os ecossistemas, precisamos mais do que apenas 
 Que as pessoas comecem a pensar e a ver a natureza e as pessoas juntas, não apenas como forma de ganhar dinheiro, mas como forma de vida, de convivência. Para isso, precisamos de perceber que as pessoas e a vida selvagem fazem parte do mesmo sistema e ambas precisam de aprender a viver juntas. Precisamos de reconectar-nos com a natureza, connosco como parte dela e ela como parte de nós. Tudo o que fazemos na natureza tem consequências para o bem-estar humano. 
 
 [COMPRAR BILHETE PARA O SUMMIT](https://ticketline.sapo.pt/evento/national-geographic-summit-2022-64007) 
+
+![source](https://www.natgeo.pt/ciencia/2022/05/entrevista-dominique-goncalves)

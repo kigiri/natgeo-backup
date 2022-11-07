@@ -82,3 +82,6 @@ Um exemplo desta transformação é o facto de já recorrermos a robôs que cria
 
 A verdade, é que nos últimos 20 anos temos investido fortemente na tecnologia digital e possuímos um forte _Know How_ nesta área. Esse é o nosso trunfo. À medida que vão surgindo novos avanços tecnológicos na robotização, nós, na White Clinic estamos preparados para os receber. 
 
+
+
+![source](https://www.natgeo.pt/ciencia/2018/11/entrevista-a-miguel-stanley)

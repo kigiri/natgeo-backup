@@ -41,3 +41,6 @@ Como cientista, a Jennifer vê cada peixe vivo como "um num milhão"...porque as
 
 A Jennifer tem uma boa filosofia: "Esteja atento e seja responsável". 
 
+
+
+![source](https://www.natgeo.pt/fotografia/2022/05/entrevista-david-doubilet-e-jennifer-hayes)

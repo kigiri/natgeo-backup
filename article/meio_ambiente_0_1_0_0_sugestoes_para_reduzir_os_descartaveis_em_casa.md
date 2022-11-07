@@ -63,3 +63,6 @@ Não é necessário mudar drasticamente os seus hábitos, mas ao implementar alg
 
 Este é um conteúdo pago para a IKEA. Não reflete necessariamente a visão da National Geographic ou da sua equipa editorial. 
 
+
+
+![source](https://www.natgeo.pt/meio-ambiente/2021/09/20-sugestoes-para-reduzir-os-descartaveis-em-casa)

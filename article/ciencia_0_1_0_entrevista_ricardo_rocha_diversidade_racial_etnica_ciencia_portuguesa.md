@@ -65,3 +65,6 @@ Uma maior comunhão entre humanos e o mundo natural.
 
 _Ricardo Rocha possui uma bolsa da National Geographic Society desde 2020. Acompanhe o seu trabalho nas suas contas de [Twitter](https://twitter.com/RicardoNature) e [Instagram](https://www.instagram.com/ricardo.nature/) ._ 
 
+
+
+![source](https://www.natgeo.pt/ciencia/2021/09/entrevista-ricardo-rocha-diversidade-racial-etnica-ciencia-portuguesa)

@@ -46,3 +46,6 @@ Muita coisa! Estamos a falar de um animal que é solitário durante toda a sua v
 
 De todos os invertebrados, os polvos são os que mais se parecem com os humanos. Descubra [por que razão os polvos nos lembram tanto de nós próprios](https://www.natgeo.pt/perpetual-planet/2018/03/porque-e-que-os-polvos-nos-lembram-tanto-de-nos-proprios) . 
 
+
+
+![source](https://www.natgeo.pt/ciencia/2021/01/socos-no-oceano-de-polvos)

@@ -29,3 +29,6 @@ Juntos no National Geographic Exodus Aveiro Fest, Mike e Lilliana Libecki vão p
 
 Não perca a sua palestra conjunta no dia 1 de dezembro às 10:00. Até lá, espreite as suas aventuras na conta de [Instagram](https://www.instagram.com/mikelibecki/) . 
 
+
+
+![source](https://www.natgeo.pt/fotografia/2018/09/mike-e-lilliana-libecki-pai-e-filha-exploram-o-mundo)

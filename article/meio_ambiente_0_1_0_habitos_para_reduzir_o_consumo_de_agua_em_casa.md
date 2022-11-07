@@ -48,3 +48,6 @@ Práticas diárias de poupança de água como estas podem contribuir para a melh
 
 [EXPLORAR MAIS DICAS](https://www.natgeo.pt/comeca-em-casa) Este é um conteúdo pago para a IKEA. Não reflete necessariamente a visão da National Geographic ou da sua equipa editorial. 
 
+
+
+![source](https://www.natgeo.pt/meio-ambiente/2021/09/habitos-para-reduzir-o-consumo-de-agua-em-casa)

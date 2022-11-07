@@ -178,3 +178,5 @@ Este vídeo começará em
 segundos 
 
 Free Solo - Vencedor do Óscar de Melhor Documentário 
+
+![source](https://www.natgeo.pt/viagem-e-aventuras/2019/03/entrevista-aos-dois-portugueses-premiados-em-free-solo)

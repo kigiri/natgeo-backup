@@ -33,3 +33,6 @@ A exploração sustentável do potencial energético dos oceanos e bacias marít
 
 Este é um conteúdo pago para a EDP. Não reflete necessariamente a visão da National Geographic ou da sua equipa editorial. 
 
+
+
+![source](https://www.natgeo.pt/changing-tomorrow-now/2021/12/a-grande-aposta-na-producao-de-energia-offshore)

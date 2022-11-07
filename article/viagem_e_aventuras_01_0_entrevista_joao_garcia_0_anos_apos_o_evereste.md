@@ -47,3 +47,6 @@ Cresceu em…** Lisboa
 
 **O seu melhor conselho é…** “o sonho comanda a vida”. 
 
+
+
+![source](https://www.natgeo.pt/viagem-e-aventuras/2019/08/entrevista-joao-garcia-20-anos-apos-o-evereste)

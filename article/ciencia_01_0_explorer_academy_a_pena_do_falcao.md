@@ -20,3 +20,6 @@ No site [Explorer Academy](https://kids.nationalgeographic.com/explorer-academy/
 
 Leia a **[entrevista à autora](https://www.natgeo.pt/ciencia/2018/11/entrevista-trudi-trueit-autora-da-saga-explorer-academy)** e saiba quais são os seus conselhos para crianças que não sabem o que querem fazer quando crescerem. 
 
+
+
+![source](https://www.natgeo.pt/ciencia/2019/04/explorer-academy-a-pena-do-falcao)

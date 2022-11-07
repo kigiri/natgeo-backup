@@ -81,3 +81,6 @@ Um branqueamento de consciência e uma ferramenta de autoconvencimento. Prefiro 
 
 Muito pensada, planeada e já toda sonhada: mas para já ainda é só parte de uma _bucket list_ . Falo dela quando a fizer! 
 
+
+
+![source](https://www.natgeo.pt/viagem-e-aventuras/2021/12/andre-rocha-caminhada-costa-continental-portuguesa)

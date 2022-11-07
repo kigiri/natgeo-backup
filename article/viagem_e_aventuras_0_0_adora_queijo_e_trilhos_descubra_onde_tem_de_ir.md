@@ -126,3 +126,6 @@ A [Grande Rota de Santa Maria](https://trails.visitazores.com/pt-pt/grandes-rota
 
 Resta saber: quando marca a viagem? 
 
+
+
+![source](https://www.natgeo.pt/viagem-e-aventuras/2022/07/adora-queijo-e-trilhos-descubra-onde-tem-de-ir)

@@ -52,3 +52,6 @@ Convidamo-lo a implementar algumas destas dicas e partilhá-las com os seus fami
 
 Este é um conteúdo pago para a IKEA. Não reflete necessariamente a visão da National Geographic ou da sua equipa editorial. 
 
+
+
+![source](https://www.natgeo.pt/meio-ambiente/2021/10/10-dicas-para-reduzir-o-desperdicio-alimentar-em-casa)

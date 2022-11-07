@@ -58,3 +58,6 @@ Sim. O meu maior desafio em criar imagens para o Photo Ark é assistir à extin�
 
 Ninguém pode dizer ao certo, mas no caso dos invertebrados que vivem em zonas pequenas de florestas tropicais, perdêmo-las diariamente quando a madeira é cortada e queimada para plantações de óleo de palma e outros usos agrícolas. Um relatório recente feito pelo WWF ( _World Wildlife Federation_ ) declara que o volume de vertebrados no planeta foi reduzido para metade, desde 1970. Isso não significa que estejam extintos, mas consideravelmente reduzidos em número, e muitos estão limitados a tão poucos que precisarão de muita ajuda para recuperar. É por isso que programas como as nossas Bolsas Nat Geo Photo Ark EDGE com a Sociedade Zoológica de Londres são tão importantes. Lançámos este programa no ano passado para financiar conservacionistas em início de carreira, que trabalham no campo para proteger algumas das espécies mais ameaçadas na Arca, e em alguns dos nossos ecossistemas mais ameaçados. Heróis de conservação como estes estão a ajudar a salvar espécies em risco antes que seja tarde demais. 
 
+
+
+![source](https://www.natgeo.pt/photo-ark/o-homem-por-tras-da-arca-entrevista-a-joel-sartore)

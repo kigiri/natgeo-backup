@@ -30,3 +30,6 @@ Na próxima vez que fizer compras alimentares, lembre-se de como pode tornar a s
 
 [EXPLORAR MAIS DICAS](https://www.natgeo.pt/comeca-em-casa) Este é um conteúdo pago para a IKEA. Não reflete necessariamente a visão da National Geographic ou da sua equipa editorial. 
 
+
+
+![source](https://www.natgeo.pt/meio-ambiente/2021/09/como-comer-de-forma-mais-sustentavel-e-saudavel)

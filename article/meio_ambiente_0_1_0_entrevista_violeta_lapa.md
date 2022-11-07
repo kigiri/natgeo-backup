@@ -64,3 +64,6 @@ Todos nós temos um dom único de fazer algo, mesmo quem acha que não tem. Atra
 
 _Entrevista atualizada a 24 de fevereiro por forma a incluir mais detalhes numa das questões._ 
 
+
+
+![source](https://www.natgeo.pt/meio-ambiente/2021/02/entrevista-violeta-lapa)

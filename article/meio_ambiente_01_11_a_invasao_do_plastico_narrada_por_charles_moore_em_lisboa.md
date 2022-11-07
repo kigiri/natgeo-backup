@@ -21,3 +21,6 @@ Segundo Charles Moore, “é muito mais fácil ficar a olhar para a realidade im
 ![Imagem da palestra de Charles Moore no Dia Nacional do Mar, em Lisboa.](img/files_styles_image_00_public_1.jpg)
 Charles Moore durante a sua palestra no Dia Nacional do Mar, na Biblioteca da Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa. Fotografia por National Geographic Atualmente estima-se que 90% de todo o lixo que flutua no oceano, seja plástico. Quanto mais tempo permanecer no oceano, mais alaranjado fica e mais concentração de poluição possuí. Apenas na área do Pacífico Norte, existem cerca de 100 milhões de toneladas de lixo marinho, responsáveis pela morte de um milhão de aves marinhas, todos os anos. O Capitão Charles Moore terminou a sua palestra com uma frase que dá que pensar. “O plástico está no ar, no pó,… já respiramos plástico.” 
 
+
+
+![source](https://www.natgeo.pt/meio-ambiente/2018/11/a-invasao-do-plastico-narrada-por-charles-moore-em-lisboa)

@@ -42,3 +42,6 @@ Há uma diferença no plástico que é mantido em terra e o plástico que está 
 
 _Esta entrevista foi encurtada por motivos de extensão e clareza._ 
 
+
+
+![source](https://www.natgeo.pt/meio-ambiente/2019/03/entrevista-a-afroz-shah-responsavel-pela-maior-limpeza-de-praia-do-mundo)

@@ -55,3 +55,6 @@ Não é uma questão de quase todos os cantos do mundo terem sido fotografados. 
 
 _Entrevista realizada a William Albert Allard, a 28 de janeiro de 2019._ 
 
+
+
+![source](https://www.natgeo.pt/fotografia/2019/01/as-palavras-de-william-albert-allard-o-fotografo-lendario)

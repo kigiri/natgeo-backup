@@ -36,3 +36,6 @@ A forma como estas diferentes espécies se comportaram face a mudanças abruptas
 
 _Carlos Vila-Viçosa é estudante de Doutoramento e investigador no Centro de Investigação em Biodiversidade e Recursos Genéticos (CIBIO-InBIO) e no Museu de História Natural e da Ciência da Universidade do Porto, na área da botânica, biogeografia e evolução. Os seus interesses são a história evolutiva dos carvalhos (Quercus L.) circum-mediterrânicos, prevendo o efeito das alterações climáticas na conservação das suas florestas. Tem interesses alargados às ciências da vegetação, classificação sintaxonómica e taxonomia botânica, relevância biogeográfica do Sudoeste ibérico e Noroeste de África como hot-spots filogeográficos no contexto da bacia mediterrânica._ 
 
+
+
+![source](https://www.natgeo.pt/ciencia/2021/08/cientistas-revelam-como-a-alteracao-da-distribuicao-dos-carvalhos-ibericos-no-passado-ajuda-a-prever-variacoes-futuras)

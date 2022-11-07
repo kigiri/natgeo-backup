@@ -65,3 +65,6 @@ O MCUC inclui-se no património da ‘Universidade de Coimbra Alta e Sofia’, c
 
 Aproveite ainda para descobrir a [Rota Portuguesa do Românico](https://www.natgeo.pt/historia/2019/04/arquitetura-arte-e-historia-rota-do-romanico-em-portugal) e alguns dos [locais mais escondidos da ilha de São Miguel](https://www.natgeo.pt/viagem-e-aventuras/2019/06/descoberta-da-ilha-de-sao-miguel-acores) . 
 
+
+
+![source](https://www.natgeo.pt/historia/2020/01/6-museus-portugueses-para-visitar-em-2020)

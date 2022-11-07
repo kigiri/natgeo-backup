@@ -74,3 +74,6 @@ Por exemplo, o HIV começou a haver com muita intensidade nos anos 30 – sempre
 
 Oxalá. 
 
+
+
+![source](https://www.natgeo.pt/ciencia/2021/02/covid19-entrevista-pedro-simas)

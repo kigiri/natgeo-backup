@@ -12,3 +12,6 @@ A nova **ERA-Chair** permitirá promover a inovação na investigação dedicada
 
 Esta é a primeira vez que uma unidade de investigação em Portugal ganha uma proposta Teaming. O diretor do centro de investigação sublinha a importância da aprovação destas duas candidaturas que “ _contribui para uma sociedade mais bem capacitada para efetuar escolhas informadas_ ”. 
 
+
+
+![source](https://www.natgeo.pt/ciencia/2019/04/cibio-marca-historia-da-ciencia-em-portugal)

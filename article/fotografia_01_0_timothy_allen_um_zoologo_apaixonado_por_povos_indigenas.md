@@ -23,3 +23,6 @@ Este ano, o festival [Exodus Aveiro Fest](https://www.natgeo.pt/exodus) dá luga
 
 Siga as páginas de [Instagram](https://www.instagram.com/Timothy_Allen/) e [Facebook](https://www.facebook.com/timothy.allen/) para acompanhar as aventuras de Timothy Allen! 
 
+
+
+![source](https://www.natgeo.pt/fotografia/2018/08/timothy-allen-um-zoologo-apaixonado-por-povos-indigenas)

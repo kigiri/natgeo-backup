@@ -54,3 +54,6 @@ Ao adotar hábitos simples como estes pode ajudar a conservar alguns dos recurso
 
 [EXPLORAR MAIS DICAS](https://www.natgeo.pt/comeca-em-casa) Este é um conteúdo pago para a IKEA. Não reflete necessariamente a visão da National Geographic ou da sua equipa editorial. 
 
+
+
+![source](https://www.natgeo.pt/meio-ambiente/2021/10/como-poupar-energia-em-casa-de-forma-eficaz)

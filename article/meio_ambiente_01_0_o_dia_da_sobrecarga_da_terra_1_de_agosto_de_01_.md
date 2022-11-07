@@ -15,3 +15,6 @@ Se mantivermos os números de hoje e a população mundial continuar a aumentar,
 
 Se nada for alterado, em 2019, o Planeta Terra vai esgotar a sua regeneração natural mais cedo que este ano, e assim continuará. Já consumimos todos os recursos disponíveis para 2018 e, por agora, vivemos de 1 de agosto a 31 de dezembro de 2018, ‘a crédito’. 
 
+
+
+![source](https://www.natgeo.pt/meio-ambiente/2018/08/o-dia-da-sobrecarga-da-terra-1-de-agosto-de-2018)

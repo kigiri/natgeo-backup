@@ -39,3 +39,6 @@ Durante a estadia, se a sua condição física o permitir, deve optar pela mobil
 
 Este é um conteúdo pago para a Volvo Car Portugal. Não reflete necessariamente a visão da National Geographic ou da sua equipa editorial. 
 
+
+
+![source](https://www.natgeo.pt/viagem-e-aventuras/2022/06/descubra-como-fazer-uma-viagem-com-menos-impacto-e-mais-consciente)

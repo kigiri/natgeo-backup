@@ -21,3 +21,6 @@ Fotografia de Yann Arthus-Bertrand, reconhecido fotógrafo, embaixador da Boa Vo
 
 Yann Arthus-Bertrand é a Personalidade do Ano [Exodus](https://www.natgeo.pt/exodus) 2018, que decorrerá a 1 e 2 de dezembro no Centro de Congressos de Aveiro. Pode acompanhar o trabalho do fotógrafo e realizador na sua [conta de Instagram](https://www.instagram.com/yannarthusbertrand/) e [página de Facebook](https://www.facebook.com/Y.A.Bertrand/) . 
 
+
+
+![source](https://www.natgeo.pt/fotografia/2018/11/yann-arthus-bertrand-e-a-personalidade-exodus-2018-e-vem-a-portugal)

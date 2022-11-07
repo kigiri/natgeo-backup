@@ -44,3 +44,6 @@ A investigadora está atualmente à procura de financiamento para voltar a traba
 
 [Fausta Cardoso Pereira](http://www.faustacardosopereira.com/) é _storyteller_ , vencedora do prémio Antón Risco (Espanha) pelo livro "Dormir com Lisboa" e gestora de projetos de cooperação, desenvolvimento e sustentabilidade. Pode ver os vídeos deste projeto [aqui](https://www.youtube.com/channel/UC7_KyGXsCEhRVk7kn_yJ3AA/videos) . 
 
+
+
+![source](https://www.natgeo.pt/familia/2022/08/a-narrativa-das-criancas-em-campos-de-refugiados)

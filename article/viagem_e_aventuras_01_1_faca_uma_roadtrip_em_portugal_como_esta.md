@@ -44,3 +44,6 @@ Desafiamo-lo a seguir as nossas coordenadas e aventurar-se na longitude das estr
 
 _Nota: Esta roadtrip foi realizada no âmbito no [National Geographic Exodus Aveiro Fest](https://www.natgeo.pt/exodus) com a equipa da organização do festival e parte do painel de oradores da edição de 2019. Teve o apoio do Turismo Centro de Portugal, Prio e Lexus._ 
 
+
+
+![source](https://www.natgeo.pt/viagem-e-aventuras/2019/12/faca-uma-roadtrip-em-portugal-como-esta)

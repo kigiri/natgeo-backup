@@ -24,3 +24,6 @@ O projeto “Os Outros - pessoas como nós” integra-se na estratégia Cultura 
 
 A exposição tem entrada gratuita e pode ser visitada até 8 de junho, de segunda-feira a sábado, entre as 14h00 e as 18h00, no Salão Nobre do Teatro Aveirense. 
 
+
+
+![source](https://www.natgeo.pt/fotografia/2022/05/projeto-documental-de-bernardo-conde-valoriza-a-diversidade-humana)

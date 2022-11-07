@@ -64,3 +64,6 @@ Eu desejo que as pessoas um dia acordem com olhos novos e percebam a beleza da n
 
 _**Vasco Pissarra** é cofundador do projeto Gigantes da Floresta, ecólogo marinho e usa a fotografia para facilitar a aproximação do público não cientista a causas de conservação de natureza._ 
 
+
+
+![source](https://www.natgeo.pt/animais/2019/09/martina-panisi-protege-caracois-gigantes-em-sao-tome-e-principe)

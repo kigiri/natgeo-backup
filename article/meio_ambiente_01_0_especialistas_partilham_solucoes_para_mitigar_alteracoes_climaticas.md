@@ -17,3 +17,6 @@ Segundo Kimberly Nicholas, Professora de Ciências Sustentáveis na Universidade
 
 As alterações climáticas constituem, ao mesmo tempo, um desafio e uma oportunidade para o setor. A indústria do vinho pode ser crítica para um futuro climático seguro, liderando uma nova mentalidade global centrada na economia sustentável. 
 
+
+
+![source](https://www.natgeo.pt/meio-ambiente/2019/03/especialistas-partilham-solucoes-para-mitigar-alteracoes-climaticas)

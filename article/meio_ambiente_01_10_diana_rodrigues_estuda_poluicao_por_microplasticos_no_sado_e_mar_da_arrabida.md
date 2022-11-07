@@ -60,3 +60,6 @@ Desejo que todas as pessoas do planeta possam viver a experiência de um mergulh
 
 _Entrevista concedida a 14 de outubro de 2019_ 
 
+
+
+![source](https://www.natgeo.pt/meio-ambiente/2019/10/diana-rodrigues-estuda-poluicao-por-microplasticos-no-sado-e-mar-da-arrabida)

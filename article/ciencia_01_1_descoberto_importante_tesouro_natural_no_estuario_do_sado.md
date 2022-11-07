@@ -28,3 +28,6 @@ Localização de alguns dos bancos de pradarias marinhas no Estuário do Sado. F
 
 _Este artigo teve os contributos de Raquel Gaspar e Miguel Correia, biólogo do CCMAR especialista em cavalos-marinhos. As expedições de mergulho científico do projeto distinguido pela bolsa de exploradora da National Geographic têm a parceria da Marinha Portuguesa._ 
 
+
+
+![source](https://www.natgeo.pt/ciencia/2019/12/descoberto-importante-tesouro-natural-no-estuario-do-sado)

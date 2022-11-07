@@ -44,3 +44,6 @@ Mesmo que implemente apenas algumas destas dicas, ao reduzir o consumo energéti
 
 [EXPLORAR MAIS DICAS](https://www.natgeo.pt/comeca-em-casa) Este é um conteúdo pago para a IKEA. Não reflete necessariamente a visão da National Geographic ou da sua equipa editorial. 
 
+
+
+![source](https://www.natgeo.pt/meio-ambiente/2021/10/como-reduzir-os-consumos-de-arrefecimento-e-aquecimento-em-casa)

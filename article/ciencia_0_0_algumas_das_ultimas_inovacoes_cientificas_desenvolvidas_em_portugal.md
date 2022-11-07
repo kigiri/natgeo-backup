@@ -89,3 +89,6 @@ A equipa integrou módulos para acumular energia sob forma de frio ao sistema, f
 
 A pandemia de COVID-19 trouxe novos desafios, mas permitiu acelerar várias frentes da ciência e fazer progressos notáveis. A vida continua a ser repleta de mistérios e à medida que as alterações climáticas se agravam, a ação humana deve caminhar de mãos dadas com a ciência. 
 
+
+
+![source](https://www.natgeo.pt/ciencia/2022/08/algumas-das-ultimas-inovacoes-cientificas-desenvolvidas-em-portugal)

@@ -66,3 +66,6 @@ Cresceu em...** Smithfield, Rhode Island, EUA.
 
 [Blog](https://www.askmott.com/) 
 
+
+
+![source](https://www.natgeo.pt/fotografia/2019/12/entrevista-justin-mott-fundador-de-kindred-guardians)

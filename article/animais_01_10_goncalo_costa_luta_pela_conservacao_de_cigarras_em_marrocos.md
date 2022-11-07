@@ -53,3 +53,6 @@ Direita: A maior ameaça imediata à conservação de muitas espécies de animai
 
 _A equipa do Cicada Group na FCUL, à qual Gonçalo Costa pertence, é composta por Paula Simões, Vera Nunes, Eduardo Marabuto e Raquel Mendes._ 
 
+
+
+![source](https://www.natgeo.pt/animais/2019/10/goncalo-costa-luta-pela-conservacao-de-cigarras-em-marrocos)

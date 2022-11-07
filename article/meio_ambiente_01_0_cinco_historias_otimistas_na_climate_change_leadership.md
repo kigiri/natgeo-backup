@@ -20,3 +20,6 @@ Cinco histórias de cinco oradores com projetos de intervenção completamente d
 
 A economia global está a adaptar-se a um conjunto de alterações, em que todas as indústrias conseguem melhorar. O planeta não tem tempo a perder. 
 
+
+
+![source](https://www.natgeo.pt/meio-ambiente/2019/03/cinco-historias-otimistas-na-climate-change-leadership)

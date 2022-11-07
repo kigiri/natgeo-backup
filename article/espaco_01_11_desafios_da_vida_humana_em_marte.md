@@ -24,3 +24,6 @@ O facto de não existir vida em Marte demonstra que ainda não estão reunidas a
 
 A entrada nas sessões de [Marte 2030](https://www.ccb.pt/Default/pt/Programacao/LiteraturaEPensamento?a=1551) tem um custo individual de 2,50€ ou de 8,00€ para o ciclo completo. As sessões são transmitidas online, através do link: [https://videocast.fccn.pt/live/id_fc_ul/marte2030](https://videocast.fccn.pt/live/id_fc_ul/marte2030) . 
 
+
+
+![source](https://www.natgeo.pt/espaco/2018/11/7-desafios-da-vida-humana-em-marte)

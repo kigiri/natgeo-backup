@@ -60,3 +60,6 @@ Este estudo teve o contributo dos investigadores [Ary Pinto de Jesus](https://ww
 
 Os materiais portugueses e espanhóis de _Tiaracrinus_ encontram-se arquivados nas coleções de paleontologia da Faculdade de Ciências e Tecnologias da Universidade Nova de Lisboa. 
 
+
+
+![source](https://www.natgeo.pt/ciencia/2020/07/paleontologos-portugueses-descobrem-fossil-bizarro-de-crinoide-na-peninsula-iberica)

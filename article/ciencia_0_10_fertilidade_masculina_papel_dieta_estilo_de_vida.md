@@ -83,3 +83,6 @@ Conceição Calhau considera que o investimento na formação de profissionais d
 
 Para ter acesso a mais informação, o investigador convida-o a seguir o [The Environment And Reproductive Health (EARTH) Study](https://www.hsph.harvard.edu/earth/) da Escola de Saúde Pública de Harvard e a [Rede Europeia de Medicina Sexual](https://www.esmn-cost.eu/) , da qual faz parte o seu grupo de investigação. Nessa rede, Marco Alves lidera um subgrupo dedicado ao “Estilo de Vida e Saúde Sexual”, que lançou recentemente um [vídeo](https://www.youtube.com/watch?v=QIZiJji1sk8) que pretende sensibilizar o cidadão comum. “Não podemos continuar a ignorar este assunto.” 
 
+
+
+![source](https://www.natgeo.pt/ciencia/2022/10/fertilidade-masculina-papel-dieta-estilo-de-vida)

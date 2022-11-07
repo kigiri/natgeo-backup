@@ -56,3 +56,6 @@ Fotografia por Pedro Correia Os fósseis de _Lesleya iberiensis_ encontram-se re
 
 _Pedro Correia é investigador doutorado no Instituto das Ciências da Terra da Faculdade de Ciências da Universidade do Porto, onde desenvolve investigação na área da Paleobotânica. Brendan Murphy é professor associado na Universidade St. Francis Xavier, no Canadá._ 
 
+
+
+![source](https://www.natgeo.pt/ciencia/2020/05/cientistas-portugueses-e-canadianos-revelam-como-supercontinente-pangeia-se-formou)

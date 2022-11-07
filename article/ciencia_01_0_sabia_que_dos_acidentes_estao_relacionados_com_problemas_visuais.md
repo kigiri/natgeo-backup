@@ -68,3 +68,5 @@ Manuel Gião, piloto profissional Fotografia por Conselheiros da Visão **Para t
 Ultrapassa os 20 metros? Se exceder é bom sinal! Caso não ultrapasse ou tiver alguma dúvida sobre a sua condição ocular, deve fazer um exame visual numa ótica. Ao cuidar da sua saúde ocular, está a contribuir para a sua segurança rodoviária. 
 
 Este conteúdo é-lhe trazido pelo nosso parceiro. Não reflete necessariamente a visão da National Geographic ou da sua equipa editorial. 
+
+![source](https://www.natgeo.pt/ciencia/2019/06/sabia-que-25-dos-acidentes-estao-relacionados-com-problemas-visuais)

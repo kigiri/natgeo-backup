@@ -31,3 +31,6 @@ No futuro? Ricardo Araújo revela que os próximos passos da equipa passam por �
 
 Esta foi, sem dúvida, uma das grandes descobertas da paleontologia. O investigador português sublinha que a “endotermia está por detrás de todas as funções e comportamentos animais”. É este mecanismo que nos permite correr mais rápido e estar ativo durante mais tempo, assim como explorar climas frios. Ricardo Araújo vai mais longe dizendo que “poderemos especular que sem a origem da endotermia nos nossos antepassados, dificilmente haveria humanos”. Foi uma evolução decisiva dos nossos ancestrais. 
 
+
+
+![source](https://www.natgeo.pt/ciencia/2022/07/origem-do-sangue-quente-nos-mamiferos-descoberta-por-ricardo-araujo)

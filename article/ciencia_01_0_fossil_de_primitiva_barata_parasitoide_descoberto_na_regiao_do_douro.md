@@ -24,3 +24,6 @@ Pedro Correia juntamente com a sua equipa irão muito em breve apresentar um tra
 
 _Pedro Correia é investigador doutorado no Instituto das Ciências da Terra da Faculdade de Ciências da Universidade do Porto, onde desenvolve investigação na área da Paleobotânica._ 
 
+
+
+![source](https://www.natgeo.pt/ciencia/2019/09/fossil-de-primitiva-barata-parasitoide-descoberto-na-regiao-do-douro)

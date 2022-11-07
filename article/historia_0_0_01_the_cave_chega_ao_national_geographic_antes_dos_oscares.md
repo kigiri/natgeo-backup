@@ -21,3 +21,6 @@ The Cave - trailer Quando os mísseis destroem tudo à superfície, o hospital s
 
 A cerimónia dos óscares acontece na madrugada de 9 para 10 de fevereiro e em Portugal terá transmissão exclusiva nos canais FOX (versão com comentários em português) e FOX Movies (versão original), em direto. 
 
+
+
+![source](https://www.natgeo.pt/historia/2020/01/the-cave-chega-ao-national-geographic-antes-dos-oscares)

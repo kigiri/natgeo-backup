@@ -20,3 +20,6 @@ Este estudo teve o contributo dos investigadores Artur Sá da Universidade de Tr
 
 Em breve, a equipa apresentará mais estudos científicos sobre outras novas espécies de plantas primitivas que se juntam a outras descobertas de fósseis de insetos, igualmente descritos recentemente, documentados na região do Douro. 
 
+
+
+![source](https://www.natgeo.pt/ciencia/2019/05/nova-especie-de-planta-fossil-descoberta-na-regiao-do-douro)

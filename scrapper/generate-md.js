@@ -1,4 +1,5 @@
 import { readFile, readdir, writeFile } from 'node:fs/promises'
+import { articleLinks } from "./articles.js"
 
 const files = await readdir('data')
 const data = await Promise.all(files
@@ -105,12 +106,15 @@ const TAGS = {
   VIDEO: ({children, ...src}) => [`<code>${JSON.stringify(src)}</code>`],
 }
 
+const names = Object.fromEntries(articleLinks.map(a => [a.toLowerCase().replace(/[^a-z0-1]+/g, '_') + '.json', a]))
+
 for (const [filename, content] of data) {
   const flatten = textContent(content)
     .replaceAll(' ', ' ')
     .replace(/[ ]+/g, ' ')
     .replaceAll('\n ', '\n')
     .replace(/\n[\n]+/g, '\n\n')
+    + `\n\n![source](https://www.natgeo.pt/${names[filename]})`
 
   await writeFile('article/'+filename.slice(0, -4) + 'md', flatten, 'utf8')
 }

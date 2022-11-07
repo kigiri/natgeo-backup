@@ -40,3 +40,6 @@ Ainda que a ritmos distintos, a COP26 demonstrou que a maioria dos países, empr
 
 Este é um conteúdo pago para a EDP. Não reflete necessariamente a visão da National Geographic ou da sua equipa editorial. 
 
+
+
+![source](https://www.natgeo.pt/changing-tomorrow-now/2021/12/as-estrategias-da-edp-para-cumprir-ambicoes-cop26)

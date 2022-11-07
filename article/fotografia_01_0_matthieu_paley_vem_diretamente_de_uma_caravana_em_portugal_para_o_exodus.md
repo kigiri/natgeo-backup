@@ -28,3 +28,6 @@ Fotografia de Matthieu Paley Fotografia por Matthieu Paley O National Geographic
 
 Leia mais sobre a sua vida no site: [http://www.paleyphoto.com/](http://www.paleyphoto.com/) e na sua página de Facebook: [https://www.facebook.com/Paleyphoto](https://www.facebook.com/Paleyphoto) . 
 
+
+
+![source](https://www.natgeo.pt/fotografia/2018/09/matthieu-paley-vem-diretamente-de-uma-caravana-em-portugal-para-o-exodus)

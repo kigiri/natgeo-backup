@@ -28,3 +28,6 @@ Pedro Correia conclui que _“Lusitadischia sai é_ o segundo registo da familia
 
 O nome específico _sai_ é dado em homenagem a Artur Sá, paleontólogo e docente da Universidade de Trás-os-Montes e Alto Douro, pelo seu importante contributo na estratigrafia e paleontologia do Paleozóico inferior do sudoeste da Europa e norte de África e também na promoção e valorização do Património Geológico, Geoconservação e Geoparques. 
 
+
+
+![source](https://www.natgeo.pt/ciencia/2022/06/fossil-de-gafanhoto-primitivo-descoberto-em-sao-pedro-da-cova)

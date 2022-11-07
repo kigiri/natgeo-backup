@@ -28,3 +28,6 @@ Fotografia do fotógrafo Benjamin Von Wong. Fotografia por Benjamin Von Wong As 
 
 Está atualmente dedicado a projetos de conservação que ajudem a nivelar a arte e a utilização das redes sociais de uma forma construtiva. Não perca as histórias por detrás das suas fotografias, no [National Geographic Exodus Aveiro Fest](https://www.natgeo.pt/exodus) a 1 e 2 de dezembro de 2018, no Centro de Congressos de Aveiro. Acompanhe os projetos alucinantes de Ben Von Wong na sua conta de [Instagram](https://www.instagram.com/vonwong/) e no seu [website](http://www.vonwong.com/) . 
 
+
+
+![source](https://www.natgeo.pt/fotografia/benjamin-von-wong-de-engenheiro-de-minas-a-fotografo)

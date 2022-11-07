@@ -29,3 +29,6 @@ A EDP está empenhada em ser uma voz ativa e eficaz na transição energética d
 
 Este é um conteúdo pago para a EDP. Não reflete necessariamente a visão da National Geographic ou da sua equipa editorial. 
 
+
+
+![source](https://www.natgeo.pt/changing-tomorrow-now/2021/12/o-cunho-da-edp-na-transicao-energetica-rumo-a-peninsula-iberica-mais-verde)

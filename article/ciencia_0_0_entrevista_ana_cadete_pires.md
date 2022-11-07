@@ -53,3 +53,6 @@ Os EUA é um país enorme e muito desigual, pelo que só posso comentar sobre a 
 
 O abuso psicológico dos professores e diretores de tese. Quem não está dentro do mundo académico não sabe a pressão que muitos alunos de doutoramento sofrem, as noites, fins de semana e feriados que passam no laboratório a trabalhar, as horas do seu tempo livre que são usadas para escrever os artigos científicos, a falta de apoio que têm quando decidem escolher uma carreira alternativa à academia ou, no caso das mulheres, quando decidem engravidar, independentemente da altura da tese em que isso acontece. O _burnout_ na ciência é gravíssimo e ainda existe uma grande falta de recursos no acompanhamento dos alunos de doutoramento. 
 
+
+
+![source](https://www.natgeo.pt/ciencia/2022/03/entrevista-ana-cadete-pires)

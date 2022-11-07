@@ -50,3 +50,6 @@ Acompanhe o trabalho de Joana Pereira na sua conta de [Twitter](https://twitter.
 
 _O [Big Cat Month](https://www.natgeo.pt/big-cat-month-2021) dá destaque aos grandes felinos ao longo de fevereiro no National Geographic Wild, com programação especial todos os dias do mês._ 
 
+
+
+![source](https://www.natgeo.pt/animais/2021/02/entrevista-joana-pereira-conservacao-da-vida-selvagem)

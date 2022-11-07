@@ -193,3 +193,6 @@ Cresceu em...** Cascais.
 
 _‘ [Na Rota do Tráfico com Mariana van Zeller](https://www.natgeo.pt/video/tv/rota-trafico-com-mariana-van-zeller) ’ estreia dia 13 de fevereiro no National Geographic. Esta entrevista foi editada por motivos de extensão e clareza._ 
 
+
+
+![source](https://www.natgeo.pt/televisao-e-video/2020/10/um-olhar-feminino-sobre-a-rota-do-trafico)

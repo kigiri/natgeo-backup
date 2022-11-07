@@ -57,3 +57,6 @@ Uma vez que o consumo de carne e barbatanas não é muito expressivo, a populaç
 
 _Durante o mês de julho, veja o maior **[Sharkfest](https://www.natgeo.pt/sharkfest-2021)** de sempre, no National Geographic Wild e no Disney+._ 
 
+
+
+![source](https://www.natgeo.pt/animais/2021/07/entrevista-nuno-queiroz-tubarao-anequim-devia-ter-uma-quota-pesca-zero)

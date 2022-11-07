@@ -34,3 +34,5 @@ Para qualquer dúvida ou informação, por favor contacte-nos através de:
 
 ![](img/files_styles_image_00_public_ngsummit1_logosbar_0.png)
 Este conteúdo é-lhe trazido pelo nosso parceiro. Não reflete necessariamente a visão da National Geographic ou da sua equipa editorial. 
+
+![source](https://www.natgeo.pt/national-geographic-summit/2019/03/brian-skerry-a-voz-da-conservacao-marinha)

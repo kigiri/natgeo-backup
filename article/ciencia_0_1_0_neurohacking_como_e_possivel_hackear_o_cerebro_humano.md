@@ -66,3 +66,6 @@ O conhecimento do cérebro humano continua a crescer, mas ainda há muito para s
 
 _Nilson Porto é um neurohacker, que se declara apaixonado pelo estudo da evolução da consciência humana. Com formação em Biomedicina e Neurociência, é também educador e terapeuta cognitivo comportamental especializado em neurohacking. Desenvolveu um programa de democratização de acesso ao conhecimento, ferramentas e estratégias de neurohacking – em língua portuguesa – através do site_ [_holohacking.com_](http://www.holohacking.com/) _e das suas contas nas redes sociais._ 
 
+
+
+![source](https://www.natgeo.pt/ciencia/2021/02/neurohacking-como-e-possivel-hackear-o-cerebro-humano)

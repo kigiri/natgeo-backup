@@ -76,3 +76,6 @@ Mudança é apenas a diferença entre A e B. Estamos sempre a mudar - a mudança
 
 Acho que, antes de mais nada, é muito importante olhar para dentro de nós e fazer esse trabalho de descobrir quem somos. De onde viemos? Depois de compreender isso, podemos ver para onde queremos ir. Para onde queremos ir? Como chegamos lá? Escolha os caminhos que o levam até lá. Sabemos que estamos no caminho certo quando encontramos equilíbrio entre a mente, o corpo, a alma, as ações, os pensamentos, as palavras. Encontramos menos resistência. Quão bonito seria se todos pudéssemos encontrar o nosso caminho? 
 
+
+
+![source](https://www.natgeo.pt/meio-ambiente/2021/03/entrevista-danielle-da-silva)

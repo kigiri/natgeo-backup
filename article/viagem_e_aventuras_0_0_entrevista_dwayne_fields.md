@@ -42,3 +42,5 @@ No meu caso, senti que a paixão pela natureza e o ar livre seria alvo de chacot
 O meu conselho para os jovens é: sê tu próprio. O mundo é um lugar muito melhor se fores tu próprio. Vivemos num planeta lindo. Há uma razão para estares cá. E o mundo é um lugar muito melhor quando és tu próprio. Vais aproveitar melhor a vida. Vais sentir-te mais confiante, mais capaz e vais inspirar mais pessoas se não estiveres a tentar calçar os sapatos de outra pessoa. 
 
 [COMPRAR BILHETE PARA O SUMMIT](https://ticketline.sapo.pt/evento/national-geographic-summit-2022-64007) 
+
+![source](https://www.natgeo.pt/viagem-e-aventuras/2022/05/entrevista-dwayne-fields)

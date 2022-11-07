@@ -25,3 +25,6 @@ Silvério Figueiredo explica que, “devido à intensa bioturbação e à limita
 
 Pelo seu elevado número e pela sua localização inédita, esta descoberta é um importante marco patrimonial da paleontologia portuguesa. 
 
+
+
+![source](https://www.natgeo.pt/ciencia/2022/08/descobertas-mais-pegadas-de-dinossaurios-no-cabo-espichel)

@@ -113,3 +113,5 @@ Se queremos apelar à humanidade pelos nossos trabalhos, temos de ser humanos, a
 ![Imagem do fotógrafo Benjamin Von Wong](img/files_styles_image_00_public_1_1_1010_1_1_11_1_0_n.jpg)](https://www.natgeo.pt/fotografia/benjamin-von-wong-de-engenheiro-de-minas-a-fotografo) [Fotografia](https://www.natgeo.pt/fotografia) 
 ## [Benjamin Von Wong – de Engenheiro de Minas a Fotógrafo](https://www.natgeo.pt/fotografia/benjamin-von-wong-de-engenheiro-de-minas-a-fotografo) [![Fotografia de Matthieu Paley, numa comunidade remota](img/files_styles_image_00_public_mathieu_0palley_0.jpg)](https://www.natgeo.pt/fotografia/2018/09/matthieu-paley-vem-diretamente-de-uma-caravana-em-portugal-para-o-exodus) [Fotografia](https://www.natgeo.pt/fotografia) 
 ## [Matthieu Paley Vem Diretamente de Uma Caravana em Portugal para o Exodus](https://www.natgeo.pt/fotografia/2018/09/matthieu-paley-vem-diretamente-de-uma-caravana-em-portugal-para-o-exodus) 
+
+![source](https://www.natgeo.pt/fotografia/entrevista-a-eduardo-leal-historias-do-fotografo-documental)

@@ -40,3 +40,6 @@ Para implementar o seu plano de transição energética, a EDP pretende duplicar
 
 Este é um conteúdo pago para a EDP. Não reflete necessariamente a visão da National Geographic ou da sua equipa editorial. 
 
+
+
+![source](https://www.natgeo.pt/changing-tomorrow-now/2021/12/estamos-a-viver-decada-decisiva-para-o-planeta)

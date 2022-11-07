@@ -31,3 +31,6 @@ A pandemia veio apenas limitar a nossa disponibilidade de trabalho de campo, em 
 ## **Quais os próximos passos da equipa?** 
 Muito em breve iremos submeter um novo projeto à Fundação para Ciência e Tecnologia (FCT) para obter financiamento para estudar a flora e fauna fóssil das bacias do Bussaco e da Santa Susana, duas regiões que não são investigadas desde as décadas de 1940 e 1950. No geral, o Carbonífero português é ainda pouco estudado, o que poderá abrir novas oportunidades para muitos jovens investigadores que queiram fazer uma carreira em paleontologia em Portugal. 
 
+
+
+![source](https://www.natgeo.pt/ciencia/2021/02/paleontologo-descobre-fossil-com-mais-de-300-milhoes-de-anos-na-bacia-carbonifera-do-douro)

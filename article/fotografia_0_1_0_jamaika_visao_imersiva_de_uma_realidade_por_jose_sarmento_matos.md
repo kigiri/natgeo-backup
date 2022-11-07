@@ -71,3 +71,6 @@ Leia a [entrevista ao fotógrafo documental](https://www.natgeo.pt/fotografia/20
 
 Descubra [como pode concorrer às bolsas da National Geographic Society](https://www.natgeo.pt/ciencia/2019/12/conhece-bolsas-da-national-geographic-society) . 
 
+
+
+![source](https://www.natgeo.pt/fotografia/2021/04/jamaika-visao-imersiva-de-uma-realidade-por-jose-sarmento-matos)

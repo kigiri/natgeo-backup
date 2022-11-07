@@ -117,3 +117,6 @@ O envolvimento natural da região proporciona também o palco ideal para quem pr
 
 O território pretende continuar a destacar-se nos desportos de natureza radicais e aumentar a sua pegada sustentável. Melgaço augura ser o primeiro município nacional com a certificação de Destino Turístico Sustentável, encontrando-se a implementar um plano de ação com vista a concluir o processo ainda em 2021. 
 
+
+
+![source](https://www.natgeo.pt/viagem-e-aventuras/2021/06/7-atividades-no-destino-de-natureza-mais-radical-de-portugal)

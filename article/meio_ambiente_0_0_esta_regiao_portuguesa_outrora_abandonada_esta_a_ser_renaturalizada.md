@@ -39,3 +39,6 @@ A natureza é primorosa e tem capacidade de se regenerar se lhe dermos tempo e l
 
 Descubra como pode [apoiar](https://rewilding-portugal.com/pt/participar/) a Rewilding Portugal e participar nos seus projetos. 
 
+
+
+![source](https://www.natgeo.pt/meio-ambiente/2022/03/esta-regiao-portuguesa-outrora-abandonada-esta-a-ser-renaturalizada)

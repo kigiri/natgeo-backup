@@ -53,3 +53,6 @@ Não consigo responder de uma maneira conclusiva. O projeto investigou e produzi
 
 O projeto ASSISIbf foi financiado pelo programa FET (Future and Emerging Technologies) da União Europeia, durante cinco anos e meio e terminou no final de julho de 2018. O consórcio, constituído por seis parceiros europeus ainda irá publicar resultados dos últimos estudos realizados, que esperamos venham a ter um impacto significativo. Posteriormente devemos estudar possibilidades de submeter outras propostas, que permitam aprofundar a investigação agora realizada. 
 
+
+
+![source](https://www.natgeo.pt/ciencia/2019/04/projeto-com-cunho-portugues-ajuda-abelhas-a-comunicar-com-peixes)

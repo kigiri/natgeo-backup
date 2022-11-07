@@ -62,3 +62,5 @@ Quando se fala em Dubai frequentemente são utilizadas palavras como moderno e l
 Não há nada que satisfaça como o sabor característico das viagens. É difícil trocar o aroma de uma praia nova ou de um quarto de hotel acabado de preparar. Poupamos-lhe a inveja e convidamo-lo a descobrir por si. Afinal, o Dubai está ao virar de muitas esquinas. 
 
 Este conteúdo é-lhe trazido pelo nosso parceiro. Não reflete necessariamente a visão da National Geographic ou da sua equipa editorial. 
+
+![source](https://www.natgeo.pt/viagem-e-aventuras/2021/04/da-quimera-ao-dubai)

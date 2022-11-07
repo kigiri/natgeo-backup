@@ -16,3 +16,6 @@ As fotografias das espécies encontradas ficarão disponíveis na plataforma [Bi
 
 Quinhentos anos depois da viagem de Magalhães, muitos territórios mantêm os nomes atribuídos por quem os assinalou no mapa. O que terá mudado no mundo entre as duas viagens? 
 
+
+
+![source](https://www.natgeo.pt/historia/2020/02/navio-escola-sagres-reedita-viagem-de-fernao-de-magalhaes)

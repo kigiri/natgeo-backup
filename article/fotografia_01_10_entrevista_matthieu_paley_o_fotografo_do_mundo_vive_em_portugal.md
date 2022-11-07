@@ -78,3 +78,6 @@ Gostaria que as pessoas tivessem sensibilidade para o que está a acontecer em e
 
 **O seu melhor conselho para os seus filhos é…** manter sempre o foco no que os motiva, no que os entusiasma e não se desviarem disso. Porque a vida dar-lhes-á oportunidades de fazer algo que talvez profissionalmente lhes dê mais dinheiro, mas – seja qual for a decisão deles – garantam que está conectado com o que querem fazer com a sua vida. Não é fácil, porque têm de se conhecer a si próprios. 
 
+
+
+![source](https://www.natgeo.pt/fotografia/2019/10/entrevista-matthieu-paley-o-fotografo-do-mundo-vive-em-portugal)

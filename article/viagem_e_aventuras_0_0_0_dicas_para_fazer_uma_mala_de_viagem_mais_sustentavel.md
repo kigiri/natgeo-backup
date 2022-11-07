@@ -37,3 +37,6 @@ Lembre-se, para cada momento há uma escolha sustentável!
 
 Este é um conteúdo pago para a Volvo Car Portugal. Não reflete necessariamente a visão da National Geographic ou da sua equipa editorial. 
 
+
+
+![source](https://www.natgeo.pt/viagem-e-aventuras/2022/06/20-dicas-para-fazer-uma-mala-de-viagem-mais-sustentavel)
