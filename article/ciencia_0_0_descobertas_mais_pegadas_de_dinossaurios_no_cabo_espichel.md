@@ -27,4 +27,4 @@ Pelo seu elevado número e pela sua localização inédita, esta descoberta é u
 
 
 
-![source](https://www.natgeo.pt/ciencia/2022/08/descobertas-mais-pegadas-de-dinossaurios-no-cabo-espichel)
+[source](https://www.natgeo.pt/ciencia/2022/08/descobertas-mais-pegadas-de-dinossaurios-no-cabo-espichel)

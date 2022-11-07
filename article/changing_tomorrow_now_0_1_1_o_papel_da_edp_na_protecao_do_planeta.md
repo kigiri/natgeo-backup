@@ -33,4 +33,4 @@ Este é um conteúdo pago para a EDP. Não reflete necessariamente a visão da N
 
 
 
-![source](https://www.natgeo.pt/changing-tomorrow-now/2021/12/o-papel-da-edp-na-protecao-do-planeta)
+[source](https://www.natgeo.pt/changing-tomorrow-now/2021/12/o-papel-da-edp-na-protecao-do-planeta)

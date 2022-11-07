@@ -48,4 +48,4 @@ Cresceu em…** Lisboa
 
 
 
-![source](https://www.natgeo.pt/viagem-e-aventuras/2019/08/entrevista-a-patricia-mamona-a-melhor-atleta-portuguesa-de-triplo-salto)
+[source](https://www.natgeo.pt/viagem-e-aventuras/2019/08/entrevista-a-patricia-mamona-a-melhor-atleta-portuguesa-de-triplo-salto)

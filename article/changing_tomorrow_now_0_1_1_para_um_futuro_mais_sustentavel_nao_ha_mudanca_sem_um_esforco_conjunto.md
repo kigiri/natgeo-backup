@@ -43,4 +43,4 @@ Este é um conteúdo pago para a EDP. Não reflete necessariamente a visão da N
 
 
 
-![source](https://www.natgeo.pt/changing-tomorrow-now/2021/12/para-um-futuro-mais-sustentavel-nao-ha-mudanca-sem-um-esforco-conjunto)
+[source](https://www.natgeo.pt/changing-tomorrow-now/2021/12/para-um-futuro-mais-sustentavel-nao-ha-mudanca-sem-um-esforco-conjunto)

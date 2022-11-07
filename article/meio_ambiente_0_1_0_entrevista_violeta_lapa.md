@@ -66,4 +66,4 @@ _Entrevista atualizada a 24 de fevereiro por forma a incluir mais detalhes numa 
 
 
 
-![source](https://www.natgeo.pt/meio-ambiente/2021/02/entrevista-violeta-lapa)
+[source](https://www.natgeo.pt/meio-ambiente/2021/02/entrevista-violeta-lapa)

@@ -22,4 +22,4 @@ Em breve, a equipa apresentará mais estudos científicos sobre outras novas esp
 
 
 
-![source](https://www.natgeo.pt/ciencia/2019/05/nova-especie-de-planta-fossil-descoberta-na-regiao-do-douro)
+[source](https://www.natgeo.pt/ciencia/2019/05/nova-especie-de-planta-fossil-descoberta-na-regiao-do-douro)

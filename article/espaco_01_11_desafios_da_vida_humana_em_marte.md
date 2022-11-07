@@ -26,4 +26,4 @@ A entrada nas sessões de [Marte 2030](https://www.ccb.pt/Default/pt/Programacao
 
 
 
-![source](https://www.natgeo.pt/espaco/2018/11/7-desafios-da-vida-humana-em-marte)
+[source](https://www.natgeo.pt/espaco/2018/11/7-desafios-da-vida-humana-em-marte)

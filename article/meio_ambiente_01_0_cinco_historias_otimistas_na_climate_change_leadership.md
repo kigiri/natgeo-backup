@@ -22,4 +22,4 @@ A economia global está a adaptar-se a um conjunto de alterações, em que todas
 
 
 
-![source](https://www.natgeo.pt/meio-ambiente/2019/03/cinco-historias-otimistas-na-climate-change-leadership)
+[source](https://www.natgeo.pt/meio-ambiente/2019/03/cinco-historias-otimistas-na-climate-change-leadership)

@@ -71,4 +71,4 @@ _Alex Holder é jornalista freelancer e consultora; escreve para a Elle, Grazia,
 
 
 
-![source](https://www.natgeo.pt/familia/2021/04/como-o-dinheiro-afeta-as-nossas-relacoes-e-dicas-para-poupar)
+[source](https://www.natgeo.pt/familia/2021/04/como-o-dinheiro-afeta-as-nossas-relacoes-e-dicas-para-poupar)

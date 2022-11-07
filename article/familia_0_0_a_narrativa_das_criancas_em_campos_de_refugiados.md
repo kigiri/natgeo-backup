@@ -46,4 +46,4 @@ A investigadora está atualmente à procura de financiamento para voltar a traba
 
 
 
-![source](https://www.natgeo.pt/familia/2022/08/a-narrativa-das-criancas-em-campos-de-refugiados)
+[source](https://www.natgeo.pt/familia/2022/08/a-narrativa-das-criancas-em-campos-de-refugiados)

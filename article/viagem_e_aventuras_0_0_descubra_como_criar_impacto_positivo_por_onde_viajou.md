@@ -43,4 +43,4 @@ Este é um conteúdo pago para a Volvo Car Portugal. Não reflete necessariament
 
 
 
-![source](https://www.natgeo.pt/viagem-e-aventuras/2022/06/descubra-como-criar-impacto-positivo-por-onde-viajou)
+[source](https://www.natgeo.pt/viagem-e-aventuras/2022/06/descubra-como-criar-impacto-positivo-por-onde-viajou)

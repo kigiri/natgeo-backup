@@ -31,4 +31,4 @@ Não perca a sua palestra conjunta no dia 1 de dezembro às 10:00. Até lá, esp
 
 
 
-![source](https://www.natgeo.pt/fotografia/2018/09/mike-e-lilliana-libecki-pai-e-filha-exploram-o-mundo)
+[source](https://www.natgeo.pt/fotografia/2018/09/mike-e-lilliana-libecki-pai-e-filha-exploram-o-mundo)

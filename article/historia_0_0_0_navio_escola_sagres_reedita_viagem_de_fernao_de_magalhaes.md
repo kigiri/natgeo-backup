@@ -18,4 +18,4 @@ Quinhentos anos depois da viagem de Magalhães, muitos territórios mantêm os n
 
 
 
-![source](https://www.natgeo.pt/historia/2020/02/navio-escola-sagres-reedita-viagem-de-fernao-de-magalhaes)
+[source](https://www.natgeo.pt/historia/2020/02/navio-escola-sagres-reedita-viagem-de-fernao-de-magalhaes)

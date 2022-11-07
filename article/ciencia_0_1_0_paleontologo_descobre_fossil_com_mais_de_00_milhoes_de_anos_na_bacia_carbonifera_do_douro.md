@@ -33,4 +33,4 @@ Muito em breve iremos submeter um novo projeto à Fundação para Ciência e Tec
 
 
 
-![source](https://www.natgeo.pt/ciencia/2021/02/paleontologo-descobre-fossil-com-mais-de-300-milhoes-de-anos-na-bacia-carbonifera-do-douro)
+[source](https://www.natgeo.pt/ciencia/2021/02/paleontologo-descobre-fossil-com-mais-de-300-milhoes-de-anos-na-bacia-carbonifera-do-douro)

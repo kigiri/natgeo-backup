@@ -39,4 +39,4 @@ _Entrevista realizada à escritora Trudi Trueit, a 2 de novembro de 2018._
 
 
 
-![source](https://www.natgeo.pt/ciencia/2018/11/entrevista-a-trudi-trueit-autora-da-saga-explorer-academy)
+[source](https://www.natgeo.pt/ciencia/2018/11/entrevista-a-trudi-trueit-autora-da-saga-explorer-academy)

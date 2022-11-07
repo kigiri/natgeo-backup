@@ -30,4 +30,4 @@ O nome específico _sai_ é dado em homenagem a Artur Sá, paleontólogo e docen
 
 
 
-![source](https://www.natgeo.pt/ciencia/2022/06/fossil-de-gafanhoto-primitivo-descoberto-em-sao-pedro-da-cova)
+[source](https://www.natgeo.pt/ciencia/2022/06/fossil-de-gafanhoto-primitivo-descoberto-em-sao-pedro-da-cova)

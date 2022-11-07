@@ -30,4 +30,4 @@ _Este artigo teve os contributos de Raquel Gaspar e Miguel Correia, biólogo do 
 
 
 
-![source](https://www.natgeo.pt/ciencia/2019/12/descoberto-importante-tesouro-natural-no-estuario-do-sado)
+[source](https://www.natgeo.pt/ciencia/2019/12/descoberto-importante-tesouro-natural-no-estuario-do-sado)

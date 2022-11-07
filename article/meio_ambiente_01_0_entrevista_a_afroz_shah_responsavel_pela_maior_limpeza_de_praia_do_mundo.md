@@ -44,4 +44,4 @@ _Esta entrevista foi encurtada por motivos de extensão e clareza._
 
 
 
-![source](https://www.natgeo.pt/meio-ambiente/2019/03/entrevista-a-afroz-shah-responsavel-pela-maior-limpeza-de-praia-do-mundo)
+[source](https://www.natgeo.pt/meio-ambiente/2019/03/entrevista-a-afroz-shah-responsavel-pela-maior-limpeza-de-praia-do-mundo)

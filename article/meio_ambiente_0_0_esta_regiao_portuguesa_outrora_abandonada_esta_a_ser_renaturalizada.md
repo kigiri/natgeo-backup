@@ -41,4 +41,4 @@ Descubra como pode [apoiar](https://rewilding-portugal.com/pt/participar/) a Rew
 
 
 
-![source](https://www.natgeo.pt/meio-ambiente/2022/03/esta-regiao-portuguesa-outrora-abandonada-esta-a-ser-renaturalizada)
+[source](https://www.natgeo.pt/meio-ambiente/2022/03/esta-regiao-portuguesa-outrora-abandonada-esta-a-ser-renaturalizada)

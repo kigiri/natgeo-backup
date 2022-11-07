@@ -57,4 +57,4 @@ _Entrevista realizada a William Albert Allard, a 28 de janeiro de 2019._
 
 
 
-![source](https://www.natgeo.pt/fotografia/2019/01/as-palavras-de-william-albert-allard-o-fotografo-lendario)
+[source](https://www.natgeo.pt/fotografia/2019/01/as-palavras-de-william-albert-allard-o-fotografo-lendario)

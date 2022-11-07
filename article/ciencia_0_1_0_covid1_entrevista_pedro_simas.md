@@ -76,4 +76,4 @@ Oxalá.
 
 
 
-![source](https://www.natgeo.pt/ciencia/2021/02/covid19-entrevista-pedro-simas)
+[source](https://www.natgeo.pt/ciencia/2021/02/covid19-entrevista-pedro-simas)

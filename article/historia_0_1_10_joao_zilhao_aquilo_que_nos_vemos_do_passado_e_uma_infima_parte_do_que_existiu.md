@@ -69,4 +69,4 @@ _Esta entrevista foi editada por motivos de extensão e clareza._
 
 
 
-![source](https://www.natgeo.pt/historia/2021/10/joao-zilhao-aquilo-que-nos-vemos-do-passado-e-uma-infima-parte-do-que-existiu)
+[source](https://www.natgeo.pt/historia/2021/10/joao-zilhao-aquilo-que-nos-vemos-do-passado-e-uma-infima-parte-do-que-existiu)

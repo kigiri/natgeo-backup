@@ -46,4 +46,4 @@ _Nota: Esta roadtrip foi realizada no âmbito no [National Geographic Exodus Ave
 
 
 
-![source](https://www.natgeo.pt/viagem-e-aventuras/2019/12/faca-uma-roadtrip-em-portugal-como-esta)
+[source](https://www.natgeo.pt/viagem-e-aventuras/2019/12/faca-uma-roadtrip-em-portugal-como-esta)

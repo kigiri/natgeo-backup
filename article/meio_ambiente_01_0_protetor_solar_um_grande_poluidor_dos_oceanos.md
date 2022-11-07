@@ -55,4 +55,4 @@ Ao proteger a sua pele de forma consciente, protege os oceanos. Na próxima vez 
 
 Este conteúdo é-lhe trazido pelo nosso parceiro. Não reflete necessariamente a visão da National Geographic ou da sua equipa editorial. 
 
-![source](https://www.natgeo.pt/meio-ambiente/2019/05/protetor-solar-um-grande-poluidor-dos-oceanos)
+[source](https://www.natgeo.pt/meio-ambiente/2019/05/protetor-solar-um-grande-poluidor-dos-oceanos)

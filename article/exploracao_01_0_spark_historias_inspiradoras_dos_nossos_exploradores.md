@@ -147,4 +147,4 @@ A exploração acontece graças a si e **[Por Sua Causa, A Nossa Existe](https:/
 ## [Borge Ousland](https://www.natgeo.pt/video/tv/borge-ousland-explorador-national-geographic) [![](img/files_styles_image_00_public_thumb_1_0.jpg)](https://www.natgeo.pt/video/tv/martin-edstrom-explorador-national-geographic) [A Nossa Causa](https://www.natgeo.pt/a-nossa-causa) 1:00 
 ## [Martin Edström](https://www.natgeo.pt/video/tv/martin-edstrom-explorador-national-geographic) 
 
-![source](https://www.natgeo.pt/exploracao/2019/02/spark-historias-inspiradoras-dos-nossos-exploradores)
+[source](https://www.natgeo.pt/exploracao/2019/02/spark-historias-inspiradoras-dos-nossos-exploradores)

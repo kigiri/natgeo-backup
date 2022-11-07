@@ -55,4 +55,4 @@ _A equipa do Cicada Group na FCUL, à qual Gonçalo Costa pertence, é composta 
 
 
 
-![source](https://www.natgeo.pt/animais/2019/10/goncalo-costa-luta-pela-conservacao-de-cigarras-em-marrocos)
+[source](https://www.natgeo.pt/animais/2019/10/goncalo-costa-luta-pela-conservacao-de-cigarras-em-marrocos)

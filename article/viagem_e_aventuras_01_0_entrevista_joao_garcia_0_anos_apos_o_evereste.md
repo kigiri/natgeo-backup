@@ -49,4 +49,4 @@ Cresceu em…** Lisboa
 
 
 
-![source](https://www.natgeo.pt/viagem-e-aventuras/2019/08/entrevista-joao-garcia-20-anos-apos-o-evereste)
+[source](https://www.natgeo.pt/viagem-e-aventuras/2019/08/entrevista-joao-garcia-20-anos-apos-o-evereste)

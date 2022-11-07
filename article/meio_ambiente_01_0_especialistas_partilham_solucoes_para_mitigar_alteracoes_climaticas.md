@@ -19,4 +19,4 @@ As alterações climáticas constituem, ao mesmo tempo, um desafio e uma oportun
 
 
 
-![source](https://www.natgeo.pt/meio-ambiente/2019/03/especialistas-partilham-solucoes-para-mitigar-alteracoes-climaticas)
+[source](https://www.natgeo.pt/meio-ambiente/2019/03/especialistas-partilham-solucoes-para-mitigar-alteracoes-climaticas)

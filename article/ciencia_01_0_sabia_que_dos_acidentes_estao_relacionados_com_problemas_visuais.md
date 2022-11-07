@@ -69,4 +69,4 @@ Ultrapassa os 20 metros? Se exceder é bom sinal! Caso não ultrapasse ou tiver 
 
 Este conteúdo é-lhe trazido pelo nosso parceiro. Não reflete necessariamente a visão da National Geographic ou da sua equipa editorial. 
 
-![source](https://www.natgeo.pt/ciencia/2019/06/sabia-que-25-dos-acidentes-estao-relacionados-com-problemas-visuais)
+[source](https://www.natgeo.pt/ciencia/2019/06/sabia-que-25-dos-acidentes-estao-relacionados-com-problemas-visuais)

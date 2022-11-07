@@ -195,4 +195,4 @@ _‘ [Na Rota do Tráfico com Mariana van Zeller](https://www.natgeo.pt/video/tv
 
 
 
-![source](https://www.natgeo.pt/televisao-e-video/2020/10/um-olhar-feminino-sobre-a-rota-do-trafico)
+[source](https://www.natgeo.pt/televisao-e-video/2020/10/um-olhar-feminino-sobre-a-rota-do-trafico)

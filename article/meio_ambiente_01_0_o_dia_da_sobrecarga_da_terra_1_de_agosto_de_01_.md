@@ -17,4 +17,4 @@ Se nada for alterado, em 2019, o Planeta Terra vai esgotar a sua regeneração n
 
 
 
-![source](https://www.natgeo.pt/meio-ambiente/2018/08/o-dia-da-sobrecarga-da-terra-1-de-agosto-de-2018)
+[source](https://www.natgeo.pt/meio-ambiente/2018/08/o-dia-da-sobrecarga-da-terra-1-de-agosto-de-2018)

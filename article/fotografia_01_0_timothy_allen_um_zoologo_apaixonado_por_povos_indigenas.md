@@ -25,4 +25,4 @@ Siga as páginas de [Instagram](https://www.instagram.com/Timothy_Allen/) e [Fac
 
 
 
-![source](https://www.natgeo.pt/fotografia/2018/08/timothy-allen-um-zoologo-apaixonado-por-povos-indigenas)
+[source](https://www.natgeo.pt/fotografia/2018/08/timothy-allen-um-zoologo-apaixonado-por-povos-indigenas)

@@ -23,4 +23,4 @@ A cerimónia dos óscares acontece na madrugada de 9 para 10 de fevereiro e em P
 
 
 
-![source](https://www.natgeo.pt/historia/2020/01/the-cave-chega-ao-national-geographic-antes-dos-oscares)
+[source](https://www.natgeo.pt/historia/2020/01/the-cave-chega-ao-national-geographic-antes-dos-oscares)

@@ -62,4 +62,4 @@ Os materiais portugueses e espanhóis de _Tiaracrinus_ encontram-se arquivados n
 
 
 
-![source](https://www.natgeo.pt/ciencia/2020/07/paleontologos-portugueses-descobrem-fossil-bizarro-de-crinoide-na-peninsula-iberica)
+[source](https://www.natgeo.pt/ciencia/2020/07/paleontologos-portugueses-descobrem-fossil-bizarro-de-crinoide-na-peninsula-iberica)

@@ -54,4 +54,4 @@ Este é um conteúdo pago para a IKEA. Não reflete necessariamente a visão da 
 
 
 
-![source](https://www.natgeo.pt/meio-ambiente/2021/10/10-dicas-para-reduzir-o-desperdicio-alimentar-em-casa)
+[source](https://www.natgeo.pt/meio-ambiente/2021/10/10-dicas-para-reduzir-o-desperdicio-alimentar-em-casa)

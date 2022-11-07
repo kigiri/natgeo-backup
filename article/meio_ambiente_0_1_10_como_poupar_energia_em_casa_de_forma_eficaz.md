@@ -56,4 +56,4 @@ Ao adotar hábitos simples como estes pode ajudar a conservar alguns dos recurso
 
 
 
-![source](https://www.natgeo.pt/meio-ambiente/2021/10/como-poupar-energia-em-casa-de-forma-eficaz)
+[source](https://www.natgeo.pt/meio-ambiente/2021/10/como-poupar-energia-em-casa-de-forma-eficaz)

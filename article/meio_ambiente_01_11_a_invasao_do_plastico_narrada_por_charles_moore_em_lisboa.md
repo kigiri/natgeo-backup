@@ -23,4 +23,4 @@ Charles Moore durante a sua palestra no Dia Nacional do Mar, na Biblioteca da Fa
 
 
 
-![source](https://www.natgeo.pt/meio-ambiente/2018/11/a-invasao-do-plastico-narrada-por-charles-moore-em-lisboa)
+[source](https://www.natgeo.pt/meio-ambiente/2018/11/a-invasao-do-plastico-narrada-por-charles-moore-em-lisboa)

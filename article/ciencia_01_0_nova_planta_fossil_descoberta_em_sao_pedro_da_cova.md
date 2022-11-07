@@ -21,4 +21,4 @@ Imagens dos trabalhos de escavação realizados em 2010, com anotações sobre o
 
 
 
-![source](https://www.natgeo.pt/ciencia/2018/09/nova-planta-fossil-descoberta-em-sao-pedro-da-cova)
+[source](https://www.natgeo.pt/ciencia/2018/09/nova-planta-fossil-descoberta-em-sao-pedro-da-cova)

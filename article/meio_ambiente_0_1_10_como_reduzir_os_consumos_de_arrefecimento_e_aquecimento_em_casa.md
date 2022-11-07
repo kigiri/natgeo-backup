@@ -46,4 +46,4 @@ Mesmo que implemente apenas algumas destas dicas, ao reduzir o consumo energéti
 
 
 
-![source](https://www.natgeo.pt/meio-ambiente/2021/10/como-reduzir-os-consumos-de-arrefecimento-e-aquecimento-em-casa)
+[source](https://www.natgeo.pt/meio-ambiente/2021/10/como-reduzir-os-consumos-de-arrefecimento-e-aquecimento-em-casa)

@@ -119,4 +119,4 @@ O território pretende continuar a destacar-se nos desportos de natureza radicai
 
 
 
-![source](https://www.natgeo.pt/viagem-e-aventuras/2021/06/7-atividades-no-destino-de-natureza-mais-radical-de-portugal)
+[source](https://www.natgeo.pt/viagem-e-aventuras/2021/06/7-atividades-no-destino-de-natureza-mais-radical-de-portugal)

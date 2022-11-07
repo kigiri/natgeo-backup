@@ -58,4 +58,4 @@ _Pedro Correia é investigador doutorado no Instituto das Ciências da Terra da 
 
 
 
-![source](https://www.natgeo.pt/ciencia/2020/05/cientistas-portugueses-e-canadianos-revelam-como-supercontinente-pangeia-se-formou)
+[source](https://www.natgeo.pt/ciencia/2020/05/cientistas-portugueses-e-canadianos-revelam-como-supercontinente-pangeia-se-formou)

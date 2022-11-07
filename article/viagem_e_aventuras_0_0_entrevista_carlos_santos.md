@@ -91,4 +91,4 @@ Pode acompanhar as aventuras de Carlos Santos na sua conta de [Instagram](http:/
 
 
 
-![source](https://www.natgeo.pt/viagem-e-aventuras/2022/09/entrevista-carlos-santos)
+[source](https://www.natgeo.pt/viagem-e-aventuras/2022/09/entrevista-carlos-santos)

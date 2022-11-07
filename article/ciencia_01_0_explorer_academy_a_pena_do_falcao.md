@@ -22,4 +22,4 @@ Leia a **[entrevista à autora](https://www.natgeo.pt/ciencia/2018/11/entrevista
 
 
 
-![source](https://www.natgeo.pt/ciencia/2019/04/explorer-academy-a-pena-do-falcao)
+[source](https://www.natgeo.pt/ciencia/2019/04/explorer-academy-a-pena-do-falcao)

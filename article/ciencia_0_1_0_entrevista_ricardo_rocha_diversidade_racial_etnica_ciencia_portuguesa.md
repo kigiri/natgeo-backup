@@ -67,4 +67,4 @@ _Ricardo Rocha possui uma bolsa da National Geographic Society desde 2020. Acomp
 
 
 
-![source](https://www.natgeo.pt/ciencia/2021/09/entrevista-ricardo-rocha-diversidade-racial-etnica-ciencia-portuguesa)
+[source](https://www.natgeo.pt/ciencia/2021/09/entrevista-ricardo-rocha-diversidade-racial-etnica-ciencia-portuguesa)

@@ -59,4 +59,4 @@ _Durante o mês de julho, veja o maior **[Sharkfest](https://www.natgeo.pt/shark
 
 
 
-![source](https://www.natgeo.pt/animais/2021/07/entrevista-nuno-queiroz-tubarao-anequim-devia-ter-uma-quota-pesca-zero)
+[source](https://www.natgeo.pt/animais/2021/07/entrevista-nuno-queiroz-tubarao-anequim-devia-ter-uma-quota-pesca-zero)

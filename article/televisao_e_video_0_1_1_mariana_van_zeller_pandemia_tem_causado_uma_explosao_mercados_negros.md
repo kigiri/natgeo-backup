@@ -155,4 +155,4 @@ Não perca a estreia de "Na Rota do Tráfico com Mariana van Zeller", dia 18 de 
 
 
 
-![source](https://www.natgeo.pt/televisao-e-video/2021/12/mariana-van-zeller-pandemia-tem-causado-uma-explosao-mercados-negros)
+[source](https://www.natgeo.pt/televisao-e-video/2021/12/mariana-van-zeller-pandemia-tem-causado-uma-explosao-mercados-negros)

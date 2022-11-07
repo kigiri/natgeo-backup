@@ -52,4 +52,4 @@ _O [Big Cat Month](https://www.natgeo.pt/big-cat-month-2021) dá destaque aos gr
 
 
 
-![source](https://www.natgeo.pt/animais/2021/02/entrevista-joana-pereira-conservacao-da-vida-selvagem)
+[source](https://www.natgeo.pt/animais/2021/02/entrevista-joana-pereira-conservacao-da-vida-selvagem)

@@ -42,4 +42,4 @@ Este é um conteúdo pago para a EDP. Não reflete necessariamente a visão da N
 
 
 
-![source](https://www.natgeo.pt/changing-tomorrow-now/2021/12/estamos-a-viver-decada-decisiva-para-o-planeta)
+[source](https://www.natgeo.pt/changing-tomorrow-now/2021/12/estamos-a-viver-decada-decisiva-para-o-planeta)

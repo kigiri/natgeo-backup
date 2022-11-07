@@ -23,4 +23,4 @@ Yann Arthus-Bertrand é a Personalidade do Ano [Exodus](https://www.natgeo.pt/ex
 
 
 
-![source](https://www.natgeo.pt/fotografia/2018/11/yann-arthus-bertrand-e-a-personalidade-exodus-2018-e-vem-a-portugal)
+[source](https://www.natgeo.pt/fotografia/2018/11/yann-arthus-bertrand-e-a-personalidade-exodus-2018-e-vem-a-portugal)

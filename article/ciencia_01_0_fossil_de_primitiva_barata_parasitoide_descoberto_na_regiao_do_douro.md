@@ -26,4 +26,4 @@ _Pedro Correia é investigador doutorado no Instituto das Ciências da Terra da 
 
 
 
-![source](https://www.natgeo.pt/ciencia/2019/09/fossil-de-primitiva-barata-parasitoide-descoberto-na-regiao-do-douro)
+[source](https://www.natgeo.pt/ciencia/2019/09/fossil-de-primitiva-barata-parasitoide-descoberto-na-regiao-do-douro)

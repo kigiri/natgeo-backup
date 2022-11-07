@@ -76,4 +76,4 @@ _Esta entrevista foi encurtada por motivos editoriais._
 
 
 
-![source](https://www.natgeo.pt/ciencia/2020/02/entrevista-a-zita-martins-a-primeira-astrobiologa-portuguesa)
+[source](https://www.natgeo.pt/ciencia/2020/02/entrevista-a-zita-martins-a-primeira-astrobiologa-portuguesa)

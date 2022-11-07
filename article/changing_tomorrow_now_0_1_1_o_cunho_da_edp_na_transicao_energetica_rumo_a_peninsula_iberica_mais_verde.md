@@ -31,4 +31,4 @@ Este é um conteúdo pago para a EDP. Não reflete necessariamente a visão da N
 
 
 
-![source](https://www.natgeo.pt/changing-tomorrow-now/2021/12/o-cunho-da-edp-na-transicao-energetica-rumo-a-peninsula-iberica-mais-verde)
+[source](https://www.natgeo.pt/changing-tomorrow-now/2021/12/o-cunho-da-edp-na-transicao-energetica-rumo-a-peninsula-iberica-mais-verde)

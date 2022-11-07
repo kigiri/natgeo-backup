@@ -114,7 +114,7 @@ for (const [filename, content] of data) {
     .replace(/[ ]+/g, ' ')
     .replaceAll('\n ', '\n')
     .replace(/\n[\n]+/g, '\n\n')
-    + `\n\n![source](https://www.natgeo.pt/${names[filename]})`
+    + `\n\n[source](https://www.natgeo.pt/${names[filename]})`
 
   await writeFile('article/'+filename.slice(0, -4) + 'md', flatten, 'utf8')
 }

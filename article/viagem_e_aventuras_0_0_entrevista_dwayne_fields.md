@@ -43,4 +43,4 @@ O meu conselho para os jovens é: sê tu próprio. O mundo é um lugar muito mel
 
 [COMPRAR BILHETE PARA O SUMMIT](https://ticketline.sapo.pt/evento/national-geographic-summit-2022-64007) 
 
-![source](https://www.natgeo.pt/viagem-e-aventuras/2022/05/entrevista-dwayne-fields)
+[source](https://www.natgeo.pt/viagem-e-aventuras/2022/05/entrevista-dwayne-fields)

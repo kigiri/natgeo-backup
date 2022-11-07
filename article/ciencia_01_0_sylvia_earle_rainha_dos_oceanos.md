@@ -35,4 +35,4 @@ Leia a [entrevista à exploradora](https://www.natgeo.pt/national-geographic-sum
 
 
 
-![source](https://www.natgeo.pt/ciencia/2018/08/sylvia-earle-rainha-dos-oceanos)
+[source](https://www.natgeo.pt/ciencia/2018/08/sylvia-earle-rainha-dos-oceanos)

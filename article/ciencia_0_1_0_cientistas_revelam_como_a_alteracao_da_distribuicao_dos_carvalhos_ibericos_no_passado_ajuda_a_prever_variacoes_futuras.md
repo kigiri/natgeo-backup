@@ -38,4 +38,4 @@ _Carlos Vila-Viçosa é estudante de Doutoramento e investigador no Centro de In
 
 
 
-![source](https://www.natgeo.pt/ciencia/2021/08/cientistas-revelam-como-a-alteracao-da-distribuicao-dos-carvalhos-ibericos-no-passado-ajuda-a-prever-variacoes-futuras)
+[source](https://www.natgeo.pt/ciencia/2021/08/cientistas-revelam-como-a-alteracao-da-distribuicao-dos-carvalhos-ibericos-no-passado-ajuda-a-prever-variacoes-futuras)

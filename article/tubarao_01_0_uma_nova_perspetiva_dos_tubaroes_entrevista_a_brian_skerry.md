@@ -49,4 +49,4 @@ _Entrevista realizada a Brian Skerry, a 28 de abril de 2019_
 
 
 
-![source](https://www.natgeo.pt/tubarao/2019/05/uma-nova-perspetiva-dos-tubaroes-entrevista-a-brian-skerry)
+[source](https://www.natgeo.pt/tubarao/2019/05/uma-nova-perspetiva-dos-tubaroes-entrevista-a-brian-skerry)

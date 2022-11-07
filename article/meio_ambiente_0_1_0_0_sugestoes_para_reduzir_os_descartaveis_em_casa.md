@@ -65,4 +65,4 @@ Este é um conteúdo pago para a IKEA. Não reflete necessariamente a visão da 
 
 
 
-![source](https://www.natgeo.pt/meio-ambiente/2021/09/20-sugestoes-para-reduzir-os-descartaveis-em-casa)
+[source](https://www.natgeo.pt/meio-ambiente/2021/09/20-sugestoes-para-reduzir-os-descartaveis-em-casa)

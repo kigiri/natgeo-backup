@@ -61,4 +61,4 @@ Há quem diga que o medo é o maior inimigo do homem. Se viajar estiver em causa
 
 
 
-![source](https://www.natgeo.pt/viagem-e-aventuras/2019/08/como-ultrapassar-a-hodofobia-o-medo-de-viajar)
+[source](https://www.natgeo.pt/viagem-e-aventuras/2019/08/como-ultrapassar-a-hodofobia-o-medo-de-viajar)

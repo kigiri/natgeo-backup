@@ -49,4 +49,4 @@ Que as pessoas comecem a pensar e a ver a natureza e as pessoas juntas, não ape
 
 [COMPRAR BILHETE PARA O SUMMIT](https://ticketline.sapo.pt/evento/national-geographic-summit-2022-64007) 
 
-![source](https://www.natgeo.pt/ciencia/2022/05/entrevista-dominique-goncalves)
+[source](https://www.natgeo.pt/ciencia/2022/05/entrevista-dominique-goncalves)

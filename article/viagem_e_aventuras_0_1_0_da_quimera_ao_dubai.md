@@ -63,4 +63,4 @@ Não há nada que satisfaça como o sabor característico das viagens. É difíc
 
 Este conteúdo é-lhe trazido pelo nosso parceiro. Não reflete necessariamente a visão da National Geographic ou da sua equipa editorial. 
 
-![source](https://www.natgeo.pt/viagem-e-aventuras/2021/04/da-quimera-ao-dubai)
+[source](https://www.natgeo.pt/viagem-e-aventuras/2021/04/da-quimera-ao-dubai)

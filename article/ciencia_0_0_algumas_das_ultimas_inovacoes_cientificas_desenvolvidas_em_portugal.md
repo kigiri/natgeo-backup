@@ -91,4 +91,4 @@ A pandemia de COVID-19 trouxe novos desafios, mas permitiu acelerar várias fren
 
 
 
-![source](https://www.natgeo.pt/ciencia/2022/08/algumas-das-ultimas-inovacoes-cientificas-desenvolvidas-em-portugal)
+[source](https://www.natgeo.pt/ciencia/2022/08/algumas-das-ultimas-inovacoes-cientificas-desenvolvidas-em-portugal)

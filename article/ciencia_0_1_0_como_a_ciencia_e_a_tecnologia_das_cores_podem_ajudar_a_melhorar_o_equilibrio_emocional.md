@@ -156,4 +156,4 @@ Enquanto terminava de escrever este artigo, olhei para a janela e vi um arco-ír
 
 
 
-![source](https://www.natgeo.pt/ciencia/2021/09/como-a-ciencia-e-a-tecnologia-das-cores-podem-ajudar-a-melhorar-o-equilibrio-emocional)
+[source](https://www.natgeo.pt/ciencia/2021/09/como-a-ciencia-e-a-tecnologia-das-cores-podem-ajudar-a-melhorar-o-equilibrio-emocional)

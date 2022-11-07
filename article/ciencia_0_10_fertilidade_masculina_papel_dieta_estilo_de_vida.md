@@ -85,4 +85,4 @@ Para ter acesso a mais informação, o investigador convida-o a seguir o [The En
 
 
 
-![source](https://www.natgeo.pt/ciencia/2022/10/fertilidade-masculina-papel-dieta-estilo-de-vida)
+[source](https://www.natgeo.pt/ciencia/2022/10/fertilidade-masculina-papel-dieta-estilo-de-vida)

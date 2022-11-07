@@ -33,4 +33,4 @@ Esta foi, sem dúvida, uma das grandes descobertas da paleontologia. O investiga
 
 
 
-![source](https://www.natgeo.pt/ciencia/2022/07/origem-do-sangue-quente-nos-mamiferos-descoberta-por-ricardo-araujo)
+[source](https://www.natgeo.pt/ciencia/2022/07/origem-do-sangue-quente-nos-mamiferos-descoberta-por-ricardo-araujo)
